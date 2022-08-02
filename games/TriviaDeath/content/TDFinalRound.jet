@@ -10439,7 +10439,7 @@
         {
             "x": false,
             "id": 35690,
-            "text": "<i>Coca-Cola<\/i>Marken",
+            "text": "<i>Coca-Cola<\/i>-Marken",
             "choices": [
                 {
                     "correct": true,
