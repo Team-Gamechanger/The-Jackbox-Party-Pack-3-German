@@ -1441,7 +1441,7 @@
         {
             "x": false,
             "id": 41662,
-            "text": "Wasserpokemon",
+            "text": "Wasserpokémon",
             "choices": [
                 {
                     "correct": true,
@@ -3433,7 +3433,7 @@
                     "easy": false
                 },
                 {
-                    "correct": true,
+                    "correct": false,
                     "text": "47",
                     "easy": false
                 },
@@ -4043,12 +4043,7 @@
                 },
                 {
                     "correct": true,
-                    "text": "<i>Ist das ein Witz?: Kommt ein Literaturkritiker zum Arzt ...<\/i>",
-                    "easy": false
-                },
-                {
-                    "correct": true,
-                    "text": "<i>Wunder wirken Wunder: Wie Medizin und Magie uns heilen<\/i>",
+                    "text": "<i>Wunderheiler<\/i>",
                     "easy": false
                 },
                 {
@@ -4069,6 +4064,11 @@
                 {
                     "correct": false,
                     "text": "<i>Endlich<\/i>",
+                    "easy": false
+                },
+                {
+                    "correct": false,
+                    "text": "<i>Heilen mit Pilzen<\/i>",
                     "easy": false
                 }
             ]
@@ -4772,7 +4772,7 @@
         {
             "x": false,
             "id": 35985,
-            "text": "Comedians bei mindestens einer Folge <i>Genial Daneben<\/i> bis 2011",
+            "text": "Comedians bei <i>Genial Daneben<\/i> bis 2011",
             "choices": [
                 {
                     "correct": true,
@@ -5813,7 +5813,7 @@
         {
             "x": false,
             "id": 35957,
-            "text": "Elementarteilchen",
+            "text": "Elementar-\nteilchen",
             "choices": [
                 {
                     "correct": true,
@@ -6474,7 +6474,7 @@
                 },
                 {
                     "correct": false,
-                    "text": "Die Nazis",
+                    "text": "Prince-zilla",
                     "easy": false
                 },
                 {
@@ -7161,22 +7161,22 @@
         {
             "x": false,
             "id": 35864,
-            "text": "Fleischfressende Dinosaurier",
+            "text": "Fleischfressen-\nde Dinosaurier",
             "choices": [
                 {
                     "correct": true,
                     "text": "Deinonychus",
-                    "easy": false
+                    "easy": true
                 },
                 {
                     "correct": true,
                     "text": "Megalosaurus",
-                    "easy": false
+                    "easy": true
                 },
                 {
                     "correct": true,
                     "text": "Oviraptor",
-                    "easy": false
+                    "easy": true
                 },
                 {
                     "correct": true,
@@ -7555,22 +7555,22 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "Bohne",
+                    "text": "Bohnen",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Linse",
+                    "text": "Linsen",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Erbse",
+                    "text": "Erbsen",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Erdnuss",
+                    "text": "Erdnüsse",
                     "easy": false
                 },
                 {
@@ -7590,7 +7590,7 @@
                 },
                 {
                     "correct": false,
-                    "text": "Rosine",
+                    "text": "Rosinen",
                     "easy": false
                 },
                 {
@@ -7600,12 +7600,12 @@
                 },
                 {
                     "correct": false,
-                    "text": "Sesamkorn",
+                    "text": "Sesamkörner",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Rübe",
+                    "text": "Rüben",
                     "easy": false
                 },
                 {
@@ -9020,7 +9020,7 @@
         {
             "x": false,
             "id": 35787,
-            "text": "Literaturepochen",
+            "text": "Literatur-\nepochen",
             "choices": [
                 {
                     "correct": true,
@@ -9368,7 +9368,7 @@
         {
             "x": false,
             "id": 35742,
-            "text": "Holzblasinstrumente",
+            "text": "Holzblas-\ninstrumente",
             "choices": [
                 {
                     "correct": true,
@@ -10705,7 +10705,7 @@
         {
             "x": false,
             "id": 35682,
-            "text": "Unter den sieben häufigsten Buchstaben in der deutschen Sprache",
+            "text": "Sieben häufigste Buchstaben in der deutschen Sprache",
             "choices": [
                 {
                     "correct": true,
@@ -11361,7 +11361,7 @@
         {
             "x": false,
             "id": 35657,
-            "text": "Schacheröffnungen",
+            "text": "Schach-\neröffnungen",
             "choices": [
                 {
                     "correct": true,
@@ -13158,7 +13158,7 @@
         {
             "x": false,
             "id": 35467,
-            "text": "Verkehrsminister",
+            "text": "Verkehrsminis-\nter",
             "choices": [
                 {
                     "correct": true,
