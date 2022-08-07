@@ -1768,21 +1768,21 @@
         {
             "x": false,
             "id": 38886,
-            "text": "Wie lautet der Titel eines Gemäldes von Vincent van Gogh?",
+            "text": "Welches Gemälde stammt NICHT von Vincent van Gogh?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Reiche schwarze Katze wartet auf den einsamen Tod<\/i>"
+                    "text": "<i>Das Gelbe Haus<\/i>"
                 },
                 {
-                    "text": "<i>Gespenst, das im nassen Gras liegt<\/i>"
+                    "text": "<i>Schädel mit brennender Zigarette<\/i>"
                 },
                 {
-                    "text": "<i>Die Hexe, die Fledermaus, die Krähe und etwas Mais<\/i>"
+                    "text": "<i>Selbstbildnis mit dunklem Filzhut an der Staffelei<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Schädel mit brennender Zigarette<\/i>"
+                    "text": "<i>Die Hexe, die Fledermaus, die Krähe und etwas Mais<\/i>"
                 }
             ]
         },
@@ -3973,7 +3973,7 @@
         {
             "x": false,
             "id": 38285,
-            "text": "Wie viele Figuzren gibt es im Spiel <i>Lotti Karotti<\/i>?",
+            "text": "Wie viele Figuren gibt es im Spiel <i>Lotti Karotti<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -4897,7 +4897,7 @@
         {
             "x": false,
             "id": 38224,
-            "text": "Auf welchen Philosophen ist das Zitat \u201cIch weiß, dass ich nichts weiß\u201d?",
+            "text": "Auf welchen Philosophen ist das Zitat \u201cIch weiß, dass ich nichts weiß\u201d zurückzuführen?",
             "pic": false,
             "choices": [
                 {
@@ -4960,84 +4960,84 @@
         {
             "x": false,
             "id": 38220,
-            "text": "Welchen Anfangsbuchstaben hatten die ersten 3 Frauen des Talkshow Moderators Johnny Carson?",
+            "text": "Was ist laut dem Meister im Werbespot KEIN Grund, weshalb die <i>Deutschländer<\/i> eigentlich <i>Deutschländer<\/i> heißen?",
             "pic": false,
             "choices": [
                 {
-                    "text": "I"
+                    "text": "Sie sind zart wie Bockwürste"
                 },
                 {
                     "correct": true,
-                    "text": "J"
+                    "text": "Sie sind kräftig wie Nürnberger"
                 },
                 {
-                    "text": "K"
+                    "text": "Sie sind knackig wie Wiener"
                 },
                 {
-                    "text": "L"
+                    "text": "Sie sind würzig wie Frankfurter"
                 }
             ]
         },
         {
             "x": false,
             "id": 38218,
-            "text": "Ein Primat namens Plumploris entsendet ein tödliches Gift von dessen\u2026",
+            "text": "Was ist KEIN Song von <i>Bernd dem Brot<\/i>? ",
             "pic": false,
             "choices": [
                 {
-                    "text": "Füßen"
+                    "text": "Ich sage NEIN"
                 },
                 {
-                    "text": "Ohren"
+                    "text": "Bernds Balkon"
                 },
                 {
-                    "text": "Augen"
+                    "text": "Tanzt das Brot"
                 },
                 {
                     "correct": true,
-                    "text": "Ellbogen"
+                    "text": "Ich bin ein Brot"
                 }
             ]
         },
         {
             "x": false,
             "id": 38217,
-            "text": "Wie heißt die Chemikalie, die meinen Urin seltsam riechen lässt?",
+            "text": "Wie heißt die Einheit für die Stärke eines Geruchs?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Apfelsäure"
+                    "text": "Morb"
                 },
                 {
-                    "text": "Askorbinsäure"
+                    "text": "Es gibt keine Einheit dafür."
                 },
                 {
-                    "text": "Milchsäure"
+                    "text": "Allysendrium"
                 },
                 {
                     "correct": true,
-                    "text": "Asparagusinsäure"
+                    "text": "Olf"
                 }
             ]
         },
         {
             "x": false,
             "id": 38215,
-            "text": "Wofür steht das \u201cJ\u201d in J.Crew?",
+            "text": "Welches Land hat kein \u201cDreiländereck\u201d?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Jorin"
+                    "text": "Spanien"
                 },
                 {
-                    "text": "Jeremy"
+                    "text": "Norwegen"
                 },
                 {
-                    "text": "Jackson"
+                    "text": "Griechenland"
                 },
                 {
                     "correct": true,
-                    "text": "nichts"
+                    "text": "Dänemark"
                 }
             ]
         },
@@ -5065,14 +5065,14 @@
         {
             "x": false,
             "id": 38212,
-            "text": "Wer stellte sich als die Mutter in der CBS Sitcom <i>How I Met Your Mother<\/i> heraus?",
+            "text": "Wer stellte sich in der Sitcom <i>How I Met Your Mother<\/i> als die Mutter heraus?",
             "pic": false,
             "choices": [
                 {
                     "text": "Victoria"
                 },
                 {
-                    "text": "Karen"
+                    "text": "Robin"
                 },
                 {
                     "correct": true,
@@ -5086,105 +5086,105 @@
         {
             "x": false,
             "id": 38211,
-            "text": "Welche der folgenden Früchte befindet sich NICHT in kleiner Form in einer Box von Runts Candy?",
+            "text": "Welche dieser Sorten befindet sich NICHT in einer Standard-<i>Skittles<\/i>-Tüte?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Banane"
+                    "text": "Johannisbeere"
                 },
                 {
                     "correct": true,
-                    "text": "Zitrone"
+                    "text": "Apfel"
                 },
                 {
-                    "text": "Grenadier"
+                    "text": "Limette"
                 },
                 {
-                    "text": "Erdbeer"
+                    "text": "Erdbeere"
                 }
             ]
         },
         {
             "x": false,
             "id": 38210,
-            "text": "Wer an Familiäre Dysautonomie leidet, kann nicht\u2026",
+            "text": "Wer an Algophobie leidet, hat chronische Angst vor...",
             "pic": false,
             "choices": [
                 {
-                    "text": "Speichel produzieren"
+                    "text": "Mundgeruch"
                 },
                 {
-                    "text": "furzen"
+                    "text": "Computerviren"
                 },
                 {
-                    "text": "Zähne ausbilden"
+                    "text": "der Zahl 13"
                 },
                 {
                     "correct": true,
-                    "text": "Schmerz empfinden"
+                    "text": "Schmerzen"
                 }
             ]
         },
         {
             "x": false,
             "id": 38209,
-            "text": "Die Schlüsselzutat für Root Beer kommt von der Wurzel welcher Pflanze?",
+            "text": "Welcher Pflanze ist die Schlüsselzutat für Gin?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Sassafras"
-                },
-                {
-                    "text": "Ingwer"
-                },
-                {
-                    "text": "Agave"
-                },
-                {
                     "text": "Wacholder"
+                },
+                {
+                    "text": "Gerste"
+                },
+                {
+                    "text": "Zuckerrohr"
+                },
+                {
+                    "text": "Traube"
                 }
             ]
         },
         {
             "x": false,
             "id": 38208,
-            "text": "Cassius Marcellus Coolidge\u2019s Bild <i>A Friend in Need<\/i>  beinhaltet\u2026",
+            "text": "Wer war nochmal dieser coole Hauptantagonist in <i>JoJo's Bizarre Adventure - Part 1<\/i>",
             "pic": false,
             "choices": [
                 {
-                    "text": "schmelzende Uhren"
+                    "text": "Rudol von Stroheim"
                 },
                 {
-                    "text": "einen Mann mit Apfelgesicht"
+                    "text": "Robert E. O. Speedwagon"
                 },
                 {
-                    "text": "eine Suppendose"
+                    "text": "Yoshikage Kira"
                 },
                 {
                     "correct": true,
-                    "text": "Poker spielende Hunde"
+                    "text": "Dio Brando"
                 }
             ]
         },
         {
             "x": false,
             "id": 38207,
-            "text": "Wann wurde \u201ctwerk\u201d ins Oxford English Dictionary aufgenommen?!",
+            "text": "Warte, \u201cgoogeln\u201d wurde WANN in den Duden aufgenommen?!",
             "pic": false,
             "choices": [
                 {
                     "text": "2012"
                 },
                 {
-                    "text": "2013"
+                    "text": "1994"
                 },
                 {
-                    "text": "2014"
+                    "text": "2000"
                 },
                 {
                     "correct": true,
-                    "text": "2015"
+                    "text": "2004"
                 }
             ]
         },
@@ -5212,21 +5212,21 @@
         {
             "x": false,
             "id": 38205,
-            "text": "Pluto ist zwar kein Planet mehr, aber in der römischen Mythologie ist er der Gott\u2026",
+            "text": "Was ist Nyx?",
             "pic": false,
             "choices": [
                 {
-                    "text": "der Strafe"
+                    "text": "Ein Pokémon"
                 },
                 {
-                    "text": "der Nacht"
-                },
-                {
-                    "text": "des Krieges"
+                    "text": "Ein Mond von Pluto"
                 },
                 {
                     "correct": true,
-                    "text": "der Unterwelt"
+                    "text": "Die Göttin der Nacht"
+                },
+                {
+                    "text": "Du hast dich nur verschrieben."
                 }
             ]
         },
@@ -5275,21 +5275,21 @@
         {
             "x": false,
             "id": 38202,
-            "text": "Sir John A. Macdonald war der erste Premierminister von\u2026",
+            "text": "Éamon de Valera war der erste Premierminister von\u2026",
             "pic": false,
             "choices": [
                 {
                     "text": "Dänemark"
                 },
                 {
-                    "text": "Nordirland"
+                    "text": "Lichtenstein"
                 },
                 {
                     "correct": true,
-                    "text": "Kanada"
+                    "text": "Irland"
                 },
                 {
-                    "text": "Schottland"
+                    "text": "Frankreich"
                 }
             ]
         },
@@ -5338,42 +5338,42 @@
         {
             "x": false,
             "id": 38194,
-            "text": "Jamal\u2019s Wissen über welches Buch machte ihn zum Gewinner in <i>Slumdog Millionär<\/i> ?",
+            "text": "Welchen Namen hat das zweite Level im Spieleklassiker <i>Super Mario 64<\/i> ?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Der Mann in der eisernen Maske<\/i>"
+                    "text": "<i>Bob-Ombs Bombenberg<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Die drei Musketiere<\/i>"
+                    "text": "<i>Wummps Wuchtwall<\/i>"
                 },
                 {
-                    "text": "<i>Robinson Crusoe<\/i>"
+                    "text": "<i>Atlantis Aquaria<\/i>"
                 },
                 {
-                    "text": "<i>Die Abenteuer des Robin Hood<\/i>"
+                    "text": "<i>Tick Tack Trauma<\/i>"
                 }
             ]
         },
         {
             "x": false,
             "id": 38193,
-            "text": "Welcher Teil von Voltron\u2019s Körper wird Lance McClain\u2019s Roter Löwe, als das Team die mächtigen Roboter-Krieger formt?",
+            "text": "Als was wurde Coca-Cola ursprünglich verkauft?",
             "pic": false,
             "choices": [
                 {
-                    "text": "linker Arm"
+                    "text": "als Bratöl"
                 },
                 {
                     "correct": true,
-                    "text": "rechter Arm"
+                    "text": "als Mittel gegen Kopfschmerzen"
                 },
                 {
-                    "text": "linkes Bein"
+                    "text": "als Desinfektionsmittel"
                 },
                 {
-                    "text": "rechtes Bein"
+                    "text": "als Morphium"
                 }
             ]
         },
@@ -5422,21 +5422,21 @@
         {
             "x": false,
             "id": 38181,
-            "text": "David Duchovny und TÃ©a Leoni haben einem Kind welchen ungewöhnlichen Namen gegeben?",
+            "text": "Wie viele Oliven brauche ich, wenn eich ein Liter Olivenöl haben will?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Coco"
+                    "text": "mindestens einen 3 kilo Eimer"
                 },
                 {
-                    "text": "Apple"
+                    "text": "mindestens 2 Hände voll"
                 },
                 {
-                    "text": "Pilot Inspektor"
+                    "text": "mindestens eine 1,5 Liter Flasche voll"
                 },
                 {
                     "correct": true,
-                    "text": "Kyd"
+                    "text": "mindestens 111 Stück"
                 }
             ]
         },
@@ -5464,7 +5464,7 @@
         {
             "x": false,
             "id": 40798,
-            "text": "Welches Tier ist auf dem Boden?",
+            "text": "Welches Tier war auf dem Boden?",
             "pic": true,
             "choices": [
                 {
@@ -5569,7 +5569,7 @@
         {
             "x": false,
             "id": 40529,
-            "text": "Was ist das Ergebnis des Tic-Tac-Toe Spiels im Bild?",
+            "text": "Was war das Ergebnis des Tic-Tac-Toe Spiels im Bild?",
             "pic": true,
             "choices": [
                 {
@@ -5632,7 +5632,7 @@
         {
             "x": false,
             "id": 40526,
-            "text": "Was trägt die Ziege im Bild?",
+            "text": "Was trugt die Ziege im Bild?",
             "pic": true,
             "choices": [
                 {
@@ -5653,7 +5653,7 @@
         {
             "x": false,
             "id": 40525,
-            "text": "Welche Nummer taucht nur einmal im Bild auf?",
+            "text": "Welche Nummer tauchte nur einmal im Bild auf?",
             "pic": true,
             "choices": [
                 {
@@ -5674,7 +5674,7 @@
         {
             "x": false,
             "id": 39841,
-            "text": "Wie viele Sterne waren da?",
+            "text": "Wie viele Sterne waren zu sehen?",
             "pic": true,
             "choices": [
                 {
@@ -5716,7 +5716,7 @@
         {
             "x": false,
             "id": 39834,
-            "text": "Wie viele Enten waren da?",
+            "text": "Wie viele Enten waren im Bild?",
             "pic": true,
             "choices": [
                 {
@@ -5737,7 +5737,7 @@
         {
             "x": false,
             "id": 39833,
-            "text": "Welche Vogelart ruht zu meiner Linken auf dem Datum?",
+            "text": "Welche Vogelart ruhte auf der Dame zu meiner Linken?",
             "pic": true,
             "choices": [
                 {
@@ -5884,7 +5884,7 @@
         {
             "x": false,
             "id": 38158,
-            "text": "Welche Zeit zeigt die Kuckucksuhr?",
+            "text": "Welche Zeit zeigte die Kuckucksuhr?",
             "pic": true,
             "choices": [
                 {
@@ -5926,49 +5926,49 @@
         {
             "x": false,
             "id": 38164,
-            "text": "Wen heiratete Blake Lively 2012?",
+            "text": "Welcher Show hat Steven Gätjen eigentlich noch NICHT moderiert?!",
             "pic": false,
             "choices": [
                 {
-                    "text": "Gerard Butler"
+                    "text": "<i>taff<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "Ryan Reynolds"
+                    "text": "<i>Mein Mann Kann<\/i>"
                 },
                 {
-                    "text": "Bradley Cooper"
+                    "text": "<i>Sorry für alles<\/i>"
                 },
                 {
-                    "text": "Jude Law"
+                    "text": "<i>Bares für Rares<\/i>"
                 }
             ]
         },
         {
             "x": false,
             "id": 38148,
-            "text": "Auf welcher Position spielt Rosie O\u2019Donnell\u2019s Charakter in <i>Eine Klasse für sich<\/i> ?",
+            "text": "Wie hoch war die höchste jemals erzielte Verkaufssumme in <i>Bares für Rares<\/i>?",
             "pic": false,
             "choices": [
                 {
-                    "text": "pitcher"
+                    "text": "36.500€"
                 },
                 {
-                    "text": "shortstop"
+                    "text": "55.555€"
                 },
                 {
-                    "text": "2nd base"
+                    "text": "86.340€"
                 },
                 {
                     "correct": true,
-                    "text": "3rd base"
+                    "text": "42.080€"
                 }
             ]
         },
         {
             "x": false,
             "id": 38143,
-            "text": "<i>High School Musical<\/i>  kam in welchem Jahr heraus?!",
+            "text": "<i>High School Musical<\/i> kam in WELCHEM Jahr heraus?!",
             "pic": false,
             "choices": [
                 {
@@ -5989,63 +5989,63 @@
         {
             "x": false,
             "id": 38139,
-            "text": "Wie nennt man im Englischen einen kleinen süßen Hasen?",
+            "text": "Wie nennt man ein Hasen-Weibchen?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Squab"
+                    "text": "Ricke"
                 },
                 {
                     "correct": true,
-                    "text": "Kit"
+                    "text": "Zibbe"
                 },
                 {
-                    "text": "Pup"
+                    "text": "Rogner"
                 },
                 {
-                    "text": "Gosling"
+                    "text": "Aue"
                 }
             ]
         },
         {
             "x": false,
             "id": 38138,
-            "text": "Von was fällt Michelle Tanner im Serienfinale von <i>Full House<\/i>  herunter?",
+            "text": "Wie heißt das Titellied der Originalen <i>Mr. Bean<\/i>Serie?",
             "pic": false,
             "choices": [
                 {
-                    "text": "einer Leiter"
+                    "text": "Timeo Faciem"
                 },
                 {
-                    "text": "einem Motorrad"
+                    "text": "Qui est Faba"
                 },
                 {
-                    "text": "einem Gebäude"
+                    "text": "Iocus Domine"
                 },
                 {
                     "correct": true,
-                    "text": "einem Pferd"
+                    "text": "Ecce Homo"
                 }
             ]
         },
         {
             "x": false,
             "id": 38102,
-            "text": "Welche Show findet auf dem Satellite of Love statt?",
+            "text": "Wem haben wir bitte die <i>Familie Heinz Becker<\/i> zu verdanken?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Futurama<\/i>"
+                    "text": "den verdammten Bayern!"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Mystery Science Theater 3000<\/i>"
+                    "text": "den verdammten Saarländern!"
                 },
                 {
-                    "text": "<i>Rick and Morty<\/i>"
+                    "text": "den verdammten Brandenburgern!"
                 },
                 {
-                    "text": "<i>The Venture Bros.<\/i>"
+                    "text": "den verdammten Österreichern!"
                 }
             ]
         },
