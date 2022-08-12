@@ -6052,21 +6052,21 @@
         {
             "x": false,
             "id": 38096,
-            "text": "Welcher Film beinhaltet das <i>Handbuch für kürzlich Verstorbene<\/i> ?",
+            "text": "Wann wurde weltweit zum erstem mal künstliches Gelächter ausgestrahlt?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>ParaNorman<\/i>"
+                    "text": "am 11. Januar 1972 um 23:00 Uhr"
                 },
                 {
-                    "text": "<i>Ghost<\/i>"
+                    "text": "am 10. Juli 1963 um 20:00 Uhr"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Beetlejuice<\/i>"
+                    "text": "am 9. September 1950 um 19:00 Uhr"
                 },
                 {
-                    "text": "<i>Evil Dead<\/i>"
+                    "text": "am 8. November 1946 um 21:00 Uhr"
                 }
             ]
         },
@@ -6094,21 +6094,21 @@
         {
             "x": false,
             "id": 38094,
-            "text": "Wie viele Klötze kommen in eine Box von Jenga?",
+            "text": "Aus wie vielen Klötzen besteht üblicherweise das Spiel <i>Jenga<\/i>?",
             "pic": false,
             "choices": [
                 {
-                    "text": "24"
+                    "text": "50"
                 },
                 {
-                    "text": "34"
+                    "text": "40"
                 },
                 {
-                    "text": "44"
+                    "text": "70"
                 },
                 {
                     "correct": true,
-                    "text": "54"
+                    "text": "60"
                 }
             ]
         },
@@ -6136,42 +6136,42 @@
         {
             "x": false,
             "id": 38086,
-            "text": "Was stellt Vandelay Industries her?",
+            "text": "Welches dieser Tiere gibt es wirklich im Amazonas?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Suppe"
+                    "text": "Rote Eulen"
                 },
                 {
-                    "text": "BHs für Männer"
+                    "text": "Grüne Nilpferde"
                 },
                 {
-                    "text": "Kleber für Umschläge"
+                    "text": "Blaue Nasenbären"
                 },
                 {
                     "correct": true,
-                    "text": "Latex"
+                    "text": "Rosa Delfine"
                 }
             ]
         },
         {
             "x": false,
             "id": 38085,
-            "text": "Wie lang ist der Appalachen-Weg?",
+            "text": "Wie lang ist der Nord-Süd-Trail?",
             "pic": false,
             "choices": [
                 {
-                    "text": "1000 km"
+                    "text": "4331 km"
                 },
                 {
-                    "text": "2000 km"
+                    "text": "2713 km"
                 },
                 {
                     "correct": true,
-                    "text": "3500 km"
+                    "text": "3382 km"
                 },
                 {
-                    "text": "7000 km"
+                    "text": "1874 km"
                 }
             ]
         },
@@ -6199,60 +6199,60 @@
         {
             "x": false,
             "id": 38077,
-            "text": "Welches dieser Alben von Radiohead wurde zuletzt veröffentlicht?",
+            "text": "Wie viele Strophen hat die Nationalhymne von Griechenland?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Amnesiac<\/i>"
+                    "text": "2"
                 },
                 {
-                    "text": "<i>Ok Computer<\/i>"
+                    "text": "5"
                 },
                 {
-                    "text": "<i>Kid A<\/i>"
+                    "text": "12"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Hail to the Thief<\/i>"
+                    "text": "158"
                 }
             ]
         },
         {
             "x": false,
             "id": 38075,
-            "text": "Welches von diesen ist KEIN Kommando im originalen <i>Bop It<\/i>  Spiel?",
+            "text": "Welches von diesen ist KEIN Kommando im originalen <i>Bop It<\/i> Spiel?",
             "pic": false,
             "choices": [
                 {
-                    "text": "\u201cshout it!\u201d"
+                    "text": "Schreien"
                 },
                 {
                     "correct": true,
-                    "text": "\u201cslap it!\u201d"
+                    "text": "Drücken"
                 },
                 {
-                    "text": "\u201cpull it!\u201d"
+                    "text": "Klopfen"
                 },
                 {
-                    "text": "\u201ctwist it!\u201d"
+                    "text": "Drehen"
                 }
             ]
         },
         {
             "x": false,
             "id": 38072,
-            "text": "Was ist der Name des ältesten Balgs in <i>Family Circus<\/i> ?",
+            "text": "Was ist Donald Duck's zweiter Vorname?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Jeffy"
+                    "text": "William"
                 },
                 {
-                    "text": "P.J."
+                    "text": "Gallagher"
                 },
                 {
                     "correct": true,
-                    "text": "Billy"
+                    "text": "Fauntleroy"
                 },
                 {
                     "text": "Dolly"
@@ -6262,21 +6262,21 @@
         {
             "x": false,
             "id": 38070,
-            "text": "In welcher deutschen Stadt findet jedes Jahr das Oktoberfest statt?",
+            "text": "Wie nennt man diese Vertiefungen, die Golfbälle immer haben",
             "pic": false,
             "choices": [
                 {
-                    "text": "Frankfurt"
+                    "text": "Socket"
                 },
                 {
                     "correct": true,
-                    "text": "München"
+                    "text": "Dimple"
                 },
                 {
-                    "text": "Hamburg"
+                    "text": "Hovel"
                 },
                 {
-                    "text": "Berlin"
+                    "text": "Die haben keinen Namen."
                 }
             ]
         },
@@ -6325,63 +6325,63 @@
         {
             "x": false,
             "id": 38067,
-            "text": "Was ist Casper the Friendly Ghost\u2019s Nachname?",
+            "text": "Welcher ist KEINER von Snoopys Geschwisten?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Smith"
+                    "text": "Molly"
                 },
                 {
                     "correct": true,
-                    "text": "McFadden"
+                    "text": "Sammy"
                 },
                 {
-                    "text": "Jenkins"
+                    "text": "Spike"
                 },
                 {
-                    "text": "Borowitz"
+                    "text": "Olaf"
                 }
             ]
         },
         {
             "x": false,
             "id": 38066,
-            "text": "Welcher dieser Spieler hat in <i>Space Jam<\/i> sein Talent für Basketball NICHT gestohlen?",
+            "text": "Wie viele der 140 <i>Tour de France<\/i>-Fahrer 1913 schafften es ins Ziel?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Larry Bird"
+                    "text": "25"
                 },
                 {
-                    "text": "Charles Barkley"
+                    "text": "129"
                 },
                 {
-                    "text": "Muggsy Bogues"
+                    "text": "3"
                 },
                 {
-                    "text": "Shawn Bradley"
+                    "text": "keiner"
                 }
             ]
         },
         {
             "x": false,
             "id": 38027,
-            "text": "Was ist ohne Ausnahmegenehmigung die höchste Nummer, die ein NFL Quarterback tragen kann?",
+            "text": "Was ist Tixo?",
             "pic": false,
             "choices": [
                 {
-                    "text": "9"
+                    "text": "Vietnamesisches Twitter"
                 },
                 {
                     "correct": true,
-                    "text": "19"
+                    "text": "Österreichisches Tesa"
                 },
                 {
-                    "text": "29"
+                    "text": "Japanisches Twix"
                 },
                 {
-                    "text": "39"
+                    "text": "Dänisches Tic-Tac"
                 }
             ]
         },
@@ -6430,7 +6430,7 @@
         {
             "x": false,
             "id": 38015,
-            "text": "Wer wurde 2014 Fußballweltmeister?",
+            "text": "Wer wurde 2010 Fußballweltmeister?",
             "pic": false,
             "choices": [
                 {
@@ -6441,7 +6441,7 @@
                 },
                 {
                     "correct": true,
-                    "text": "Deutschland"
+                    "text": "Spanien"
                 },
                 {
                     "text": "Frankreich"
@@ -6451,21 +6451,21 @@
         {
             "x": false,
             "id": 38013,
-            "text": "In welcher Abteilung arbeitet Dilbert?",
+            "text": "Welchen Job hat Brösels Comicfigur <i>Werner<\/i>?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Marketing"
+                    "text": "Elektriker"
                 },
                 {
                     "correct": true,
-                    "text": "Ingenieurwesen"
+                    "text": "Installateur"
                 },
                 {
-                    "text": "Abrechnung"
+                    "text": "Maurer"
                 },
                 {
-                    "text": "Humankapital"
+                    "text": "Automechaniker"
                 }
             ]
         },
@@ -6493,21 +6493,21 @@
         {
             "x": false,
             "id": 38003,
-            "text": "Welche Müsli-Sorte verkauft Chex nicht?",
+            "text": "Welche Müsli-Sorte verkauft Kellogg's nicht?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Chex Corn"
+                    "text": "Smacks"
                 },
                 {
                     "correct": true,
-                    "text": "Chex Oats"
+                    "text": "Clusters"
                 },
                 {
-                    "text": "Chex Wheat"
+                    "text": "Froot Loops"
                 },
                 {
-                    "text": "Chex Rice"
+                    "text": "Zimmys"
                 }
             ]
         },
@@ -6539,87 +6539,87 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "deiner PATELLAR Sehne"
+                    "text": "meiner Patellarsehne"
                 },
                 {
-                    "text": "deiner ACHILLES Sehne"
+                    "text": "meiner Achillessehne"
                 },
                 {
                     "correct": true,
-                    "text": "deinem RADIUS Gelenk"
+                    "text": "meinem Radiusgelenk"
                 },
                 {
-                    "text": "deinem VORDEREN KREUZBAND"
+                    "text": "meinem vorderen Kreuzband"
                 }
             ]
         },
         {
             "x": false,
             "id": 37992,
-            "text": "Was ist der Par für 18 Löcher bei den Masters?",
+            "text": "Wie viele PS hat ein Pferd?",
             "pic": false,
             "choices": [
                 {
-                    "text": "70"
+                    "text": "1"
                 },
                 {
                     "correct": true,
-                    "text": "72"
+                    "text": "24"
                 },
                 {
-                    "text": "75"
+                    "text": "7,5"
                 },
                 {
-                    "text": "82"
+                    "text": "18"
                 }
             ]
         },
         {
             "x": false,
             "id": 37935,
-            "text": "Was ist auf dem Fahrrad das richtige Zeichen zum Rechtsabbiegen?",
+            "text": "Wie heißt die s-förmige Öffnung einer Geige",
             "pic": false,
             "choices": [
                 {
-                    "text": "linker Arm ausgestreckt"
+                    "text": "c-Loch"
                 },
                 {
-                    "text": "linker Arm nach unten gebeugt"
+                    "text": "g-Loch"
                 },
                 {
-                    "text": "rechter Arm nach unten gebeugt"
+                    "text": "s-Loch"
                 },
                 {
                     "correct": true,
-                    "text": "linker Arm 90 Grad nach oben"
+                    "text": "f-Loch"
                 }
             ]
         },
         {
             "x": false,
             "id": 37933,
-            "text": "Was ist laut cuteness.com der beliebteste Name für eine Katze?",
+            "text": "Was ist laut checkforpet.de der beliebteste Name für eine Katze 2022?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Kitty"
+                    "text": "Lucy"
                 },
                 {
                     "correct": true,
-                    "text": "Bella"
+                    "text": "Luna"
                 },
                 {
-                    "text": "Angel"
+                    "text": "Minka"
                 },
                 {
-                    "text": "Shelly"
+                    "text": "Mimi"
                 }
             ]
         },
         {
             "x": false,
             "id": 37928,
-            "text": "Welche 3 Nachkommastellen folgen bei Pi auf 3,14?",
+            "text": "Welche 3 Nachkommastellen folgen bei Pi auf 3,141?",
             "pic": false,
             "choices": [
                 {
@@ -6633,28 +6633,28 @@
                 },
                 {
                     "correct": true,
-                    "text": "159"
+                    "text": "529"
                 }
             ]
         },
         {
             "x": false,
             "id": 37927,
-            "text": "Wie viele Unzen sind in einem Big Gulp?",
+            "text": "Wenn du ein ausgemusterter Geldschein wärst, in wie viele Schnipsel müsste ich dich zerhäckseln?",
             "pic": false,
             "choices": [
                 {
-                    "text": "16"
+                    "text": "genau 1000"
                 },
                 {
-                    "text": "24"
+                    "text": "genau 624"
                 },
                 {
                     "correct": true,
-                    "text": "32"
+                    "text": "genau 800"
                 },
                 {
-                    "text": "44"
+                    "text": "genau 1370"
                 }
             ]
         },
@@ -6777,7 +6777,7 @@
                     "text": "Budapest"
                 },
                 {
-                    "text": "Helsinki"
+                    "text": "Berlin"
                 },
                 {
                     "text": "Bukarest"
@@ -6787,21 +6787,21 @@
         {
             "x": false,
             "id": 37886,
-            "text": "Welcher dieser Berufe spezialisiert sich auf Blut abnehmen?",
+            "text": "Welcher dieser Bereiche befasst sich mit Blutgefäßen?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Optometrist"
+                    "text": "Entomologie"
                 },
                 {
-                    "text": "Lithotomist"
+                    "text": "Lithologie"
                 },
                 {
                     "correct": true,
-                    "text": "Phlebotomist"
+                    "text": "Angiologie"
                 },
                 {
-                    "text": "Optimist"
+                    "text": "Japanologie"
                 }
             ]
         },
