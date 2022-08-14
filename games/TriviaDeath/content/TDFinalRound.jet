@@ -969,76 +969,76 @@
         {
             "x": false,
             "id": 36232,
-            "text": "Open-Source-Projekte",
+            "text": "Worte, die nicht \u201eUnheil\u201e sind",
             "choices": [
                 {
                     "correct": true,
-                    "text": "Linux",
+                    "text": "Ungeil",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Firefox",
+                    "text": "Häh?",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "VLC Media Player",
+                    "text": "Unheilig",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Blender",
+                    "text": "Uneinig",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Chromium",
+                    "text": "Weile",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Stellarium",
+                    "text": "Zeile",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Gimp",
-                    "easy": false
-                },
-                {
-                    "correct": true,
-                    "text": "Audacity",
-                    "easy": false
-                },
-                {
-                    "correct": true,
-                    "text": "Wordpress",
+                    "text": "Meile",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Google Chrome",
+                    "text": "Unheil",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Minecraft",
+                    "text": "Unheil",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Steam",
+                    "text": "Unheil",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Discord",
+                    "text": "Unheil",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Skype",
+                    "text": "Unheil",
+                    "easy": false
+                },
+                {
+                    "correct": false,
+                    "text": "Unheil",
+                    "easy": false
+                },
+                {
+                    "correct": false,
+                    "text": "Unheil",
                     "easy": false
                 }
             ]
@@ -1441,7 +1441,7 @@
         {
             "x": false,
             "id": 41662,
-            "text": "Wasserpokémon",
+            "text": "Wasserpokemon",
             "choices": [
                 {
                     "correct": true,
@@ -2785,82 +2785,82 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "\u201eYou\u2019re My Heart, You\u2019re My Soul\u201c",
+                    "text": "You\u2019re My Heart, You\u2019re My Soul",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "\u201eYou Can Win If You Want\u201c",
+                    "text": "You Can Win If You Want",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "\u201eCheri Cheri Lady\u201c",
+                    "text": "Cheri Cheri Lady",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "\u201eBrother Louie\u201c",
+                    "text": "Brother Louie",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "\u201eAtlantis Is Calling (S.O.S. For Love)\u201c",
+                    "text": "Atlantis Is Calling (S.O.S. For Love)",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "\u201eGeronimo\u2019s Cadillac\u201c",
+                    "text": "Geronimo\u2019s Cadillac",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "\u201eWin the Race\u201c",
+                    "text": "Win the Race",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "\u201eReady for the Victory\u201c",
+                    "text": "Ready for the Victory",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "\u201eJoJo Action\u201c",
+                    "text": "JoJo Action",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "\u201eRhythm Is a Dancer\u201c",
+                    "text": "Rhythm Is a Dancer",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "\u201eIt\u2019s My Life\u201c",
+                    "text": "It\u2019s My Life",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "\u201eWhat Is Love\u201c",
+                    "text": "What Is Love",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "\u201eI Was Made for Lovin\u2019 You\u201c",
+                    "text": "I Was Made for Lovin\u2019 You",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "\u201eNessaja\u201c",
+                    "text": "Nessaja",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "\u201eMaria (I Like It Loud)\u201c",
+                    "text": "Maria (I Like It Loud)",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "\u201eSuavemente\u201c",
+                    "text": "Suavemente",
                     "easy": false
                 }
             ]
@@ -3433,7 +3433,7 @@
                     "easy": false
                 },
                 {
-                    "correct": false,
+                    "correct": true,
                     "text": "47",
                     "easy": false
                 },
@@ -3559,101 +3559,81 @@
         {
             "x": false,
             "id": 36103,
-            "text": "Teile eines Flugzeugs",
+            "text": "Mittagessen",
             "choices": [
                 {
                     "correct": true,
-                    "text": "Propeller",
+                    "text": "Pizza Hawaii",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Motor",
+                    "text": "Mini-Hot-Dogs",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Querruder",
+                    "text": "Senfkrustenbraten",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Höhenflosse",
+                    "text": "Pizza mit extra Käse",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Höhenruder",
+                    "text": "Geschnetzeltes Stroganoff",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Hilfsruder",
+                    "text": "Chili con Carne mit Feta",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Tragfläche",
+                    "text": "Kalbstafelspitz",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Vorflügel",
+                    "text": "Gazpacho-Nudeln mit Ei-Brösel",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Landeklappe",
+                    "text": "Super leckere Schoko-Bananen-Pancakes",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Randkappe",
+                    "text": "Hühnchen-Pizza",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Rumpf",
+                    "text": "Gefüllte Paprika mit Bulgur und Hack",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Hauptfahrwerk",
+                    "text": "Feigen-Trauben-Salat mit gebratenen Wachteln",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Bugrad",
-                    "easy": false
-                },
-                {
-                    "correct": false,
-                    "text": "Nebenfahrwerk",
+                    "text": "Maronen-Semmelknödel mit gebratenen Tomaten",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Becken",
+                    "text": "Roggen-Gnocchi mit Kürbissauce",
                     "easy": false
                 },
                 {
-                    "correct": false,
-                    "text": "Hinterflügel",
-                    "easy": false
-                },
-                {
-                    "correct": false,
-                    "text": "Tiefenruder",
-                    "easy": false
-                },
-                {
-                    "correct": false,
-                    "text": "Fallfläche",
-                    "easy": false
-                },
-                {
-                    "correct": false,
-                    "text": "Propellerdreh-inator",
+                    "correct": true,
+                    "text": "Doppelte Pommes Mayo mit Currywurst",
                     "easy": false
                 }
             ]
@@ -4043,7 +4023,12 @@
                 },
                 {
                     "correct": true,
-                    "text": "<i>Wunderheiler<\/i>",
+                    "text": "<i>Ist das ein Witz?: Kommt ein Literaturkritiker zum Arzt ...<\/i>",
+                    "easy": false
+                },
+                {
+                    "correct": true,
+                    "text": "<i>Wunder wirken Wunder: Wie Medizin und Magie uns heilen<\/i>",
                     "easy": false
                 },
                 {
@@ -4064,11 +4049,6 @@
                 {
                     "correct": false,
                     "text": "<i>Endlich<\/i>",
-                    "easy": false
-                },
-                {
-                    "correct": false,
-                    "text": "<i>Heilen mit Pilzen<\/i>",
                     "easy": false
                 }
             ]
@@ -4772,7 +4752,7 @@
         {
             "x": false,
             "id": 35985,
-            "text": "Comedians bei <i>Genial Daneben<\/i> bis 2011",
+            "text": "Comedians bei mindestens einer Folge <i>Genial Daneben<\/i> bis 2011",
             "choices": [
                 {
                     "correct": true,
@@ -5813,7 +5793,7 @@
         {
             "x": false,
             "id": 35957,
-            "text": "Elementar-\nteilchen",
+            "text": "Elementarteilchen",
             "choices": [
                 {
                     "correct": true,
@@ -6474,7 +6454,7 @@
                 },
                 {
                     "correct": false,
-                    "text": "Prince-zilla",
+                    "text": "Die Nazis",
                     "easy": false
                 },
                 {
@@ -7161,22 +7141,22 @@
         {
             "x": false,
             "id": 35864,
-            "text": "Fleischfressen-\nde Dinosaurier",
+            "text": "Fleischfressende Dinosaurier",
             "choices": [
                 {
                     "correct": true,
                     "text": "Deinonychus",
-                    "easy": true
+                    "easy": false
                 },
                 {
                     "correct": true,
                     "text": "Megalosaurus",
-                    "easy": true
+                    "easy": false
                 },
                 {
                     "correct": true,
                     "text": "Oviraptor",
-                    "easy": true
+                    "easy": false
                 },
                 {
                     "correct": true,
@@ -7555,22 +7535,22 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "Bohnen",
+                    "text": "Bohne",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Linsen",
+                    "text": "Linse",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Erbsen",
+                    "text": "Erbse",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Erdnüsse",
+                    "text": "Erdnuss",
                     "easy": false
                 },
                 {
@@ -7590,7 +7570,7 @@
                 },
                 {
                     "correct": false,
-                    "text": "Rosinen",
+                    "text": "Rosine",
                     "easy": false
                 },
                 {
@@ -7600,12 +7580,12 @@
                 },
                 {
                     "correct": false,
-                    "text": "Sesamkörner",
+                    "text": "Sesamkorn",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Rüben",
+                    "text": "Rübe",
                     "easy": false
                 },
                 {
@@ -9020,7 +9000,7 @@
         {
             "x": false,
             "id": 35787,
-            "text": "Literatur-\nepochen",
+            "text": "Literaturepochen",
             "choices": [
                 {
                     "correct": true,
@@ -9368,7 +9348,7 @@
         {
             "x": false,
             "id": 35742,
-            "text": "Holzblas-\ninstrumente",
+            "text": "Holzblasinstrumente",
             "choices": [
                 {
                     "correct": true,
@@ -10439,7 +10419,7 @@
         {
             "x": false,
             "id": 35690,
-            "text": "<i>Coca-Cola<\/i>-Marken",
+            "text": "<i>Coca-Cola<\/i>Marken",
             "choices": [
                 {
                     "correct": true,
@@ -10580,7 +10560,7 @@
                 },
                 {
                     "correct": true,
-                    "text": "<i>I Don\u2019t Feel Hate<\/i>",
+                    "text": "<i>I Don\u2019 Feel Hate<\/i>",
                     "easy": false
                 },
                 {
@@ -10616,11 +10596,6 @@
                 {
                     "correct": false,
                     "text": "<i>Santa Maria<\/i>",
-                    "easy": false
-                },
-                {
-                    "correct": false,
-                    "text": "<i>Sonderzug nach Pankow<\/i>",
                     "easy": false
                 }
             ]
@@ -10705,7 +10680,7 @@
         {
             "x": false,
             "id": 35682,
-            "text": "Sieben häufigste Buchstaben in der deutschen Sprache",
+            "text": "Unter den sieben häufigsten Buchstaben in der deutschen Sprache",
             "choices": [
                 {
                     "correct": true,
@@ -10841,7 +10816,7 @@
                 },
                 {
                     "correct": false,
-                    "text": "Dunk",
+                    "text": "Duke University",
                     "easy": false
                 },
                 {
@@ -10861,7 +10836,7 @@
                 },
                 {
                     "correct": false,
-                    "text": "Northwestern",
+                    "text": "Northwestern University",
                     "easy": false
                 },
                 {
@@ -11361,11 +11336,11 @@
         {
             "x": false,
             "id": 35657,
-            "text": "Schach-\neröffnungen",
+            "text": "Schacheröffnungen",
             "choices": [
                 {
                     "correct": true,
-                    "text": "Sizilianische Verteidigung",
+                    "text": "Sizilanische Verteidigung",
                     "easy": false
                 },
                 {
@@ -11425,7 +11400,7 @@
                 },
                 {
                     "correct": false,
-                    "text": "Slowakische Verteidigung",
+                    "text": "Slowakische Verteidigung mit Abzugsschach",
                     "easy": false
                 },
                 {
@@ -13158,7 +13133,7 @@
         {
             "x": false,
             "id": 35467,
-            "text": "Verkehrsminis-\nter",
+            "text": "Verkehrsminister",
             "choices": [
                 {
                     "correct": true,
