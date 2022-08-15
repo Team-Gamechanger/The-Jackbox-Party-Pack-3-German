@@ -6262,7 +6262,7 @@
         {
             "x": false,
             "id": 38070,
-            "text": "Wie nennt man diese Vertiefungen, die Golfbälle immer haben",
+            "text": "Wie nennt man diese Vertiefungen, die Golfbälle immer haben?",
             "pic": false,
             "choices": [
                 {
@@ -6577,7 +6577,7 @@
         {
             "x": false,
             "id": 37935,
-            "text": "Wie heißt die s-förmige Öffnung einer Geige",
+            "text": "Wie heißt die s-förmige Öffnung einer Geige?",
             "pic": false,
             "choices": [
                 {
@@ -6633,7 +6633,7 @@
                 },
                 {
                     "correct": true,
-                    "text": "529"
+                    "text": "592"
                 }
             ]
         },
@@ -6829,84 +6829,84 @@
         {
             "x": false,
             "id": 37842,
-            "text": "Welches Tier zerquetscht laut dem Raffi Song \u201cWilloughby Wallaby Woo\u201d Kinder?",
+            "text": "Wen soll der Karo-König in einem Skatblatt darstellen?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Bär"
+                    "text": "Alexander der Große"
                 },
                 {
                     "correct": true,
-                    "text": "Elefant"
+                    "text": "Julius Caesar"
                 },
                 {
-                    "text": "Nashorn"
+                    "text": "Karl der Große"
                 },
                 {
-                    "text": "Giraffe"
+                    "text": "David"
                 }
             ]
         },
         {
             "x": false,
             "id": 37838,
-            "text": "Wer ist ein dummer Goose?",
+            "text": "Wer veröffentlichte den ersten deutsprachigen Rap-Song?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Val Kilmer"
+                    "text": "Frank Elstner"
                 },
                 {
-                    "text": "Tim Robbins"
+                    "text": "Doris Rosenstein"
                 },
                 {
-                    "text": "Tom Cruise"
+                    "text": "Die Toten Hosen"
                 },
                 {
                     "correct": true,
-                    "text": "Anthony Edwards"
+                    "text": "Thomas Gottschalk"
                 }
             ]
         },
         {
             "x": false,
             "id": 37836,
-            "text": "\u201cNicht die Mama!\u201d ist ein Schlagwort aus welcher 90er-Jahre Sitcom?",
+            "text": "Was ist Berta's Spitzname für die Mietnormade Alan Harper in <i>Two and a Half Men<\/i>?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Eine starke Familie<\/i>"
+                    "text": "Püppi"
                 },
                 {
-                    "text": "<i>Full House<\/i>"
+                    "text": "Versager"
                 },
                 {
-                    "text": "<i>Alle unter einem Dach<\/i>"
+                    "text": "Wuppi"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Die Dinos<\/i>"
+                    "text": "Sippi"
                 }
             ]
         },
         {
             "x": false,
             "id": 37833,
-            "text": "Was ist der Titel eines Kid Rock Songs?",
+            "text": "Was ist KEIN Titel eines Helge Schneider Songs?",
             "pic": false,
             "choices": [
                 {
-                    "text": "\u201cBhawhitdaba\u201d"
+                    "text": "Offenes Hemd"
                 },
                 {
-                    "text": "\u201cBawatdaba\u201d"
+                    "text": "Katzeklo"
                 },
                 {
-                    "text": "\u201cBawitdabba\u201d"
+                    "text": "Käsebrot"
                 },
                 {
                     "correct": true,
-                    "text": "\u201cBawitdaba\u201d"
+                    "text": "Guten Tach!"
                 }
             ]
         },
@@ -6955,42 +6955,42 @@
         {
             "x": false,
             "id": 37781,
-            "text": "In welchem Film mit Gwyneth Paltrow sehen wir zwei Versionen ihres Lebens, basierend auf das Verpassen einer Bahn?",
+            "text": "Wer war der erste deutsche Fernsehkoch?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Bounce<\/i>"
+                    "text": "Hans Karl Adam"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Sie liebt ihn – sie liebt ihn nicht<\/i>"
+                    "text": "Clemens Wilmenrod"
                 },
                 {
-                    "text": "<i>Sky Captain and the World of Tomorrow<\/i>"
+                    "text": "Kurt Drummer"
                 },
                 {
-                    "text": "<i>Während Du schliefst<\/i>"
+                    "text": "Rudolf Kroboth"
                 }
             ]
         },
         {
             "x": false,
             "id": 37773,
-            "text": "Wie viele Spieler empfiehlt <i>Cranium<\/i> ?",
+            "text": "Wie viele Spieler empfiehlt <i>Tabu<\/i>?",
             "pic": false,
             "choices": [
                 {
-                    "text": "2-6"
+                    "text": "5+"
                 },
                 {
-                    "text": "3-8"
+                    "text": "8+"
                 },
                 {
-                    "text": "4-10"
+                    "text": "11+"
                 },
                 {
                     "correct": true,
-                    "text": "4-16"
+                    "text": "13+"
                 }
             ]
         },
@@ -7018,70 +7018,70 @@
         {
             "x": false,
             "id": 37765,
-            "text": "Wie alt sind die Pferde beim Kentucky Derby?",
+            "text": "Ich wurde von einer Mücke gestochen! Was ist KEIN Grund, weshalb es so juckt??",
             "pic": false,
             "choices": [
                 {
-                    "text": "1 Jahr"
+                    "text": "Der Stechrüssel der Mücke trifft einen Schmerznerv"
                 },
                 {
-                    "text": "2 Jahre"
+                    "text": "Allergische Reaktion auf den Stich"
                 },
                 {
                     "correct": true,
-                    "text": "3 Jahre"
+                    "text": "Der Blutverlust wird vom Körper bemerkt"
                 },
                 {
-                    "text": "4 Jahre"
+                    "text": "Emotionale Bewertung im Gehirn"
                 }
             ]
         },
         {
             "x": false,
             "id": 37758,
-            "text": "In welchem Film spielt ein Mann die Titelrolle?",
+            "text": "Welchem Film hat einen Preis für die \u201cbeste männliche Hauptrolle\u201d bekommen?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Gone Girl<\/i>"
+                    "text": "<i>Styx<\/i>"
                 },
                 {
-                    "text": "<i>Verblendung<\/i>"
+                    "text": "<i>Emmas Glück<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "<i>The Danish Girl<\/i>"
+                    "text": "<i>Mädchen mit Gewalt<\/i>"
                 },
                 {
-                    "text": "<i>Das Mädchen mit dem Perlenohrring<\/i>"
+                    "text": "<i>Fabian oder Der Gang vor die Hunde<\/i>"
                 }
             ]
         },
         {
             "x": false,
             "id": 37757,
-            "text": "Wie hieß die Familie in <i>Eine himmlische Familie<\/i> ?",
+            "text": "Wie hieß der Hund in <i>Eine schrecklich nette Familie<\/i>?",
             "pic": false,
             "choices": [
                 {
-                    "text": "die Formans"
+                    "text": "Al"
                 },
                 {
-                    "text": "die Taylors"
+                    "text": "Charlie"
                 },
                 {
-                    "text": "die Fishers"
+                    "text": "Dodge"
                 },
                 {
                     "correct": true,
-                    "text": "die Camdens"
+                    "text": "Buck"
                 }
             ]
         },
         {
             "x": false,
             "id": 37755,
-            "text": "Wessen Eltern eines Superhelden heißen Martha und Thomas?",
+            "text": "Wessen Eltern heißen Martha und Thomas?",
             "pic": false,
             "choices": [
                 {
