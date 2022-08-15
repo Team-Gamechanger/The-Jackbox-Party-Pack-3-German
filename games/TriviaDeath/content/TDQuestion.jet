@@ -23839,42 +23839,42 @@
         {
             "x": false,
             "id": 31759,
-            "text": "Welches dieser Musicals wurde NICHT von Stephen Sondheim komponiert?",
+            "text": "Welches dieser Musicals wurde von Andrew Lloyd Webber komponiert?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Sunday in the Park with George<\/i>"
+                    "text": "<i>Les Misérables<\/i>"
                 },
                 {
-                    "text": "<i>Into the Woods<\/i>"
+                    "text": "<i>Der König der Löwen<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Wicked<\/i>"
+                    "text": "<i>Das Phantom der Oper<\/i>"
                 },
                 {
-                    "text": "<i>Sweeney Todd<\/i>"
+                    "text": "<i>Mamma Mia!<\/i>"
                 }
             ]
         },
         {
             "x": false,
             "id": 31753,
-            "text": "Was war der Name der Hunde in <i>Where the Red Fern Grows<\/i> ?",
+            "text": "Was war der Name vom Hund in <i>Cosmo und Wanda<\/i>?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Young Stan & Merry Marnie"
+                    "text": "Capper"
                 },
                 {
-                    "text": "Tiny Todd & Sweet Susie"
+                    "text": "Balto"
                 },
                 {
                     "correct": true,
-                    "text": "Old Dan & Little Ann"
+                    "text": "Sparky"
                 },
                 {
-                    "text": "Big Joe & Lady Janice"
+                    "text": "Pluto"
                 }
             ]
         },
@@ -23902,21 +23902,21 @@
         {
             "x": false,
             "id": 31749,
-            "text": "Wer ist eine Samantha?",
+            "text": "Hä? Was war das?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Kristin Davis"
+                    "text": "Der Bumerang-Effekt"
                 },
                 {
                     "correct": true,
-                    "text": "Kim Cattrall"
+                    "text": "Der Doppler-Effekt"
                 },
                 {
-                    "text": "Cynthia Nixon"
+                    "text": "Der Schmetterlings-Effekt"
                 },
                 {
-                    "text": "Sarah Jessica Parker"
+                    "text": "Negativ-Schall"
                 }
             ]
         },
@@ -24053,17 +24053,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "Qabalas"
+                    "text": "URINIEREN"
                 },
                 {
-                    "text": "Acequia"
+                    "text": "XYLOPHON"
                 },
                 {
-                    "text": "Reequip"
+                    "text": "ÖLÜBERSCHUSS"
                 },
                 {
                     "correct": true,
-                    "text": "Quomodo"
+                    "text": "HYDROXYD"
                 }
             ]
         },
@@ -24095,7 +24095,7 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Massacre of the Innocents<\/i>"
+                    "text": "<i>Kindermord in Bethlehem<\/i>"
                 },
                 {
                     "text": "<i>Triumph des Todes<\/i>"
@@ -24105,14 +24105,14 @@
                     "text": "<i>Der Schrei<\/i>"
                 },
                 {
-                    "text": "<i>Dogs Playing Poker<\/i>"
+                    "text": "<i>Hunde spielen Poker<\/i>"
                 }
             ]
         },
         {
             "x": false,
             "id": 31731,
-            "text": "Welches von diesen war kein Team in Nickelodeons <i>Legends of the Hidden Temple<\/i> ?",
+            "text": "Welches von diesen war kein Team in Nickelodeons <i>Legends of the Hidden Temple<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -24137,17 +24137,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "AdiÃ³s Pest"
+                    "text": "Adios Pest"
                 },
                 {
                     "text": "Mueres Pest"
                 },
                 {
                     "correct": true,
-                    "text": "VÃ¡monos Pest"
+                    "text": "Vamonos Pest"
                 },
                 {
-                    "text": "Te SueÃ±o Pest"
+                    "text": "Te Sueno Pest"
                 }
             ]
         },
@@ -24196,7 +24196,7 @@
         {
             "x": false,
             "id": 31727,
-            "text": "Wofür steht das \u201cA\u201d in <i>WALL\u2022E<\/i>  ?",
+            "text": "Wofür steht das \u201cA\u201d in <i>WALL\u2022E<\/i>?",
             "pic": false,
             "choices": [
                 {
