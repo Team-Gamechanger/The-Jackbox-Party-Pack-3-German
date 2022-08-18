@@ -7102,21 +7102,21 @@
         {
             "x": false,
             "id": 37746,
-            "text": "Der Podcast welches Comedians heißt <i>WTF<\/i> ?",
+            "text": "Wessen Podcast heißt <i>Fest und Flauschig<\/i>?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Louis CK\u2019s"
+                    "text": "Maxi Gstettenbauer's"
                 },
                 {
-                    "text": "Sarah Silverman\u2019s"
+                    "text": "Tommi Schmitt's"
                 },
                 {
                     "correct": true,
-                    "text": "Marc Maron\u2019s"
+                    "text": "Jan Böhmermann's"
                 },
                 {
-                    "text": "Amy Schumer's"
+                    "text": "Atze Schröder's"
                 }
             ]
         },
@@ -7144,21 +7144,21 @@
         {
             "x": false,
             "id": 37736,
-            "text": "Die Fans welcher Sci-Fi Show werden \u201cBrowncoats\u201d genannt?",
+            "text": "Wie viele Kandidaten haben sich 2007 für die vierte Staffel von <i>DSDS<\/i> beworben?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "<i>Firefly<\/i>"
+                    "text": "28.597"
                 },
                 {
-                    "text": "<i>The X-Files<\/i>"
+                    "text": "23.834"
                 },
                 {
-                    "text": "<i>Jessica Jones<\/i>"
+                    "text": "46.763"
                 },
                 {
-                    "text": "<i>Doctor Who<\/i>"
+                    "text": "12.468"
                 }
             ]
         },
@@ -7207,42 +7207,42 @@
         {
             "x": false,
             "id": 37701,
-            "text": "Die Donner Party waren in welcher Gebirgskette gefangen?",
+            "text": "An welchem Wochentag passieren statistisch gesehen die meisten Arbeitsunfälle?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Rockies"
+                    "text": "Freitag"
                 },
                 {
-                    "text": "Catskills"
+                    "text": "Mittwoch"
                 },
                 {
                     "correct": true,
-                    "text": "Sierra Nevada"
+                    "text": "Montag"
                 },
                 {
-                    "text": "Appalachen"
+                    "text": "Samstag"
                 }
             ]
         },
         {
             "x": false,
             "id": 37700,
-            "text": "Was ist <i>Community<\/i>  Darsteller Donald Glover\u2019s Rapper Pseudonym?",
+            "text": "Was ist der kürzeste Fakt aus dem ersten Buch <i>Unnützes Wissen<\/i> vom Verlag <i>Heyne<\/i>?",
             "pic": false,
             "choices": [
                 {
-                    "text": "The Weeknd"
+                    "text": "Eisbären sind Linkshänder."
                 },
                 {
-                    "text": "ASAP Rocky"
+                    "text": "Heino raucht."
                 },
                 {
                     "correct": true,
-                    "text": "Childish Gambino"
+                    "text": "Cola löst Rost."
                 },
                 {
-                    "text": "ScHoolboy Q"
+                    "text": "Fliegen schlafen nie."
                 }
             ]
         },
@@ -7270,21 +7270,21 @@
         {
             "x": false,
             "id": 37677,
-            "text": "Welche Hockeymannschaft gehört NICHT zu den NHL\u2019s \u201cOriginal Six?\u201d",
+            "text": "Nach was wurde die Softwarefirma <i>Adobe<\/i> benannt ",
             "pic": false,
             "choices": [
                 {
-                    "text": "Detroit Redwings"
+                    "text": "\u201cadorable behavior\u201d"
                 },
                 {
-                    "text": "Chicago Blackhawks"
+                    "text": "Adrian und Ben Orlean, den Gründern"
                 },
                 {
-                    "text": "Toronto Maple Leafs"
+                    "text": "Adobe, einem Australian Shepherd"
                 },
                 {
                     "correct": true,
-                    "text": "Pittsburgh Penguins"
+                    "text": "Adobe Creek, einem Bach"
                 }
             ]
         },
@@ -7312,7 +7312,7 @@
         {
             "x": false,
             "id": 37611,
-            "text": "Was ist Grumpy Cat\u2019s richtiger Name?",
+            "text": "Was war Grumpy Cat\u2019s richtiger Name?",
             "pic": false,
             "choices": [
                 {
@@ -7354,18 +7354,18 @@
         {
             "x": false,
             "id": 37603,
-            "text": "Sugar Cookie Sleigh Ride ist eine Geschmacksrichtung welcher Teemarke?",
+            "text": "\u201cIbiza Dream\u201d ist eine Geschmacksrichtung welcher Teemarke?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Tazo"
+                    "text": "Arizona"
                 },
                 {
-                    "text": "Twinings"
+                    "text": "Teekanne"
                 },
                 {
                     "correct": true,
-                    "text": "Celestial Seasonings"
+                    "text": "Meßmer"
                 },
                 {
                     "text": "Lipton"
@@ -7375,39 +7375,39 @@
         {
             "x": false,
             "id": 37584,
-            "text": "Was wird zur Herstellung eines Hushpuppy frittiert?",
+            "text": "Was wird zur Herstellung eines Falafel frittiert?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Maismehlteig"
+                    "text": "zerkleinerte Bohnen"
                 },
                 {
                     "text": "Weizenteig"
                 },
                 {
-                    "text": "Gerstenteig"
+                    "text": "zerkleinerte Kartoffel"
                 },
                 {
-                    "text": "Zahnteig"
+                    "text": "Kürbiskernteig"
                 }
             ]
         },
         {
             "x": false,
             "id": 37582,
-            "text": "In welchem Jahr wurde das Modell T erstmals gebaut?",
+            "text": "In welchem Jahr wurde das Modell <i>VW Golf I<\/i> erstmals gebaut?",
             "pic": false,
             "choices": [
                 {
-                    "text": "1898"
+                    "text": "1998"
                 },
                 {
                     "correct": true,
-                    "text": "1908"
+                    "text": "1974"
                 },
                 {
-                    "text": "1918"
+                    "text": "1952"
                 },
                 {
                     "text": "1928"
@@ -7417,21 +7417,21 @@
         {
             "x": false,
             "id": 37578,
-            "text": "Wer porträtierte Robert Shapiro in FX\u2019s <i>The People Vs. O.J. Simpson<\/i> ?",
+            "text": "Was war der erste Film, der das Spülen einer Toillete zeigte?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Nathan Lane"
+                    "text": "<i>Scream<\/i>"
                 },
                 {
-                    "text": "David Schwimmer"
+                    "text": "<i>Rebecca<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "John Travolta"
+                    "text": "<i>Psycho<\/i>"
                 },
                 {
-                    "text": "Cuba Gooding Jr."
+                    "text": "<i>Scary Movie<\/i>"
                 }
             ]
         },
@@ -7459,7 +7459,7 @@
         {
             "x": false,
             "id": 37566,
-            "text": "\u201cErethismus\u201d ist, wenn jemand an welcher Art von Vergiftung leidet?",
+            "text": "\u201cErethismus mercurialis\u201d ist, wenn jemand an welcher Art von Vergiftung leidet?",
             "pic": false,
             "choices": [
                 {
@@ -7480,28 +7480,28 @@
         {
             "x": false,
             "id": 37552,
-            "text": "Wo leben die Glücksbärchis?",
+            "text": "Wo lebt die Gummibärenbande?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Care-a-Lot"
+                    "text": "Dunwyn"
                 },
                 {
-                    "text": "Care Bear Manor"
+                    "text": "Emeziles"
                 },
                 {
-                    "text": "Care-sylvania"
+                    "text": "Betriryn"
                 },
                 {
-                    "text": "Care Cloud City"
+                    "text": "Regoria"
                 }
             ]
         },
         {
             "x": false,
             "id": 37551,
-            "text": "Was ist Mr. Snuffleupagus\u2019 Vorname?",
+            "text": "Wie lautet der Name des Krümelmonsters?",
             "pic": false,
             "choices": [
                 {
@@ -7511,53 +7511,53 @@
                     "text": "Chester"
                 },
                 {
-                    "text": "Simon"
+                    "text": "Ted"
                 },
                 {
                     "correct": true,
-                    "text": "Aloysius"
+                    "text": "Sid"
                 }
             ]
         },
         {
             "x": false,
             "id": 37550,
-            "text": "Wie lang ist ein Furlong?",
+            "text": "Wie viele Landessprachen hat Südafrika?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "eine Achtelmeile"
+                    "text": "11"
                 },
                 {
-                    "text": "eine Viertelmeile"
+                    "text": "6"
                 },
                 {
-                    "text": "eine halbe Meile"
+                    "text": "48"
                 },
                 {
-                    "text": "eine Meile"
+                    "text": "eine"
                 }
             ]
         },
         {
             "x": false,
             "id": 37549,
-            "text": "Was war der Name der Firma in der britischen Version von <i>The Office<\/i> ?",
+            "text": "Wann wurde die <i>Biene Maja<\/i> erfunden?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Dunder Mifflin"
+                    "text": "1989"
                 },
                 {
                     "correct": true,
-                    "text": "Wernham Hogg"
+                    "text": "1912"
                 },
                 {
-                    "text": "Sterling Cooper Pryce"
+                    "text": "1966"
                 },
                 {
-                    "text": "Pied Piper"
+                    "text": "1950"
                 }
             ]
         },
@@ -7585,126 +7585,126 @@
         {
             "x": false,
             "id": 37531,
-            "text": "Welche Cookies werden von diesen kleinen dummen Keebler Elfen gemacht?",
+            "text": "Wie viele Nickerchen macht ein süßes Kaninchen durchschnittlich pro Tag?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Chips Deluxe"
+                    "text": "18"
                 },
                 {
-                    "text": "Milano"
+                    "text": "34"
                 },
                 {
-                    "text": "Chops Ahoy!"
+                    "text": "5"
                 },
                 {
-                    "text": "Drunk-a-roos"
+                    "text": "12"
                 }
             ]
         },
         {
             "x": false,
             "id": 37529,
-            "text": "Wofür steht das P im ZIP-Code?",
+            "text": "Wofür steht das I in DIN?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Placement"
+                    "text": "Ideal"
                 },
                 {
-                    "text": "Population"
+                    "text": "Industrie"
                 },
                 {
-                    "text": "Port"
+                    "text": "Innere"
                 },
                 {
                     "correct": true,
-                    "text": "Plan"
+                    "text": "Institut"
                 }
             ]
         },
         {
             "x": false,
             "id": 37527,
-            "text": "Wie viele Quarts stecken in einer Gallone?",
+            "text": "Welche Stadt hat mit 2.500 mit Abstand die meisten Brücken Europas?",
             "pic": false,
             "choices": [
                 {
-                    "text": "2"
+                    "text": "Rotterdam"
                 },
                 {
                     "correct": true,
-                    "text": "4"
+                    "text": "Hamburg"
                 },
                 {
-                    "text": "6"
+                    "text": "Genf"
                 },
                 {
-                    "text": "8"
+                    "text": "Venedig"
                 }
             ]
         },
         {
             "x": false,
             "id": 37526,
-            "text": "Welche Käsesorte kommt auf ein Monte Cristo Sandwich?",
+            "text": "Was braucht man, um aus einem \u201carmen Ritter\u201d einen \u201creichen Ritter\u201d zu machen?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Pepper Jack"
+                    "text": "gewürzten Rotwein"
                 },
                 {
-                    "text": "Cheddar"
+                    "text": "Kirschkonfitüre"
                 },
                 {
-                    "text": "Provolone"
+                    "text": "römischen Weißburgunder"
                 },
                 {
                     "correct": true,
-                    "text": "Schweizer"
+                    "text": "Pflaumenmus"
                 }
             ]
         },
         {
             "x": false,
             "id": 37523,
-            "text": "Wer war der Bassist bei den Ramones?",
+            "text": "Wer ist der Bassist bei den Toten Hosen?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Joey Ramone"
+                    "text": "Michael Breitkopf"
                 },
                 {
                     "correct": true,
-                    "text": "Dee Dee Ramone"
+                    "text": "Andreas Meurer"
                 },
                 {
-                    "text": "Johnny Ramone"
+                    "text": "Vom Ritchie"
                 },
                 {
-                    "text": "Tommy Ramone"
+                    "text": "Campino"
                 }
             ]
         },
         {
             "x": false,
             "id": 37499,
-            "text": "Welches Musical beinhaltet den Song \u201cI\u2019m Gonna Wash That Man Right Outta My Hair\u201d?",
+            "text": "In welcher Partei war sogar mal Dieter Bohlen?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>The King and I<\/i>"
+                    "text": "NPD"
                 },
                 {
-                    "text": "<i>Oklahoma!<\/i>"
+                    "text": "Piraten"
                 },
                 {
                     "correct": true,
-                    "text": "<i>South Pacific<\/i>"
+                    "text": "DKP"
                 },
                 {
-                    "text": "<i>Kiss Me, Kate<\/i>"
+                    "text": "CDU"
                 }
             ]
         },
@@ -7753,21 +7753,21 @@
         {
             "x": false,
             "id": 37489,
-            "text": "Was ist KEINER der sechs Ränge von Girl Scouts of America?",
+            "text": "Wenn ich dich ins Gefrierfach sperre: Ab welcher Körpertemperatur würdest du wahrscheinlich nicht mehr leben?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Tenderfoot"
+                    "text": "26,9 °C"
                 },
                 {
-                    "text": "Brownie"
+                    "text": "23,9 °C"
                 },
                 {
-                    "text": "Daisy"
+                    "text": "32,9 °C"
                 },
                 {
-                    "text": "Cadette"
+                    "text": "12,9 °C"
                 }
             ]
         },
@@ -7795,7 +7795,7 @@
         {
             "x": false,
             "id": 37487,
-            "text": "Wenn man die kleinsten Knochen deines Körpers zu deinen gebliebten tun würde, wo müsste man sie ausgraben?",
+            "text": "Wenn man die kleinsten Knochen deines Körpers deinen Gebliebten geben wollen würde, wo müsste man sie ausgraben?",
             "pic": false,
             "choices": [
                 {
@@ -7879,42 +7879,42 @@
         {
             "x": false,
             "id": 37483,
-            "text": "Wer lebt in der großen Uhr im Land of Make Believe von <i>Mr. Rogers\u2019 Neighborhood<\/i> ?",
+            "text": "Was war nochmal die Vorwahl der Antarktis?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Daniel Striped Tiger"
+                    "text": "+6721"
                 },
                 {
-                    "text": "X the Owl"
+                    "text": "+666"
                 },
                 {
-                    "text": "Lady Elaine"
+                    "text": "+7534"
                 },
                 {
-                    "text": "Harriet Elizabeth Cow"
+                    "text": "+299"
                 }
             ]
         },
         {
             "x": false,
             "id": 37482,
-            "text": "Welcher der folgenden Filme handelt von Kannibalismus?",
+            "text": "Was ist das meistverkaufte Auto aller Zeiten?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Eat Drink Man Woman<\/i>"
+                    "text": "<i>Porsche Panamera<\/i>"
                 },
                 {
-                    "text": "<i>Gilbert Grape<\/i>"
+                    "text": "<i>Hyundai Kona<\/i>"
                 },
                 {
-                    "text": "<i>Eat Pray Love<\/i>"
+                    "text": "<i>Skoda Kodiaq<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Eating Raoul<\/i>"
+                    "text": "<i>Toyota Corolla<\/i>"
                 }
             ]
         },
@@ -7946,17 +7946,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "4.500 Meilen"
+                    "text": "12.390 km"
                 },
                 {
-                    "text": "12.000 Meilen"
+                    "text": "70.440 km"
                 },
                 {
                     "correct": true,
-                    "text": "24.500 Meilen"
+                    "text": "40.030 km"
                 },
                 {
-                    "text": "30.500 Meilen"
+                    "text": "181.910 km"
                 }
             ]
         },
@@ -7991,35 +7991,35 @@
                     "text": "Peter Falk"
                 },
                 {
-                    "text": "Sammy Davis Jr."
+                    "text": "Frank Elstner"
                 },
                 {
-                    "text": "Fetty Wap"
+                    "text": "Hanno Friedrich"
                 },
                 {
                     "correct": true,
-                    "text": "Omar Sharif"
+                    "text": "Mirco Reseg"
                 }
             ]
         },
         {
             "x": false,
             "id": 37473,
-            "text": "Wie heißt das Haus der Delta Studentenverbindung in <i>Ich glaub, mich tritt ein Pferd<\/i> ?",
+            "text": "Wann hörte <i>Lucky Luke<\/i> mit dem Rauchen auf?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Delta Sigma Rho"
+                    "text": "1999"
                 },
                 {
-                    "text": "Delta Beta Gamma"
+                    "text": "1988"
                 },
                 {
                     "correct": true,
-                    "text": "Delta Tau Chi"
+                    "text": "1983"
                 },
                 {
-                    "text": "Delta Epsilon Delta"
+                    "text": "1992"
                 }
             ]
         },
@@ -8068,21 +8068,21 @@
         {
             "x": false,
             "id": 37467,
-            "text": "Welches Wort ist das \u201cPartizip Präsens\u201d in: \u201cYour murderer is burying you up to your neck at the shoreline.\u201d",
+            "text": "Welches Wort ist das \u201cPartizip Präsens\u201d in: \u201cDein Mörder begräbt dich lachend bis zum Hals an der Küste.\u201d",
             "pic": false,
             "choices": [
                 {
-                    "text": "\u201cmurderer\u201d"
+                    "text": "\u201cHals\u201d"
                 },
                 {
                     "correct": true,
-                    "text": "\u201cburying\u201d"
+                    "text": "\u201clachend\u201d"
                 },
                 {
-                    "text": "\u201cyou\u201d"
+                    "text": "\u201cbegräbt\u201d"
                 },
                 {
-                    "text": "\u201cneck\u201d"
+                    "text": "\u201cMörder\u201d"
                 }
             ]
         },
@@ -8100,7 +8100,7 @@
                 },
                 {
                     "correct": true,
-                    "text": "Gewitterregen"
+                    "text": "Reich des Tieres wird verfinstert"
                 },
                 {
                     "text": "Wasser in Blut verwandeln"
@@ -8110,39 +8110,39 @@
         {
             "x": false,
             "id": 37465,
-            "text": "Welches Team schlägt Casey im berühmten Gedicht <i>Casey at the Bat<\/i> ?",
+            "text": "Welches ist KEINS der 3 Meistgenutzten Wörter im Deutschen?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Scumville"
+                    "text": "der"
                 },
                 {
-                    "text": "Muckville"
+                    "text": "in"
                 },
                 {
-                    "text": "Crudville"
+                    "text": "sein"
                 },
                 {
                     "correct": true,
-                    "text": "Mudville"
+                    "text": "und"
                 }
             ]
         },
         {
             "x": false,
             "id": 37464,
-            "text": "Das \u201cFlat iron Steak\u201d kommt von einem Muskel aus welchem Teil des Tieres?",
+            "text": "Das \u201cT-Bone Steak\u201d kommt von einem Muskel aus welchem Teil des Tieres?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Schulter"
+                    "text": "Rücken"
                 },
                 {
                     "text": "Brust"
                 },
                 {
-                    "text": "Bauch"
+                    "text": "Schulter"
                 },
                 {
                     "text": "Hinterteil"
@@ -8152,21 +8152,21 @@
         {
             "x": false,
             "id": 37463,
-            "text": "Wie buchstabiert man \u201cRIP\u201d mit dem NATO-Alphabet?",
+            "text": "Wie buchstabiert man \u201cRIP\u201d nach DIN 5009?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Robert, Indigo, Peace"
+                    "text": "Russland, Island, Polen"
                 },
                 {
                     "correct": true,
-                    "text": "Romeo, India, Papa"
+                    "text": "Rostock, Ingelheim, Potsdam"
                 },
                 {
-                    "text": "Railroad, Indiana, Port"
+                    "text": "Rewe, Ikea, Penny"
                 },
                 {
-                    "text": "Raleigh, Insulin, Puppy"
+                    "text": "Richard, Ida, Paula"
                 }
             ]
         },
