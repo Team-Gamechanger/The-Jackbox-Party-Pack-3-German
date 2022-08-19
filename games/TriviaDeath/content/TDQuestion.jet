@@ -8338,24 +8338,24 @@
                 }
             ]
         },
-        {# Antworten ändern
+        {
             "x": false,
             "id": 37452,
-            "text": "Welches der folgenden TV Shows hatte KEIN von einem Darsteller gesungenes Titellied?",
+            "text": "Das Titellied welcher TV Shows wurde vom Hauptcharakter selbst gesungen?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>21 Jump Street<\/i>"
+                    "text": "<i>Sesamstraße<\/i>"
                 },
                 {
-                    "text": "<i>Walker, Texas Ranger<\/i>"
+                    "text": "<i>Jimmy Neutron<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Die Nanny<\/i>"
+                    "text": "<i>Blau und Schlau<\/i>"
                 },
                 {
-                    "text": "<i>Frasier<\/i>"
+                    "text": "<i>Bob der Baumeister<\/i>"
                 }
             ]
         },
@@ -8422,45 +8422,45 @@
                 }
             ]
         },
-        {# Ersetzen durch anderes Kinderlied
+        {
             "x": false,
             "id": 37441,
-            "text": "Welches Monster wird NICHT in \u201cThe Monster Mash\u201d erwähnt?",
+            "text": "Welches Lied kommt in Tanzalarm vor?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Frankenstein"
+                    "text": "A-E-I-O-U"
                 },
                 {
-                    "text": "Wolfman"
+                    "text": "Baby Shark"
                 },
                 {
-                    "text": "Drakula"
+                    "text": "La-Le-Lu"
                 },
                 {
-                    "text": "Drakulas Sohn"
+                    "text": "Ich geh mit meiner Laterne"
                 }
             ]
         },
-        {# Komplett ersetzen
+        {
             "x": false,
             "id": 37427,
-            "text": "Was musste William Wallace NICHT bei seiner Hinrichtung 1305 durchmachen?",
+            "text": "Wofür steht das \u201cJ.\u201d in Homer J. Simpson?",
             "pic": false,
             "choices": [
                 {
-                    "text": "ausweiden"
+                    "text": "Jakob"
                 },
                 {
                     "correct": true,
-                    "text": "lebendig verbrennen"
+                    "text": "Jay"
                 },
                 {
-                    "text": "erhängen"
+                    "text": "Jasmine"
                 },
                 {
-                    "text": "vierteilen"
+                    "text": "Jochen"
                 }
             ]
         },
@@ -8569,14 +8569,14 @@
                 }
             ]
         },
-        {# Gericht ändern
+        {
             "x": false,
             "id": 37404,
-            "text": "Welche Farbe hat Manhattan Clam chowder?",
+            "text": "Welche Farbe haben spanische Glaskirschen?",
             "pic": false,
             "choices": [
                 {
-                    "text": "gelb"
+                    "text": "violett"
                 },
                 {
                     "correct": true,
@@ -8586,7 +8586,7 @@
                     "text": "weiß"
                 },
                 {
-                    "text": "grün"
+                    "text": "schwarz"
                 }
             ]
         },
