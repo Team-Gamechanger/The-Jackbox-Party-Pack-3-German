@@ -4582,21 +4582,21 @@
         {
             "x": false,
             "id": 38240,
-            "text": "Wenn ich mir einen kleinen Hund zulegen wollte, welche Rasse sollte ich nehmen?",
+            "text": "Wie nennt man den Raum, in dem Kinder entbunden werden?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "einen Chihuahua"
+                    "text": "Kreißsaal"
                 },
                 {
-                    "text": "einen Chihuaha"
+                    "text": "Kraissaal"
                 },
                 {
-                    "text": "einen Chihahua"
+                    "text": "Kraißsaal"
                 },
                 {
-                    "text": "einen Chiuahua"
+                    "text": "Kreissaal"
                 }
             ]
         },
@@ -8653,24 +8653,24 @@
                 }
             ]
         },
-        {# Komplett ändern
+        {
             "x": false,
             "id": 37379,
-            "text": "Colin Firth spielte welchen britischen Herrscher in <i>The King\u2019s Speech<\/i> ?",
+            "text": "Welche Stadt hat ihre eigene SOKO-Serie?",
             "pic": false,
             "choices": [
                 {
-                    "text": "König Edward V"
+                    "text": "Castrop-Rauxel"
                 },
                 {
                     "correct": true,
-                    "text": "König Georg VI"
+                    "text": "Wismar"
                 },
                 {
-                    "text": "König Richard III"
+                    "text": "Gera"
                 },
                 {
-                    "text": "König James II"
+                    "text": "Flensburg"
                 }
             ]
         },
@@ -8681,7 +8681,7 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "Balsamico Dressing"
+                    "text": "Honig-Senf-Dressing"
                 },
                 {
                     "text": "French Dressing"
@@ -8740,7 +8740,7 @@
         {
             "x": false,
             "id": 37358,
-            "text": "Welcher Shakespeare Charakter sagt \u201cSo süß ist Trennungswehe\u201d?",
+            "text": "Welcher Shakespeare-Charakter sagt \u201cSo süß ist Trennungswehe\u201d?",
             "pic": false,
             "choices": [
                 {
@@ -8758,24 +8758,24 @@
                 }
             ]
         },
-        {# Frage ändern
+        {
             "x": false,
             "id": 37355,
-            "text": "Zu welcher Tierart gehört Rikki-Tikki-Tavi?",
+            "text": "Wie hieß das Walross, welches im Logo des NDR bis 2001 zu sehen war",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Mungo"
+                    "text": "Antje"
                 },
                 {
-                    "text": "Bär"
+                    "text": "Bella"
                 },
                 {
-                    "text": "Tiger"
+                    "text": "Clara"
                 },
                 {
-                    "text": "Kobra"
+                    "text": "Denise"
                 }
             ]
         },
@@ -8887,42 +8887,42 @@
         {
             "x": false,
             "id": 37294,
-            "text": "Jedes Jahr von September bis November kommt es im indischen Dorf Jatinga zu ungewöhnlich vielen\u2026",
+            "text": "Welches dieser Lieder wurde von Stefan Raab gecovert?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "toten Vögeln"
+                    "text": "\u201cEin Bett im Kornfeld\u201d"
                 },
                 {
-                    "text": "toten Affen"
+                    "text": "\u201cYou\u2019re My Heart, You\u2019re My Soul\u201d"
                 },
                 {
-                    "text": "toten Fischen"
+                    "text": "\u201cVerdammt, ich lieb\u2019 dich\u201d"
                 },
                 {
-                    "text": "toten Ratten"
+                    "text": "\u201cEin Stern (... der deinen Namen trägt)\u201d"
                 }
             ]
         },
-        {# Ersetzen
+        {
             "x": false,
             "id": 37292,
-            "text": "Fred Rogers war ein ordinierter Minister in welcher Religion?",
+            "text": "Was ist ein Teil einer Waschmaschine?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Methodismus"
+                    "text": "Sensorbox"
                 },
                 {
-                    "text": "Baptisten"
+                    "text": "Kondensatpumpe"
                 },
                 {
                     "correct": true,
-                    "text": "Presbyterianismus"
+                    "text": "Laugenbehälter"
                 },
                 {
-                    "text": "Satanismus"
+                    "text": "Druckhalter"
                 }
             ]
         },
