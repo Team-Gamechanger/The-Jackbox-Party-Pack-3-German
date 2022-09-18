@@ -277,7 +277,7 @@
         {
             "x": false,
             "id": 40973,
-            "text": "Welches der folgenden ist NICHT einer von Vigos berüchtigten Spitznamen nach Egon in <i>Ghostbusters 2<\/i> ?",
+            "text": "Welches der folgenden ist NICHT einer von Vigos berüchtigten Spitznamen nach Egon in <i>Ghostbusters 2<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -445,7 +445,7 @@
         {
             "x": false,
             "id": 40965,
-            "text": "Welches der folgenden ist KEIN Produkt von Dr. Oetker?",
+            "text": "Welches der folgenden ist KEIN Produkt von <i>Dr. Oetker<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -564,7 +564,7 @@
                 },
                 {
                     "correct": true,
-                    "text": "Pefferminz"
+                    "text": "Pfefferminz"
                 }
             ]
         },
@@ -621,7 +621,7 @@
                     "text": "12x Otto Waalkes"
                 },
                 {
-                    "text": "1000 Euro in 1 Cent Stücken"
+                    "text": "1000 Euro in 1 Cent-Stücken"
                 },
                 {
                     "text": "800 Kilo Pudding"
@@ -5254,7 +5254,7 @@
         {
             "x": false,
             "id": 38203,
-            "text": "Wenn jemand sagt, dass man \u201cso alt wie Methusalem\u201d ist, wie alt ist man dann laut Bibel?",
+            "text": "Wenn jemand sagt, dass man \u201cso alt wie Methusalem\u201d ist, wie alt ist man dann laut der Bibel?",
             "pic": false,
             "choices": [
                 {
@@ -5422,17 +5422,17 @@
         {
             "x": false,
             "id": 38181,
-            "text": "Wie viele Oliven brauche ich, wenn eich ein Liter Olivenöl haben will?",
+            "text": "Wie viele Oliven brauche ich, wenn ich ein Liter Olivenöl haben will?",
             "pic": false,
             "choices": [
                 {
-                    "text": "mindestens einen 3 kilo Eimer"
+                    "text": "mindestens einen 3 Kilo-Eimer"
                 },
                 {
                     "text": "mindestens 2 Hände voll"
                 },
                 {
-                    "text": "mindestens eine 1,5 Liter Flasche voll"
+                    "text": "mindestens eine 1,5 Liter-Flasche voll"
                 },
                 {
                     "correct": true,
@@ -8464,24 +8464,24 @@
                 }
             ]
         },
-        {# Komplett ersetzen
+        {
             "x": false,
             "id": 37423,
-            "text": "Wie heißt die menschenfressende Pflanze in <i>Der kleine Horrorladen<\/i> ?",
+            "text": "Welches dieser Sekrete schmeckt bitter?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Denise"
+                    "text": "Schweiß"
                 },
                 {
-                    "text": "Janet"
+                    "text": "Blut"
                 },
                 {
                     "correct": true,
-                    "text": "Audrey II"
+                    "text": "Ohrenschmalz"
                 },
                 {
-                    "text": "Polly Anne"
+                    "text": "Urin"
                 }
             ]
         },
@@ -8761,7 +8761,7 @@
         {
             "x": false,
             "id": 37355,
-            "text": "Wie hieß das Walross, welches im Logo des NDR bis 2001 zu sehen war",
+            "text": "Wie hieß das Walross, welches im Logo des NDR bis 2001 zu sehen war?",
             "pic": false,
             "choices": [
                 {
@@ -8926,24 +8926,24 @@
                 }
             ]
         },
-        {# Ersetzen
+        {
             "x": false,
             "id": 37291,
-            "text": "Wer schrieb den Beach Boys Song \u201cNever Learn Not to Love\u201d?",
+            "text": "Wie viele Zeigefinger müsste ich aneinanderlegen, damit die Strecke genauso lang wie der Zwölffingerdarm ist?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Charles Manson"
+                    "text": "3"
                 },
                 {
-                    "text": "John Wayne Gacy"
+                    "text": "6"
                 },
                 {
-                    "text": "David Berkowitz"
+                    "text": "9"
                 },
                 {
-                    "text": "Richard Ramirez"
+                    "text": "12"
                 }
             ]
         },
@@ -8971,7 +8971,7 @@
         {
             "x": false,
             "id": 37287,
-            "text": "Wie viele Zacken hat die Freiheitsstaue auf der Krone?",
+            "text": "Wie viele Zacken hat die Freiheitsstatue auf der Krone?",
             "pic": false,
             "choices": [
                 {
@@ -8992,7 +8992,7 @@
         {
             "x": false,
             "id": 37285,
-            "text": "Was trug die <i>Frankenstein<\/i> Autorin Mary Shelley nach dem Tod ihres Ehemanns im Jahr 1822 von ihm herum?",
+            "text": "Was trug die <i>Frankenstein<\/i>-Autorin Mary Shelley nach dem Tod ihres Ehemanns im Jahr 1822 von ihm herum?",
             "pic": false,
             "choices": [
                 {
@@ -9031,24 +9031,24 @@
                 }
             ]
         },
-        {# Komplett ersetzen
+        {
             "x": false,
             "id": 37279,
-            "text": "Welche der Bratz Puppen hat den Spitznamen \u201cBunny Boo\u201d?",
+            "text": "Welches Drama enthält die Ringparabel?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Jade"
+                    "text": "\u201cKabale und Liebe\u201d"
                 },
                 {
                     "correct": true,
-                    "text": "Sasha"
+                    "text": "\u201cNathan der Weise\u201d"
                 },
                 {
-                    "text": "Yasmin"
+                    "text": "\u201cFaust II\u201d"
                 },
                 {
-                    "text": "Raya"
+                    "text": "\u201cMacbeth\u201d"
                 }
             ]
         },
@@ -9073,66 +9073,66 @@
                 }
             ]
         },
-        {# Ersetzen?
+        {
             "x": false,
             "id": 37273,
-            "text": "Über wessen Verlust klagt der Protagonist in Edgar Allan Poe\u2019s Gedicht <i>Der Rabe<\/i>?",
+            "text": "In wie vielen der ersten 50 Folgen von Gronkhs <i>Minecraft<\/i>-Let\u2019s Play baut er mindestens ein Kohleerz nicht ab?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Lacrecia"
+                    "text": "14"
                 },
                 {
-                    "text": "Laella"
+                    "text": "17"
                 },
                 {
                     "correct": true,
-                    "text": "Lenore"
+                    "text": "20"
                 },
                 {
-                    "text": "Laverne"
+                    "text": "23"
                 }
             ]
         },
-        {# Ersetzen
+        {
             "x": false,
             "id": 37271,
-            "text": "Wie hieß im Film <i>Der Sinn des Lebens<\/i> der Mann, der so viel aß, dass er explodierte?",
+            "text": "Was machen Transistoren eigentlich?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Mr. Katzenberg"
+                    "text": "Licht in elektrische Energie umwandeln"
                 },
                 {
                     "correct": true,
-                    "text": "Mr. Creosote"
+                    "text": "Ströme und Spannungen verstärken"
                 },
                 {
-                    "text": "Mr. Biggs"
+                    "text": "Strom in einer Schaltung aufteilen"
                 },
                 {
-                    "text": "Mr. Regimental"
+                    "text": "Stromfluss in einer Richtung sperren"
                 }
             ]
         },
-        {# Ersetzen
+        {
             "x": false,
             "id": 37270,
-            "text": "Wenn ein Kellner den Koch nach \u201cHeart Attack on Rack\u201d fragt, was bringt er dann?",
+            "text": "Welches Lebensmittel hat Pythagoras in seiner Lehre verboten?",
             "pic": false,
             "choices": [
                 {
-                    "text": "gebratenes Hühnchensteak"
+                    "text": "Erbsen"
                 },
                 {
                     "correct": true,
-                    "text": "Gebäck und Soße"
+                    "text": "Bohnen"
                 },
                 {
-                    "text": "Eingewickeltes Schwein"
+                    "text": "Linsen"
                 },
                 {
-                    "text": "ein BLT-Sandwich"
+                    "text": "Erdnüsse"
                 }
             ]
         },
@@ -9178,45 +9178,45 @@
                 }
             ]
         },
-        {# Frage ersetzen
+        {
             "x": false,
             "id": 37265,
-            "text": "In welchem Restaurant im Film <i>Alles Routine<\/i> war Jennifer Aniston darüber besorgt, zu wenig anzuhaben?",
+            "text": "Wie viele ihrer Aktivitäten müssten Phineas und Ferb pro Tag rund machen, damit sie alle in den \u201c6 Wochen voller Sommerferientage\u201d schaffen würden?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Flingers"
+                    "text": "3"
                 },
                 {
-                    "text": "Shenanigans"
+                    "text": "4"
                 },
                 {
                     "correct": true,
-                    "text": "Chotchkies"
+                    "text": "5"
                 },
                 {
-                    "text": "T.G.I. McSmackies"
+                    "text": "6"
                 }
             ]
         },
         {# Umkehren (NICHT raus)
             "x": false,
             "id": 37264,
-            "text": "Welche Tatwaffe hat Hasbro 2008 dem Brettspiel <i>Cluedo<\/i> NICHT hinzugefügt?",
+            "text": "Welche Tatwaffe hat Hasbro 2008 dem Brettspiel <i>Cluedo<\/i> hinzugefügt?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
+                    "text": "Keule"
+                },
+                {
                     "text": "Taschenlampe"
                 },
                 {
-                    "text": "Hantel"
+                    "text": "Glasflasche"
                 },
                 {
-                    "text": "Gift"
-                },
-                {
-                    "text": "Trophäe"
+                    "text": "Bügeleisen"
                 }
             ]
         },
