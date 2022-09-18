@@ -9199,7 +9199,7 @@
                 }
             ]
         },
-        {# Umkehren (NICHT raus)
+        {
             "x": false,
             "id": 37264,
             "text": "Welche Tatwaffe hat Hasbro 2008 dem Brettspiel <i>Cluedo<\/i> hinzugefügt?",
@@ -20899,21 +20899,21 @@
         {
             "x": false,
             "id": 32085,
-            "text": "Tom Hanks hat einen Sohn, der Rapper ist. Was ist dessen Künstlername?",
+            "text": "Armin Laschet hat einen Sohn, der Mode-Influencer ist. Wie heißt er?",
             "pic": false,
             "choices": [
                 {
-                    "text": "T. Money"
+                    "text": "Julius Laschet"
                 },
                 {
                     "correct": true,
-                    "text": "Chet Haze"
+                    "text": "Johannes Laschet"
                 },
                 {
-                    "text": "Biggie Big"
+                    "text": "Justus Laschet"
                 },
                 {
-                    "text": "Hansky"
+                    "text": "Armin Laschet Jr."
                 }
             ]
         },
