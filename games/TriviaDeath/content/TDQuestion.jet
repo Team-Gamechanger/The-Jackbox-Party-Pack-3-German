@@ -8964,7 +8964,7 @@
                     "text": "Gouverneurin von Alaska Sarah Palin"
                 },
                 {
-                    "text": "<i>View<\/i> Moderatorin Star Jones"
+                    "text": "<i>View<\/i>-Moderatorin Star Jones"
                 }
             ]
         },
@@ -9157,24 +9157,24 @@
                 }
             ]
         },
-        {# Frage ändern
+        {
             "x": false,
             "id": 37266,
-            "text": "Welcher der folgenden Novelty Songs war für den Grammy nominiert?",
+            "text": "Welche Milch wird für den Käse \201cRoquefort\u201d benutzt?",
             "pic": false,
             "choices": [
                 {
-                    "text": "\u201cMonster Mash\u201d"
+                    "text": "Ziegenmilch"
                 },
                 {
                     "correct": true,
-                    "text": "\u201cThe Super Bowl Shuffle\u201d"
+                    "text": "Schafsmilch"
                 },
                 {
-                    "text": "\u201cPurple People Eater\u201d"
+                    "text": "Eselsmilch"
                 },
                 {
-                    "text": "\u201cFish Heads\u201d"
+                    "text": "Kuhmilch"
                 }
             ]
         },
@@ -9244,49 +9244,49 @@
         {
             "x": false,
             "id": 37261,
-            "text": "Mit wem wird Nicky Santoro am Ende des Films <i>Casino<\/i> mit Baseballschlägern zusammengeschlagen?",
+            "text": "Wie lange muss ein international genormter Tee ziehen?",
             "pic": false,
             "choices": [
                 {
-                    "text": "sein Onkel Frankie"
-                },
-                {
-                    "text": "sein Vater Remo"
-                },
-                {
                     "correct": true,
-                    "text": "sein Bruder Dominick"
+                    "text": "6 Minuten"
                 },
                 {
-                    "text": "sein Cousin Vinnie"
+                    "text": "6 Minuten 23 Sekunden"
+                },
+                {
+                    "text": "6 Minuten 45 Sekunden"
+                },
+                {
+                    "text": "7 Minuten"
                 }
             ]
         },
         {
             "x": false,
             "id": 37258,
-            "text": "Welche Abkürzung hat die indische Firma Kamdhenu Limited auf der New York Stock Exchange?",
+            "text": "Welche Abkürzung hat die Telekom im DAX?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "KIL"
+                    "text": "DTE"
                 },
                 {
-                    "text": "DETH"
+                    "text": "TEL"
                 },
                 {
-                    "text": "MDR"
+                    "text": "DET"
                 },
                 {
-                    "text": "RIP"
+                    "text": "TELE"
                 }
             ]
         },
         {
             "x": false,
             "id": 37255,
-            "text": "Wie viele Arme und Beine hat Leonardo Da Vinci\u2019s <i>Vitruvianischer Mensch<\/i>  have?",
+            "text": "Wie viele Arme und Beine hat Leonardo Da Vincis <i>Vitruvianischer Mensch<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -9307,21 +9307,21 @@
         {
             "x": false,
             "id": 37253,
-            "text": "Die NFL Mannschaft The New Orleans Saints hat einen Hund als Maskottchen namens\u2026",
+            "text": "In welcher Partei war Dieter Bohlen für zwei Jahre Mitglied?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Beignet"
+                    "text": "NPD"
                 },
                 {
                     "correct": true,
-                    "text": "Gumbo"
+                    "text": "DKP"
                 },
                 {
-                    "text": "Redbean"
+                    "text": "Die PARTEI"
                 },
                 {
-                    "text": "Etouffe"
+                    "text": "AfD"
                 }
             ]
         },
@@ -9346,7 +9346,7 @@
                 }
             ]
         },
-        {
+        {# Lieder und Interpretin ersetzen?
             "x": false,
             "id": 37244,
             "text": "In welchem der folgenden Taylor Swift Songs kommt das Wort \u201clove\u201d am häufigsten vor?",
@@ -9370,7 +9370,7 @@
         {
             "x": false,
             "id": 37243,
-            "text": "Welcher von diesen ist KEINER der Killer Charaktere im Videospiel <i>Five Nights at Freddy\u2019s<\/i> ?",
+            "text": "Welcher von diesen ist KEINER der Killer-Charaktere im Videospiel <i>Five Nights at Freddy\u2019s<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -9409,7 +9409,7 @@
                 }
             ]
         },
-        {
+        {# möglicherweise ändern
             "x": false,
             "id": 37241,
             "text": "Was war der ursprüngliche Name für den Facebook \u201cLike\u201d Button?",
@@ -9433,21 +9433,21 @@
         {
             "x": false,
             "id": 37240,
-            "text": "Bevor George Clooney eine Hauptrolle in der Serie <i>ER<\/i> hatte, war er in welcher kurzen Serie zu sehen?",
+            "text": "Was ist die rechtliche Konsequenz, wenn man in Deutschland eine Atombombe zündet?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "<i>E/R<\/i>"
+                    "text": "5 bis 10 Jahre Haft"
                 },
                 {
-                    "text": "<i>E.R.<\/i>"
+                    "text": "180 Tagessätze Geldstrafe"
                 },
                 {
-                    "text": "<i>E-R<\/i>"
+                    "text": "200 Sozialstunden"
                 },
                 {
-                    "text": "<i>E:R<\/i>"
+                    "text": "lebenslange Haft"
                 }
             ]
         },
