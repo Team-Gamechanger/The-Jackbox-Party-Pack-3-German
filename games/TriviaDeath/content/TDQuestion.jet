@@ -8383,21 +8383,21 @@
         {
             "x": false,
             "id": 37449,
-            "text": "Was passiert mit Michael Corleones erster Frau in dem Film <i>Der Pate<\/i> ?",
+            "text": "Was ist der zweite Vorname von Milhouse Van Houten in <i>Die Simpsons<\/i> ?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Schuss in die Brust"
+                    "text": "Clément"
                 },
                 {
                     "correct": true,
-                    "text": "Autobombe"
+                    "text": "Mussolini"
                 },
                 {
-                    "text": "in der Wanne ertrunken"
+                    "text": "Luuk"
                 },
                 {
-                    "text": "im Schlaf vergiftet"
+                    "text": "Matthew"
                 }
             ]
         },
@@ -8632,24 +8632,24 @@
                 }
             ]
         },
-        {# Anderer Sport vielleicht?
+        {
             "x": false,
             "id": 37381,
-            "text": "Welche Position repräsentiert die Nummer 3 im Baseball?",
+            "text": "Durch was finanzierte sich Philosoph Immanuel Kant sein Studium?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "First Base"
+                    "text": "Billardturniere"
                 },
                 {
-                    "text": "Catcher"
+                    "text": "Pokerturniere"
                 },
                 {
-                    "text": "Shortstop"
+                    "text": "Schachturniere"
                 },
                 {
-                    "text": "Third Base"
+                    "text": "Dartturniere"
                 }
             ]
         },
@@ -8779,24 +8779,24 @@
                 }
             ]
         },
-        {# Film ändern
+        {
             "x": false,
             "id": 37326,
-            "text": "In welchem Wes Anderson Film spielt Owen Wilson NICHT mit?",
+            "text": "In welchem Film spielt Jan Josef Liefers mit?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Grand Budapest Hotel<\/i>"
+                    "text": "<i>Der geilste Tag<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Moonrise Kingdom<\/i>"
+                    "text": "<i>Vier gegen die Bank<\/i>"
                 },
                 {
-                    "text": "<i>Die Royal Tenenbaums<\/i>"
+                    "text": "<i>Hans im Glück<\/i>"
                 },
                 {
-                    "text": "<i>Durchgeknallt<\/i>"
+                    "text": "<i>Stellenweise Glatteis<\/i>"
                 }
             ]
         },
@@ -8947,7 +8947,7 @@
                 }
             ]
         },
-        {#
+        {
             "x": false,
             "id": 37290,
             "text": "Von wem hatte Diktator Muammar al-Gaddafi ein Foto-Sammelalbum?",
@@ -9136,31 +9136,31 @@
                 }
             ]
         },
-        {# Promis ersetzen
+        {
             "x": false,
             "id": 37268,
             "text": "Wer starb zuerst?",
             "pic": false,
             "choices": [
                 {
-                    "text": "William Shakespeare"
+                    "text": "Karl Dall"
                 },
                 {
-                    "text": "Sir Walter Raleigh"
+                    "text": "Eddi Arend"
                 },
                 {
                     "correct": true,
-                    "text": "Maria Stuart"
+                    "text": "Dirk Bach"
                 },
                 {
-                    "text": "Pocahontas"
+                    "text": "Helmut Schmidt"
                 }
             ]
         },
         {
             "x": false,
             "id": 37266,
-            "text": "Welche Milch wird für den Käse \201cRoquefort\u201d benutzt?",
+            "text": "Welche Milch wird für den Käse \u201cRoquefort\u201d benutzt?",
             "pic": false,
             "choices": [
                 {
@@ -9307,21 +9307,21 @@
         {
             "x": false,
             "id": 37253,
-            "text": "In welcher Partei war Dieter Bohlen für zwei Jahre Mitglied?",
+            "text": "Wer ist der größte Bleistifthersteller der Welt?",
             "pic": false,
             "choices": [
                 {
-                    "text": "NPD"
+                    "text": "Staedtler"
                 },
                 {
                     "correct": true,
-                    "text": "DKP"
+                    "text": "Faber-Castell"
                 },
                 {
-                    "text": "Die PARTEI"
+                    "text": "Stabilo"
                 },
                 {
-                    "text": "AfD"
+                    "text": "Herlitz"
                 }
             ]
         },
@@ -9409,7 +9409,7 @@
                 }
             ]
         },
-        {# möglicherweise ändern
+        {
             "x": false,
             "id": 37241,
             "text": "Was war der ursprüngliche Name für den Facebook \u201cLike\u201d Button?",
@@ -9517,21 +9517,21 @@
         {
             "x": false,
             "id": 37235,
-            "text": "Wie heißt ein Veggie Burger bei der Fastfoodkette Fatburger?",
+            "text": "\u201cRita\u201d ist die Schutzheilige der...?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "The Hypocrite"
+                    "text": "Wursthersteller"
                 },
                 {
-                    "text": "The Wuss"
+                    "text": "Benzinmotorbauer"
                 },
                 {
-                    "text": "The Cop Out"
+                    "text": "Stabheuschrecken"
                 },
                 {
-                    "text": "The Sad Burger"
+                    "text": "Handballspieler"
                 }
             ]
         },
