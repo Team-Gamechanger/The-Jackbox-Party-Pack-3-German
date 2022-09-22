@@ -9535,7 +9535,7 @@
                 }
             ]
         },
-        {
+        {#ggf ersetzen, NICHT schwer zu entfernen
             "x": false,
             "id": 37234,
             "text": "Welche dieser Körperflüssigkeiten benutzten die Doktoren im Mittelalter NICHT, um Krankheiten zu entdecken?",
@@ -9559,7 +9559,7 @@
         {
             "x": false,
             "id": 37233,
-            "text": "Welches Tier repräsentiert die Oboe in Sergei Prokofjews musikalischer Komposition <i>Peter und der Wolf<\/i> ?",
+            "text": "Welches Tier repräsentiert die Oboe in Sergei Prokofjews musikalischer Komposition <i>Peter und der Wolf<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -9622,42 +9622,42 @@
         {
             "x": false,
             "id": 37217,
-            "text": "\u201cLittle Monsters\u201d ist der Spitzname der Anhängerschaft welcher Musikerin?",
+            "text": "Wofür steht die Abkürzung <i>CD-ROM<\/i>?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Rihanna"
+                    "text": "Compact Data Read-Only Medium"
                 },
                 {
-                    "text": "Nicki Minaj"
+                    "text": "Computer Disc relied on Music"
                 },
                 {
                     "correct": true,
-                    "text": "Lady Gaga"
+                    "text": "Compact Disc Read-Only Memory"
                 },
                 {
-                    "text": "Avril Lavigne"
+                    "text": "Computer Data runing over Medium"
                 }
             ]
         },
         {
             "x": false,
             "id": 37216,
-            "text": "Das \u201cMiracle on Ice\u201d passierte bei welchen olympischen Winterspielen?",
+            "text": "Wie lautet der Name eines norwegischen Winterportortes?",
             "pic": false,
             "choices": [
                 {
-                    "text": "1976"
+                    "text": "Uppsala"
                 },
                 {
                     "correct": true,
-                    "text": "1980"
+                    "text": "Geilo"
                 },
                 {
-                    "text": "1984"
+                    "text": "Swanz"
                 },
                 {
-                    "text": "1988"
+                    "text": "Nøkia"
                 }
             ]
         },
@@ -9696,7 +9696,7 @@
                 },
                 {
                     "correct": true,
-                    "text": "grüne Zwiebel"
+                    "text": "Zwiebel"
                 },
                 {
                     "text": "Sellerie"
@@ -9755,7 +9755,7 @@
                     "text": "Kohlenstoff"
                 },
                 {
-                    "text": "Nickel"
+                    "text": "Zink"
                 },
                 {
                     "text": "Titan"
@@ -9853,11 +9853,11 @@
         {
             "x": false,
             "id": 37187,
-            "text": "Welche dieser Giftschlangen kann man sich mit der Eselsbrücke \u201cRed and yellow, kills a fellow\u201d merken?",
+            "text": "Welche dieser Giftschlangen kann man sich mit der Eselsbrücke \u201cBlut an Dotter, Killer-Otter. Blut an Kohle, dir zum Wohle\u201d merken?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Königskobra"
+                    "text": "Königsotter"
                 },
                 {
                     "correct": true,
@@ -9867,7 +9867,7 @@
                     "text": "Wassermokassinotter"
                 },
                 {
-                    "text": "Buschmeister"
+                    "text": "Fleckenhalsotter"
                 }
             ]
         },
@@ -9958,42 +9958,42 @@
         {
             "x": false,
             "id": 37122,
-            "text": "Hominy ist eine Art von was?",
+            "text": "Was ist römisches Roulette?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Zwiebel"
+                    "text": "eine Art des Speerwurf"
                 },
                 {
-                    "text": "Mehl"
+                    "text": "ein Longdrink aus Venedig"
                 },
                 {
                     "correct": true,
-                    "text": "Mais"
+                    "text": "eine Verhütungsmethode"
                 },
                 {
-                    "text": "Bohne"
+                    "text": "ein Spiel mit Pfeil und Bogen"
                 }
             ]
         },
         {
             "x": false,
             "id": 37121,
-            "text": "Die Gründung welcher Firma machte Sara Blakely zur Milliardärin?",
+            "text": "Die Gründung welcher Firma machte Beate Heister zur Milliardärin?",
             "pic": false,
             "choices": [
                 {
-                    "text": "L\u2019Oreal"
+                    "text": "Würth"
                 },
                 {
-                    "text": "Microsoft"
+                    "text": "Otto"
                 },
                 {
-                    "text": "Costco"
+                    "text": "BMW"
                 },
                 {
                     "correct": true,
-                    "text": "Spanx"
+                    "text": "Aldi Süd"
                 }
             ]
         },
