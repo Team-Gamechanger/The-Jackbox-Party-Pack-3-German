@@ -9643,7 +9643,7 @@
         {
             "x": false,
             "id": 37216,
-            "text": "Wie lautet der Name eines norwegischen Winterportortes?",
+            "text": "Wie lautet der Name eines norwegischen Wintersportortes?",
             "pic": false,
             "choices": [
                 {
@@ -10000,21 +10000,21 @@
         {
             "x": false,
             "id": 37119,
-            "text": "Wie heißt das fiktive Folk Trio in <i>A Mighty Wind<\/i> ?",
+            "text": "Wann erscheint die Zeitung <i>der Freitag<\/i>?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "The Folksmen"
+                    "text": "jeden Donnerstag"
                 },
                 {
-                    "text": "The Wonders"
+                    "text": "jeden zweiten Freitag"
                 },
                 {
-                    "text": "The Soggy Bottom Boys"
+                    "text": "immer am 14. des Monats"
                 },
                 {
-                    "text": "The Starlighters"
+                    "text": "am ersten Montag jeden Quartals"
                 }
             ]
         },
@@ -10063,21 +10063,21 @@
         {
             "x": false,
             "id": 37116,
-            "text": "Wie stirbt Bruce Willis\u2019 Charakter in <i>Sixth Sense<\/i> ?",
+            "text": "Was wird im Film <i>Der Schuh des Manitu<\/i> als Kriegserklärung ausgegraben?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "erschossen"
+                    "text": "der Klappstuhl"
                 },
                 {
-                    "text": "vom Auto überfahren"
+                    "text": "der Aschenbecher"
                 },
                 {
-                    "text": "erstochen"
+                    "text": "das Kriegsbeil"
                 },
                 {
-                    "text": "erwürgt"
+                    "text": "der rosa Flip-Flop"
                 }
             ]
         },
@@ -10105,42 +10105,42 @@
         {
             "x": false,
             "id": 37062,
-            "text": "Was ist der bürgerliche Name von Macklemore?",
+            "text": "Was machte Reiner Calmund 2009 nach einer einjährigen Diät, bei der er 30 kg abnahm?",
             "pic": false,
             "choices": [
                 {
-                    "text": "David Campbell"
+                    "text": "für sechs Jahre ins Saarland ziehen"
                 },
                 {
                     "correct": true,
-                    "text": "Ben Haggerty"
+                    "text": "einen Halbmarathon laufen und 40 kg zunehmen"
                 },
                 {
-                    "text": "Bobby Jenkins"
+                    "text": "eine Magenverkleinerung durchführen lassen"
                 },
                 {
-                    "text": "Curtis Jackson"
+                    "text": "in den Aufsichtsrat von Fortuna Düsseldorf gewählt werden"
                 }
             ]
         },
         {
             "x": false,
             "id": 35337,
-            "text": "\u201cNot the bees!\u201d wird in welchem Nicolas Cage Film geschrien?",
+            "text": "Was gibt es eigentlich in Mannheim?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>The Rock<\/i>"
+                    "text": "Günther Jauch als Ehrenbürger"
                 },
                 {
-                    "text": "<i>Nur noch 60 Sekunden<\/i>"
+                    "text": "das Haus der Erfinderin des Kaffeefilters"
                 },
                 {
                     "correct": true,
-                    "text": "<i>The Wicker Man<\/i>"
+                    "text": "rund 310000 Einwohner "
                 },
                 {
-                    "text": "<i>Das Vermächtnis der Tempelritter<\/i>"
+                    "text": "eine Städtepartnerschaft mit Rheda-Wiedenbrück"
                 }
             ]
         },
@@ -10231,21 +10231,21 @@
         {
             "x": false,
             "id": 35131,
-            "text": "Wer sang mit The Wailers?",
+            "text": "Wie hieß die erste Nummer 1 aus <i>Spongebob<\/i>?",
             "pic": false,
             "choices": [
                 {
+                    "text": "Schmitty Pearl Fisherman Benson"
+                },
+                {
                     "correct": true,
-                    "text": "Bob Marley"
+                    "text": "Smitty Werben Jagger Man Jensen"
                 },
                 {
-                    "text": "Marvin Gaye"
+                    "text": "Schmitty Burbon Dagger Man Wenson"
                 },
                 {
-                    "text": "Bob Dylan"
-                },
-                {
-                    "text": "Barry White"
+                    "text": "Smitty Earl Jagerman Janson"
                 }
             ]
         },
@@ -10294,21 +10294,21 @@
         {
             "x": false,
             "id": 35092,
-            "text": "Welche NBA Mannschaft gehört seit 2014 dem früheren Microsoft CEO Steve Ballmer?",
+            "text": "Wie hoch ist die Wahrscheinlichkeit, dass von 23 zufälligen Person zwei von ihnen am gleichen Tag Geburtstag haben?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "L.A. Clippers"
+                    "text": "ca. 51%"
                 },
                 {
-                    "text": "New York Knicks"
+                    "text": "ca. 23%"
                 },
                 {
-                    "text": "Oklahoma Thunder"
+                    "text": "ca. 0,06%"
                 },
                 {
-                    "text": "Dallas Mavericks"
+                    "text": "ca. 4%"
                 }
             ]
         },
