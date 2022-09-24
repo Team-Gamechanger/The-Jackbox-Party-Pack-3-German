@@ -25,7 +25,7 @@
         {
             "x": false,
             "id": 41959,
-            "text": "Wie viele Darsteller tauchen laut IMDB in der deutschen Verfilmung zum Roman <i>Die Welle<\/i> auf",
+            "text": "Wie viele Darsteller tauchen laut IMDB in der deutschen Verfilmung zum Roman <i>Die Welle<\/i> auf?",
             "pic": false,
             "choices": [
                 {
@@ -144,7 +144,7 @@
                 },
                 {
                     "correct": true,
-                    "text": "<i>Hasch mich, ich bin der Mörder<\/i>"
+                    "text": "<i>Hasch mich - ich bin der Mörder<\/i>"
                 }
             ]
         },
@@ -907,7 +907,7 @@
         {
             "x": false,
             "id": 39053,
-            "text": "Welcher <i>Sharknado</i>-Film trägt auch den Titel <i>Global Swarming</i>",
+            "text": "Welcher <i>Sharknado</i>-Film trägt auch den Titel <i>Global Swarming</i>?",
             "pic": false,
             "choices": [
                 {
@@ -1117,21 +1117,21 @@
         {
             "x": false,
             "id": 39018,
-            "text": "Was ist Björk\u2019s Nachname?",
+            "text": "Welche dieser Tierarten gibt es wirklich?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Thoroddsen"
+                    "text": "Flugzeugschwäne"
                 },
                 {
                     "correct": true,
-                    "text": "GuÃ°mundsdÃ³ttir"
+                    "text": "Dampfschiffenten"
                 },
                 {
-                    "text": "Hjaltested"
+                    "text": "Lastwagenkröten"
                 },
                 {
-                    "text": "NorÃ°dahl"
+                    "text": "Traktormarder"
                 }
             ]
         },
@@ -1247,17 +1247,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "Die Freiheitsstaue"
+                    "text": "Die Freiheitsstatue in New York City"
                 },
                 {
-                    "text": "Cristo Redentor"
+                    "text": "Cristo Redentor in Rio de Janeiro"
                 },
                 {
                     "correct": true,
-                    "text": "Mt. Rushmore\u2019s Teddy Roosevelt"
+                    "text": "Teddy Roosevelt im Mount Rushmore"
                 },
                 {
-                    "text": "Der Denker"
+                    "text": "Der Denker in Paris"
                 }
             ]
         },
@@ -1327,21 +1327,21 @@
         {
             "x": false,
             "id": 38992,
-            "text": "Wie macht man Mehlsuppe?",
+            "text": "Wie nennt man Mehlsuppe auf Schwäbisch?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Kohl kochen"
+                    "text": "Feuersuppe"
                 },
                 {
-                    "text": "Möhren kochen"
+                    "text": "Brandsuppe"
                 },
                 {
                     "correct": true,
-                    "text": "Hafer kochen"
+                    "text": "Brennsuppe"
                 },
                 {
-                    "text": "Rüben kochen"
+                    "text": "Flammensuppe"
                 }
             ]
         },
@@ -1443,7 +1443,7 @@
                 },
                 {
                     "correct": true,
-                    "text": "0,3 mal die Höhe des Eifelturms"
+                    "text": "0,3 mal die Höhe des Eiffelturms"
                 },
                 {
                     "text": "0,1 Meilen"
@@ -1957,7 +1957,7 @@
         {
             "x": false,
             "id": 38852,
-            "text": "Was heißt \"Samsung\" auf Deutsch?",
+            "text": "Was heißt \u201cSamsung\u201d auf Deutsch?",
             "pic": false,
             "choices": [
                 {
@@ -1978,25 +1978,25 @@
         {
             "x": false,
             "id": 38844,
-            "text": "Wie sprach John Travolta Idina Menzel\u2019s Namen bei den Oscars 2014 aus?",
+            "text": "Welche Farbe hat der Knopf des schwarzen Fotoalbums in Sidos Lied \u201cBilder im Kopf\u201d?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Adele Dazeem"
+                    "text": "silber"
                 },
                 {
-                    "text": "Nadia Dalzoo"
+                    "text": "lila"
                 },
                 {
-                    "text": "Doreen Mensa"
+                    "text": "gold"
                 },
                 {
-                    "text": "India Mazool"
+                    "text": "hellgrau"
                 }
             ]
         },
-        {
+        {#
             "x": false,
             "id": 38842,
             "text": "Wem hat Dick Cheney ins Gesicht geschossen?",
@@ -2419,15 +2419,15 @@
         {
             "x": false,
             "id": 38730,
-            "text": "Was ist der Tonfrequenzbereich einer Hundepfeife?",
+            "text": "Was ist der Tonfrequenzbereich einer Hundepfeife auf dem deutschen Markt?",
             "pic": false,
             "choices": [
                 {
-                    "text": "12 bis 31 kHz"
+                    "correct": true,
+                    "text": "5 bis 13 kHz"
                 },
                 {
-                    "correct": true,
-                    "text": "23 bis 54 kHz"
+                    "text": "17 bis 36 kHz"
                 },
                 {
                     "text": "48 bis 72 kHz"
@@ -2839,7 +2839,7 @@
         {
             "x": false,
             "id": 38463,
-            "text": "Mit welchem Kleidungsstück gewann Karl Lagerfeld 1955 einen internationalen Wettbewerb?",
+            "text": "Mit welchem Kleidungsstück gewann Karl Lagerfeld Ende 1954 einen internationalen Wettbewerb?",
             "pic": false,
             "choices": [
                 {
@@ -3175,7 +3175,7 @@
         {
             "x": false,
             "id": 38436,
-            "text": "Wie viele Gäste sitzen in Edward Hopper\u2019s Bild <i>Nighthawks<\/i> an der Bar?",
+            "text": "Wie viele Gäste sitzen in Edward Hoppers Bild <i>Nighthawks<\/i> an der Bar?",
             "pic": false,
             "choices": [
                 {
@@ -3322,7 +3322,7 @@
         {
             "x": false,
             "id": 38428,
-            "text": "Nach den Originalregeln von <i>Uno<\/i> , wie viele Punkte ist die \u201cAussetzen\u201d Karte wert?",
+            "text": "Nach den Originalregeln von <i>UNO<\/i>, wie viele Punkte ist die \u201cAussetzen\u201d Karte wert?",
             "pic": false,
             "choices": [
                 {
@@ -3385,7 +3385,7 @@
         {
             "x": false,
             "id": 38425,
-            "text": "Wie heißt die Importfirma von Olivenöl der Corleones in den <i>Der Pate<\/i>  Filmen?",
+            "text": "Wie heißt die Importfirma von Olivenöl der Corleones in den <i>Der Pate<\/i>-Filmen?",
             "pic": false,
             "choices": [
                 {
@@ -3448,7 +3448,7 @@
         {
             "x": false,
             "id": 38422,
-            "text": "Wie viele der 20 verschiedenen Antworten vom originalen Magic 8-Ball sind positiv?",
+            "text": "Wie viele der 20 verschiedenen Antworten vom originalen Magic 8 Ball sind positiv?",
             "pic": false,
             "choices": [
                 {
@@ -3490,7 +3490,7 @@
         {
             "x": false,
             "id": 38420,
-            "text": "Wie hieß nochmal dieser Typ, der Löwenzahl nach Peter Lustig moderierte?",
+            "text": "Wie hieß nochmal dieser Typ, der Löwenzahn nach Peter Lustig moderierte?",
             "pic": false,
             "choices": [
                 {
@@ -3532,7 +3532,7 @@
         {
             "x": false,
             "id": 38417,
-            "text": "\u201cPenny Black\u201d ist der Name der weltweit ersten",
+            "text": "\u201cPenny Black\u201d ist der Name der weltweit ersten...?",
             "pic": false,
             "choices": [
                 {
@@ -3553,7 +3553,7 @@
         {
             "x": false,
             "id": 38416,
-            "text": "Wenn man in der ersten Schulklasse ist, dann ist man ein",
+            "text": "Was ist man, wenn man in der ersten Schulklasse ist?",
             "pic": false,
             "choices": [
                 {
@@ -3742,7 +3742,7 @@
         {
             "x": false,
             "id": 38325,
-            "text": "Welche Farbe hat die Schleife auf I-Aah\u2019s Schwanz?",
+            "text": "Welche Farbe hat die Schleife auf I-Aahs Schwanz?",
             "pic": false,
             "choices": [
                 {
@@ -3805,21 +3805,21 @@
         {
             "x": false,
             "id": 38321,
-            "text": "Wie kann man erkennen, welche Flasche Zyanit enthält?",
+            "text": "Wie kann man erkennen, welche Flasche Cyanit enthält?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Zyanit schmeckt wie Mandel"
+                    "text": "Cyanit schmeckt wie Mandel"
                 },
                 {
-                    "text": "Zyanit schmeckt wie Vanille"
+                    "text": "Cyanit schmeckt wie Vanille"
                 },
                 {
-                    "text": "Zyanit schmeckt wie Zimt"
+                    "text": "Cyanit schmeckt wie Zimt"
                 },
                 {
-                    "text": "Zyanit schmeckt wie Schokolade"
+                    "text": "Cyanit schmeckt wie Schokolade"
                 }
             ]
         },
@@ -3994,7 +3994,7 @@
         {
             "x": false,
             "id": 38280,
-            "text": "Welches dieser Instrumente spielt Dr. Teeth, der Bandleader aus <i>Die Muppet Show</i>",
+            "text": "Welches dieser Instrumente spielt Dr. Teeth, der Bandleader aus <i>Die Muppet Show</i>?",
             "pic": false,
             "choices": [
                 {
@@ -4036,7 +4036,7 @@
         {
             "x": false,
             "id": 38273,
-            "text": "Wie heißt die Riesenschildkröte in <i>Die unendliche Geschichte<\/i> ?",
+            "text": "Wie heißt die Riesenschildkröte in <i>Die unendliche Geschichte<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -4288,7 +4288,7 @@
         {
             "x": false,
             "id": 38256,
-            "text": "Wie heißt der Moderator der TV Show in den <i>Die Tribute von Panem<\/i>  Büchern?",
+            "text": "Wie heißt der Moderator der TV-Show in den <i>Die Tribute von Panem<\/i>-Büchern?",
             "pic": false,
             "choices": [
                 {
@@ -4386,14 +4386,14 @@
                     "text": "It Will Rain"
                 },
                 {
-                    "text": "Somebody that i used to know"
+                    "text": "Somebody That I Used To Know"
                 }
             ]
         },
         {
             "x": false,
             "id": 38249,
-            "text": "Welches Ministerium ist in George Orwell\u2019s Roman <i>1984<\/i> dafür verantwortlich, Recht und Ordnung aufrecht zu erhalten?",
+            "text": "Welches Ministerium ist in George Orwells Roman <i>1984<\/i> dafür verantwortlich, Recht und Ordnung aufrecht zu erhalten?",
             "pic": false,
             "choices": [
                 {
@@ -4435,7 +4435,7 @@
         {
             "x": false,
             "id": 38247,
-            "text": "Was macht der Polizist, der auf dem Feld \"Geh ins Gefängnis\" auf einem <i>Monopoly</i>-Spielbrett abgebildet ist?",
+            "text": "Was macht der Polizist, der auf dem Feld \u201cGeh ins Gefängnis\u201d auf einem <i>Monopoly</i>-Spielbrett abgebildet ist?",
             "pic": false,
             "choices": [
                 {
@@ -4561,11 +4561,11 @@
         {
             "x": false,
             "id": 38241,
-            "text": "Was ist in der ersten Version von <i>SimCity<\/i>  KEINE Katastrophe, die die Stadt zerstören kann?",
+            "text": "Was ist in der ersten Version von <i>SimCity<\/i> KEINE Katastrophe, die die Stadt zerstören kann?",
             "pic": false,
             "choices": [
                 {
-                    "text": "UFO Angriff"
+                    "text": "UFO-Angriff"
                 },
                 {
                     "text": "Kernschmelze"
@@ -4624,7 +4624,7 @@
         {
             "x": false,
             "id": 38238,
-            "text": "Wer trennt sich mit einer Bügelsäge den eigenen Fuß ab, um der Fessel zu entkommen am Ende von <i>Saw<\/i>?",
+            "text": "Wer trennt sich am Ende von <i>Saw<\/i> mit einer Bügelsäge den eigenen Fuß ab, um der Fessel zu entkommen?",
             "pic": false,
             "choices": [
                 {
@@ -4729,7 +4729,7 @@
         {
             "x": false,
             "id": 38233,
-            "text": "Welches der folgenden Kekse wird von DeBeukelaer produziert?",
+            "text": "Welches der folgenden Kekse wird von <i>DeBeukelaer<\/i> produziert?",
             "pic": false,
             "choices": [
                 {
@@ -4771,7 +4771,7 @@
         {
             "x": false,
             "id": 38231,
-            "text": "Welches der folgenden ist KEIN Charakter aus den <i>Garfield<\/i>-Comics ?",
+            "text": "Welches der folgenden ist KEIN Charakter aus den <i>Garfield<\/i>-Comics?",
             "pic": false,
             "choices": [
                 {
@@ -4813,7 +4813,7 @@
         {
             "x": false,
             "id": 38228,
-            "text": "Wie heißt der Mopedfahrende Antagonist im Film <i>(T)Raumschiff Surprise – Periode 1<\/i>?",
+            "text": "Wie heißt der mopedfahrende Antagonist im Film <i>(T)Raumschiff Surprise – Periode 1<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -4834,7 +4834,7 @@
         {
             "x": false,
             "id": 38227,
-            "text": "Wie heißt der gruselige, gestaltverändernde Clown in Stephen King\u2019s Roman <i>Es<\/i> ?",
+            "text": "Wie heißt der gruselige, gestaltverändernde Clown in Stephen Kings Roman <i>Es<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -4855,7 +4855,7 @@
         {
             "x": false,
             "id": 38226,
-            "text": "Welches klassische NES Videospiel beinhaltet einen Charakter namens \u201cMother Brain\u201d?",
+            "text": "Welches klassische NES-Videospiel beinhaltet einen Charakter namens \u201cMother Brain\u201d?",
             "pic": false,
             "choices": [
                 {
@@ -4876,7 +4876,7 @@
         {
             "x": false,
             "id": 38225,
-            "text": "Wie parodierte der Musiker \u201cWeird Al\u201d Yankovic Pharrell Williams \u201cHappy\u201d auf seinem Album <i>Mandatory Fun<\/i> ?",
+            "text": "Wie parodierte der Musiker \u201cWeird Al\u201d Yankovic Pharrell Williams \u201cHappy\u201d auf seinem Album <i>Mandatory Fun<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -5044,7 +5044,7 @@
         {
             "x": false,
             "id": 38213,
-            "text": "Wenn man einen Depressionsurlaub zum Ort des Tschernobyl Unglücks machen wollte, wo müsste man hingehen?",
+            "text": "Wenn man einen Depressionsurlaub zum Ort des Tschernobyl-Unglücks machen wollte, wo müsste man hingehen?",
             "pic": false,
             "choices": [
                 {
@@ -5128,7 +5128,7 @@
         {
             "x": false,
             "id": 38209,
-            "text": "Welcher Pflanze ist die Schlüsselzutat für Gin?",
+            "text": "Welche Pflanze ist die Schlüsselzutat für Gin?",
             "pic": false,
             "choices": [
                 {
@@ -5149,7 +5149,7 @@
         {
             "x": false,
             "id": 38208,
-            "text": "Wer war nochmal dieser coole Hauptantagonist in <i>JoJo's Bizarre Adventure - Part 1<\/i>",
+            "text": "Wer war nochmal dieser coole Hauptantagonist in <i>JoJo's Bizarre Adventure - Part 1<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -5275,7 +5275,7 @@
         {
             "x": false,
             "id": 38202,
-            "text": "Éamon de Valera war der erste Premierminister von\u2026",
+            "text": "Von welchem Land war Éamon de Valera der erste Premierminister?",
             "pic": false,
             "choices": [
                 {
@@ -5317,7 +5317,7 @@
         {
             "x": false,
             "id": 38196,
-            "text": "Microsoft brachte 2006 als Konkurrenzprodukt zu Apple\u2019s iPod einen portablen MP3-Player heraus namens...",
+            "text": "Microsoft brachte 2006 als Konkurrenzprodukt zu Apples iPod einen portablen MP3-Player heraus, namens...",
             "pic": false,
             "choices": [
                 {
@@ -5338,7 +5338,7 @@
         {
             "x": false,
             "id": 38194,
-            "text": "Welchen Namen hat das zweite Level im Spieleklassiker <i>Super Mario 64<\/i> ?",
+            "text": "Welchen Namen hat das zweite Level im Spieleklassiker <i>Super Mario 64<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -5380,7 +5380,7 @@
         {
             "x": false,
             "id": 38192,
-            "text": "Wer bekam als erstes vom <i>People<\/i> Magazin den Titel \u201cSexiest Man Alive\u201d verliehen?",
+            "text": "Wer bekam als erstes vom <i>People Magazine<\/i> den Titel \u201cSexiest Man Alive\u201d verliehen?",
             "pic": false,
             "choices": [
                 {
@@ -5888,17 +5888,17 @@
             "pic": true,
             "choices": [
                 {
-                    "text": "8:10"
+                    "text": "8:10 Uhr"
                 },
                 {
-                    "text": "5:00"
+                    "text": "5:00 Uhr"
                 },
                 {
                     "correct": true,
-                    "text": "11:40"
+                    "text": "11:40 Uhr"
                 },
                 {
-                    "text": "2:35"
+                    "text": "2:35 Uhr"
                 }
             ]
         },
@@ -5926,7 +5926,7 @@
         {
             "x": false,
             "id": 38164,
-            "text": "Welcher Show hat Steven Gätjen eigentlich noch NICHT moderiert?!",
+            "text": "Welche Show hat Steven Gätjen eigentlich noch NICHT moderiert?!",
             "pic": false,
             "choices": [
                 {
@@ -6010,7 +6010,7 @@
         {
             "x": false,
             "id": 38138,
-            "text": "Wie heißt das Titellied der Originalen <i>Mr. Bean<\/i>Serie?",
+            "text": "Wie heißt das Titellied der originalen <i>Mr. Bean<\/i>-Serie?",
             "pic": false,
             "choices": [
                 {
@@ -6283,7 +6283,7 @@
         {
             "x": false,
             "id": 38069,
-            "text": "Welche Farbe ist NICHT im eBay-Logo?",
+            "text": "Welche Farbe ist NICHT im <i>eBay<\/i>-Logo?",
             "pic": false,
             "choices": [
                 {
@@ -6480,7 +6480,7 @@
                     "text": "vor 40.000 - 400.000 Jahren"
                 },
                 {
-                    "text": " vor 200.000 - 700.000 Jahren"
+                    "text": "vor 200.000 - 700.000 Jahren"
                 },
                 {
                     "text": "vor 500.000 - 1,9 Millionen Jahren"
@@ -6539,17 +6539,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "meiner Patellarsehne"
+                    "text": "an der Patellarsehne"
                 },
                 {
-                    "text": "meiner Achillessehne"
+                    "text": "an der Achillessehne"
                 },
                 {
                     "correct": true,
-                    "text": "meinem Radiusgelenk"
+                    "text": "am Radiusgelenk"
                 },
                 {
-                    "text": "meinem vorderen Kreuzband"
+                    "text": "am vorderen Kreuzband"
                 }
             ]
         },
@@ -6703,7 +6703,7 @@
         {
             "x": false,
             "id": 37892,
-            "text": "Fest, flüssig und gasförmig sind drei der vier Aggregatzustände. Welches ist der vierte?",
+            "text": "Fest, flüssig und gasförmig sind drei der vier Aggregatzustände. Welcher ist der vierte?",
             "pic": false,
             "choices": [
                 {
@@ -6745,7 +6745,7 @@
         {
             "x": false,
             "id": 37890,
-            "text": "Welcher Ökonom führte die Methapher der \u201cunsichtbaren Hand\u201d ein?",
+            "text": "Welcher Ökonom führte die Metapher der \u201cunsichtbaren Hand\u201d ein?",
             "pic": false,
             "choices": [
                 {
@@ -6934,7 +6934,7 @@
         {
             "x": false,
             "id": 37816,
-            "text": "Idi Amin war der rücksichtslos Diktator welches Landes?",
+            "text": "Idi Amin war der rücksichtslose Diktator welches Landes?",
             "pic": false,
             "choices": [
                 {
@@ -7018,7 +7018,7 @@
         {
             "x": false,
             "id": 37765,
-            "text": "Ich wurde von einer Mücke gestochen! Was ist KEIN Grund, weshalb es so juckt??",
+            "text": "Ich wurde von einer Mücke gestochen! Was ist KEIN Grund, weshalb es so juckt!?",
             "pic": false,
             "choices": [
                 {
@@ -7312,7 +7312,7 @@
         {
             "x": false,
             "id": 37611,
-            "text": "Was war Grumpy Cat\u2019s richtiger Name?",
+            "text": "Was war Grumpy Cats richtiger Name?",
             "pic": false,
             "choices": [
                 {
@@ -7417,7 +7417,7 @@
         {
             "x": false,
             "id": 37578,
-            "text": "Was war der erste Film, der das Spülen einer Toillete zeigte?",
+            "text": "Was war der erste Film, der das Spülen einer Toilette zeigte?",
             "pic": false,
             "choices": [
                 {
@@ -7438,7 +7438,7 @@
         {
             "x": false,
             "id": 37571,
-            "text": "Wofür steht das erste A in NASA?",
+            "text": "Wofür steht das erste A in <i>NASA<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -7774,7 +7774,7 @@
         {
             "x": false,
             "id": 37488,
-            "text": "Wer tötet und enthauptet Macbeth in William Shakespeare\u2019s <i>Macbeth<\/i> ?",
+            "text": "Wer tötet und enthauptet Macbeth in William Shakespeares <i>Macbeth<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -7816,7 +7816,7 @@
         {
             "x": false,
             "id": 37486,
-            "text": "Wie heißt das fligende Pferd von Regina Regenbogen?",
+            "text": "Wie heißt das fliegende Pferd von Regina Regenbogen?",
             "pic": false,
             "choices": [
                 {
@@ -7837,7 +7837,7 @@
         {
             "x": false,
             "id": 37485,
-            "text": "Wie heißt die Axt-schwingende Gespensterbraut, die auf dem Dachboden in Disney\u2019s \u201cHaunted Mansion haust?\u201d",
+            "text": "Wie heißt die axtschwingende Gespensterbraut, die auf dem Dachboden in Disneys \u201cHaunted Mansion\u201d haust?",
             "pic": false,
             "choices": [
                 {
@@ -7921,7 +7921,7 @@
         {
             "x": false,
             "id": 37480,
-            "text": "Welches der folgenden ist ein Bruce Lee Film?",
+            "text": "Welches der folgenden ist ein Bruce Lee-Film?",
             "pic": false,
             "choices": [
                 {
@@ -8110,7 +8110,7 @@
         {
             "x": false,
             "id": 37465,
-            "text": "Welches ist KEINS der 3 Meistgenutzten Wörter im Deutschen?",
+            "text": "Welches ist KEINES der 3 meistgenutzten Wörter im Deutschen?",
             "pic": false,
             "choices": [
                 {
@@ -8299,7 +8299,7 @@
         {
             "x": false,
             "id": 37454,
-            "text": "Welche der folgenden Charaktere aus Shakespeare\u2019s <i>Othello<\/i> stirbt NICHT durch erstechen?",
+            "text": "Welche der folgenden Charaktere aus Shakespeares <i>Othello<\/i> stirbt NICHT durch Erstechen?",
             "pic": false,
             "choices": [
                 {
@@ -8320,7 +8320,7 @@
         {
             "x": false,
             "id": 37453,
-            "text": "Welches Land versuchen die Baby Dinosaurier in <i>In einem Land vor unserer Zeit<\/i> zu erreichen?",
+            "text": "Welches Land versuchen die Baby-Dinosaurier in <i>In einem Land vor unserer Zeit<\/i> zu erreichen?",
             "pic": false,
             "choices": [
                 {
@@ -8341,7 +8341,7 @@
         {
             "x": false,
             "id": 37452,
-            "text": "Das Titellied welcher TV Shows wurde vom Hauptcharakter selbst gesungen?",
+            "text": "Das Titellied welcher TV-Shows wurde vom Hauptcharakter selbst gesungen?",
             "pic": false,
             "choices": [
                 {
@@ -8383,7 +8383,7 @@
         {
             "x": false,
             "id": 37449,
-            "text": "Was ist der zweite Vorname von Milhouse Van Houten in <i>Die Simpsons<\/i> ?",
+            "text": "Was ist der zweite Vorname von Milhouse Van Houten in <i>Die Simpsons<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -8614,7 +8614,7 @@
         {
             "x": false,
             "id": 37391,
-            "text": "Welches dieser Firmennamen entstand aus erfundenen Wörtern?",
+            "text": "Welcher dieser Firmennamen entstand aus erfundenen Wörtern?",
             "pic": false,
             "choices": [
                 {
@@ -9265,7 +9265,7 @@
         {
             "x": false,
             "id": 37258,
-            "text": "Welche Abkürzung hat die Telekom im DAX?",
+            "text": "Welche Abkürzung hat die <i>Telekom<\/i> im DAX?",
             "pic": false,
             "choices": [
                 {
@@ -9475,7 +9475,7 @@
         {
             "x": false,
             "id": 37237,
-            "text": "Woraus bestand im ersten Drehbuchentwurf für den Film <i>Zurück in die Zukunft<\/i>  Doc Brown\u2019s Zeitmaschine?",
+            "text": "Woraus bestand im ersten Drehbuchentwurf für den Film <i>Zurück in die Zukunft<\/i> Doc Browns Zeitmaschine?",
             "pic": false,
             "choices": [
                 {
@@ -9874,7 +9874,7 @@
         {
             "x": false,
             "id": 37181,
-            "text": "Was in meinem Verlies würde von jemandem gemacht werden, der im Englischen als Chandler bezeichnet wird?",
+            "text": "Was in meinem Verlies würde von jemandem gemacht werden, der im Englischen als \u201cChandler\u201d bezeichnet wird?",
             "pic": false,
             "choices": [
                 {
@@ -9937,7 +9937,7 @@
         {
             "x": false,
             "id": 37125,
-            "text": "Welchen Beruf hat Charlie Brown\u2019s Vater?",
+            "text": "Welchen Beruf hat Charlie Browns Vater?",
             "pic": false,
             "choices": [
                 {
@@ -10084,7 +10084,7 @@
         {
             "x": false,
             "id": 37100,
-            "text": "Welcher Planet hat Ringe?",
+            "text": "Welcher dieser Planeten hat Ringe?",
             "pic": false,
             "choices": [
                 {
@@ -10137,7 +10137,7 @@
                 },
                 {
                     "correct": true,
-                    "text": "rund 310000 Einwohner "
+                    "text": "rund 310000 Einwohner"
                 },
                 {
                     "text": "eine Städtepartnerschaft mit Rheda-Wiedenbrück"
@@ -10168,7 +10168,7 @@
         {
             "x": false,
             "id": 35212,
-            "text": "Wie heißt der Typ, der immer schreit \u201cAlviiiiiiiiin!\u201d?",
+            "text": "Wie heißt der Typ, der immer \u201cAlviiiiiiiiin!\u201d schreit?",
             "pic": false,
             "choices": [
                 {

@@ -795,7 +795,7 @@
         {
             "x": false,
             "id": 36236,
-            "text": "Westafrikanische Länder",
+            "text": "Westafrika-\nnische Länder",
             "choices": [
                 {
                     "correct": true,
@@ -5856,7 +5856,7 @@
                     "easy": false
                 },
                 {
-                    "correct": true,
+                    "correct": false,
                     "text": "Meson",
                     "easy": false
                 },
