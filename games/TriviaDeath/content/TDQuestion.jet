@@ -10021,7 +10021,7 @@
         {
             "x": false,
             "id": 37118,
-            "text": "Wie ist 5!... mathematisch definiert?",
+            "text": "Wie ist 5! (5 Fakultät) mathematisch definiert?",
             "pic": false,
             "choices": [
                 {
@@ -10147,7 +10147,7 @@
         {
             "x": false,
             "id": 35333,
-            "text": "Welches Land grenzt an Georgien?",
+            "text": "Welches dieser Länder grenzt an Georgien?",
             "pic": false,
             "choices": [
                 {
@@ -10210,7 +10210,7 @@
         {
             "x": false,
             "id": 35140,
-            "text": "Beluga Kaviar kommt von welcher Fischart?",
+            "text": "Beluga-Kaviar kommt von welcher Fischart?",
             "pic": false,
             "choices": [
                 {
@@ -10273,7 +10273,7 @@
         {
             "x": false,
             "id": 35095,
-            "text": "Wann startete die Sowjetunion Sputnik 1?",
+            "text": "Wann startete die Sputnik 1?",
             "pic": false,
             "choices": [
                 {
@@ -10315,49 +10315,49 @@
         {
             "x": false,
             "id": 35090,
-            "text": "In welcher Wintersportdisziplin trat Olympiateilnehmerin Picabo Street an?",
+            "text": "Welches Bundesland hat einen Löwen auf seinem Landeswappen?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Eiskunstlauf"
+                    "text": "Bayern"
                 },
                 {
-                    "text": "Eisschnelllauf"
+                    "text": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "text": "Nordrhein-Westfalen"
                 },
                 {
                     "correct": true,
-                    "text": "Ski Alpin"
-                },
-                {
-                    "text": "Snowboard"
+                    "text": "Saarland"
                 }
             ]
         },
         {
             "x": false,
             "id": 35079,
-            "text": "Die H\u2019s in 4-H stehen für Head, Heart, Hands und was noch?",
+            "text": "Wie heißt der grüne Teletubby?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Health"
+                    "text": "Dispy"
                 },
                 {
-                    "text": "Humility"
+                    "text": "Laa-Laa"
                 },
                 {
-                    "text": "Humor"
+                    "text": "Tinky-Winky"
                 },
                 {
-                    "text": "Heroics"
+                    "text": "Po"
                 }
             ]
         },
         {
             "x": false,
             "id": 35074,
-            "text": "Ein Önophile ist ein Kenner von was?",
+            "text": "Wenn jemand önophil ist, wovon ist diese Person dann ein Kenner?",
             "pic": false,
             "choices": [
                 {
@@ -10483,7 +10483,7 @@
         {
             "x": false,
             "id": 35044,
-            "text": "An welchen Knochen ist ein  Phrenologe interessiert?",
+            "text": "An welchen Knochen ist ein Phrenologe interessiert?",
             "pic": false,
             "choices": [
                 {
@@ -10525,7 +10525,7 @@
         {
             "x": false,
             "id": 34890,
-            "text": "Wie hieß der Supercomputer in <i>2001: Odyssee im Weltraum<\/i> ?",
+            "text": "Wie hieß der Supercomputer in <i>2001: Odyssee im Weltraum<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -10546,21 +10546,21 @@
         {
             "x": false,
             "id": 34888,
-            "text": "Zu was gehört Hefe?",
+            "text": "Was ist Hefe?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Bakterien"
+                    "text": "ein Bakterium"
                 },
                 {
-                    "text": "Reptilien"
+                    "text": "ein Reptil"
                 },
                 {
-                    "text": "Pflanzen"
+                    "text": "eine Pflanze"
                 },
                 {
                     "correct": true,
-                    "text": "Pilze"
+                    "text": "ein Pilz"
                 }
             ]
         },
@@ -10588,21 +10588,21 @@
         {
             "x": false,
             "id": 34883,
-            "text": "Wer ist der Anführer der Sharks in <i>West Side Story<\/i> ?",
+            "text": "Seit wann wird Beutolomäus im KiKA ausgestrahlt?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Tony"
+                    "text": "Dezember 1997"
                 },
                 {
-                    "text": "Riff"
+                    "text": "November 1998"
                 },
                 {
                     "correct": true,
-                    "text": "Bernardo"
+                    "text": "Dezember 2000"
                 },
                 {
-                    "text": "Maria"
+                    "text": "Januar 2001"
                 }
             ]
         },
@@ -10651,7 +10651,7 @@
         {
             "x": false,
             "id": 34502,
-            "text": "Welches dieser Länder ist NICHT ständiges Mitglied des UN Sicherheitsrats?",
+            "text": "Welches dieser Länder ist NICHT ständiges Mitglied des Weltsicherheitsrats?",
             "pic": false,
             "choices": [
                 {
@@ -10672,7 +10672,7 @@
         {
             "x": false,
             "id": 34478,
-            "text": "Was soll man bekommen, wenn man den Blarney Stone küsst?",
+            "text": "Was soll man bekommen, wenn man den Blarney Stone in Irland küsst?",
             "pic": false,
             "choices": [
                 {
@@ -10693,21 +10693,21 @@
         {
             "x": false,
             "id": 34455,
-            "text": "Welche Nummer trug Babe Ruth für die Yankees?",
+            "text": "Wenn ich 1000 mal den Eiffelturm aufeinanderstapeln würde, wie hoch würde der Turm reichen?",
             "pic": false,
             "choices": [
                 {
-                    "text": "2"
+                    "text": "bis in die Troposphäre"
+                },
+                {
+                    "text": "bis in die Stratosphäre"
+                },
+                {
+                    "text": "bis in die Mesosphäre"
                 },
                 {
                     "correct": true,
-                    "text": "3"
-                },
-                {
-                    "text": "5"
-                },
-                {
-                    "text": "7"
+                    "text": "bis in die Thermosphäre"
                 }
             ]
         },
@@ -10718,38 +10718,38 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "in"
+                    "text": "In"
                 },
                 {
                     "correct": true,
-                    "text": "interchange"
+                    "text": "Interchange"
                 },
                 {
-                    "text": "invsible"
+                    "text": "Invisible"
                 },
                 {
-                    "text": "intersection"
+                    "text": "Intersection"
                 }
             ]
         },
         {
             "x": false,
             "id": 34364,
-            "text": "Der Film <i>Überleben!<\/i>  handelt von Überlebenden eines Flugzeugabsturzes in welcher Gebirgskette?",
+            "text": "Was ist Artikel 11 des Grundgesetzes?",
             "pic": false,
             "choices": [
                 {
-                    "text": "die Alpen"
+                    "text": "Schulwesen"
                 },
                 {
-                    "text": "die Rocky Mountains"
+                    "text": "Berufsfreiheit"
                 },
                 {
                     "correct": true,
-                    "text": "die Anden"
+                    "text": "Freizügigkeit"
                 },
                 {
-                    "text": "der Himalaya"
+                    "text": "Petitionsrecht"
                 }
             ]
         },
