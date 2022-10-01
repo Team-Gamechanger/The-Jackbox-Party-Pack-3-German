@@ -1,1 +1,23 @@
-{"fields":[{"t":"B","v":"true","n":"HasJokeAudio"},{"t":"S","v":"Das Mädchen mit dem Perlenohrgehänge","n":"QuestionText"},{"t":"S","v":"","n":"AlternateSpellings"},{"t":"A","v":"533894_0f","n":"JokeAudio"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Das Mädchen mit dem Perlenohrgehänge",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "533894_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

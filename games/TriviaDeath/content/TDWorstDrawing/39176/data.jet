@@ -1,1 +1,23 @@
-{"fields":[{"t":"B","v":"false","n":"HasJokeAudio"},{"t":"S","v":"dein Selbstporträt","n":"QuestionText"},{"t":"S","v":"","n":"AlternateSpellings"},{"t":"A","n":"JokeAudio"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "etwas Giftiges",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "JokeAudio"
+    }
+  ]
+}
