@@ -10756,21 +10756,21 @@
         {
             "x": false,
             "id": 34362,
-            "text": "Puff, der Zauberdrache lebt im welchem Land?",
+            "text": "Wie lautet der Name eines wahrnehmungspsychologischen Phänomens?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Niemannsland"
+                    "text": "Sternenbluff"
                 },
                 {
-                    "text": "Shangri-La"
+                    "text": "Sonnenirrtum"
                 },
                 {
-                    "text": "Mittelerde"
+                    "text": "Himmelsspinnerei"
                 },
                 {
                     "correct": true,
-                    "text": "Honali"
+                    "text": "Mondtäuschung"
                 }
             ]
         },
@@ -10819,42 +10819,42 @@
         {
             "x": true,
             "id": 34338,
-            "text": "Welches dieser Länder ist KEINE Halbinsel?",
+            "text": "In welcher dieser Städte wir es abends zuerst dunkel?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Indien"
+                    "text": "Hannover"
                 },
                 {
-                    "text": "Südkorea"
+                    "text": "Dortmund"
                 },
                 {
-                    "text": "Dänemark"
+                    "text": "Kassel"
                 },
                 {
                     "correct": true,
-                    "text": "Island"
+                    "text": "Leipzig"
                 }
             ]
         },
         {
             "x": false,
             "id": 34318,
-            "text": "Wo befindet sich das Ellsworthgebirge?",
+            "text": "Welches Wasser kann Platin auflösen?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Australien"
+                    "text": "Kaiserwasser"
                 },
                 {
-                    "text": "Neuseeland"
+                    "text": "Fürstenwasser"
                 },
                 {
                     "correct": true,
-                    "text": "Antarktis"
+                    "text": "Königswasser"
                 },
                 {
-                    "text": "Schottland"
+                    "text": "Herrscherwasser"
                 }
             ]
         },
@@ -10882,20 +10882,20 @@
         {
             "x": false,
             "id": 34298,
-            "text": "Welches dieser Wörter ist KEIN Hilferuf?",
+            "text": "Welches dieser Wörter ist ein Hilferuf?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Hilfe!"
+                    "text": "lápis!"
                 },
                 {
-                    "text": "Aiuto!"
-                },
-                {
-                    "text": "Aidez-moi!"
+                    "text": "Gardien!"
                 },
                 {
                     "correct": true,
+                    "text": "Aiuto!"
+                },
+                {
                     "text": "De nada!"
                 }
             ]
@@ -10924,7 +10924,7 @@
         {
             "x": false,
             "id": 34285,
-            "text": "Welche Frucht ist in der Zeichnung <i>The Son of Man<\/i> ?",
+            "text": "Welche Frucht ist Gemälde <i>Der Sohn des Mannes<\/i> zu sehen?",
             "pic": false,
             "choices": [
                 {
@@ -10945,21 +10945,21 @@
         {
             "x": false,
             "id": 34283,
-            "text": "Welcher Blue Collar Comedian hat den Spitznamen Tater Salad?",
+            "text": "Wie viel Prozent der Gesamtmasse unseres Sonnensystems macht alleine die Sonne aus?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Bill Engvall"
+                    "text": "ca. 55,6%"
                 },
                 {
                     "correct": true,
-                    "text": "Ron White"
+                    "text": "ca. 99,8%"
                 },
                 {
-                    "text": "Larry the Cable Guy"
+                    "text": "ca. 77,7%"
                 },
                 {
-                    "text": "Jeff Foxworthy"
+                    "text": "ca. 33,2%"
                 }
             ]
         },
@@ -11008,21 +11008,21 @@
         {
             "x": false,
             "id": 34198,
-            "text": "Welcher Monty Python Film kam zuerst heraus?",
+            "text": "Welche dieser Sportarten heißt wie ihr Spielgerät?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Der Sinn des Lebens<i>"
+                    "text": "Curling"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Die Ritter der Kokosnuß<\/i>"
+                    "text": "Indiaca"
                 },
                 {
-                    "text": "<i>Das Leben des Brian<\/i>"
+                    "text": "Boccia"
                 },
                 {
-                    "text": "<i>Monty Python\u2019s Spamalot<\/i>"
+                    "text": "Polo"
                 }
             ]
         },
@@ -11050,21 +11050,21 @@
         {
             "x": false,
             "id": 34188,
-            "text": "Welchen Beinamen trug James Brown zu Soul?",
+            "text": "Bei welchem Produkt ist Corona eine Standard-Größe?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Father of"
+                    "text": "Sonnencreme"
                 },
                 {
                     "correct": true,
-                    "text": "Godfather of"
+                    "text": "Zigarren"
                 },
                 {
-                    "text": "The King of"
+                    "text": "Golfschläger"
                 },
                 {
-                    "text": "The Prince of"
+                    "text": "Bier"
                 }
             ]
         },
@@ -11160,16 +11160,16 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "1,2 mph"
+                    "text": "1,9 km/h"
                 },
                 {
-                    "text": "2,8 mph"
+                    "text": "2,8 km/h"
                 },
                 {
-                    "text": "5,2  mph"
+                    "text": "5,2 km/h"
                 },
                 {
-                    "text": "11,3 mph"
+                    "text": "11,3 km/h"
                 }
             ]
         },
