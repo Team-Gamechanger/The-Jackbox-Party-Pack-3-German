@@ -11218,21 +11218,21 @@
         {
             "x": false,
             "id": 34118,
-            "text": "Von wo entkamen die Gefangenen im Film <i>Gesprengte Ketten<\/i> ?",
+            "text": "Welcher Ort gilt als die sonnigste Stadt der Welt?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Alcatraz"
+                    "text": "Yaoundé, Kamerun"
                 },
                 {
                     "correct": true,
-                    "text": "Stalag Luft 3"
+                    "text": "Yuma, USA"
                 },
                 {
-                    "text": "Attica"
+                    "text": "Ypern, Belgien"
                 },
                 {
-                    "text": "Die Bastille"
+                    "text": "Yokohama, Japan"
                 }
             ]
         },
@@ -11260,63 +11260,63 @@
         {
             "x": false,
             "id": 34113,
-            "text": "Chris Crocker wurde 2007 zur Internet-Berühmtheit, als er in einem Video bat, welche Künstlerin in Ruhe zu lassen?",
+            "text": "Was wurde 1967 zur atomwaffenfreien Zone erklärt?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Britney Spears"
+                    "text": "das Weltall"
                 },
                 {
-                    "text": "Avril Lavigne"
+                    "text": "die Arktis"
                 },
                 {
-                    "text": "Nelly Furtado"
+                    "text": "die Südsee"
                 },
                 {
-                    "text": "Kim Kardashian"
+                    "text": "Venedig"
                 }
             ]
         },
         {
             "x": false,
             "id": 34112,
-            "text": "Wer ist in <i>Broad City<\/i> Abbi\u2019s beste Freundin?",
+            "text": "Was bedeutete das Wort \u201cformidabel\u201d ursprünglich?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Jessi"
+                    "text": "listenreich"
                 },
                 {
-                    "text": "Amy"
+                    "text": "erheiternd"
                 },
                 {
-                    "text": "Bianca"
+                    "text": "königlich"
                 },
                 {
                     "correct": true,
-                    "text": "Ilana"
+                    "text": "furchterregend"
                 }
             ]
         },
         {
             "x": false,
             "id": 34111,
-            "text": "Wer wurde 2015 in Kanada zum Premierminister gewählt?",
+            "text": "Wer wurde 2017 zum Ministerpräsident von Schleswig-Holstein gewählt?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Stephen Harper"
+                    "text": "Hendrik Wüst"
                 },
                 {
-                    "text": "Rob Ford"
+                    "text": "Dietmar Woidke"
                 },
                 {
                     "correct": true,
-                    "text": "Justin Trudeau"
+                    "text": "Daniel Günther"
                 },
                 {
-                    "text": "Dudley Doright"
+                    "text": "Jan Philipp Albrecht"
                 }
             ]
         },
@@ -11334,7 +11334,7 @@
                     "text": "Walnuss"
                 },
                 {
-                    "text": "Cashewkerne"
+                    "text": "Haselnuss"
                 },
                 {
                     "text": "Erdnuss"
@@ -11344,21 +11344,21 @@
         {
             "x": false,
             "id": 34108,
-            "text": "Auf welchem Sender lief <i>Raven blickt durch<\/i>  ursprünglich?",
+            "text": "Wer spricht den Satz \u201cNoch nie hat ein X irgendwo irgendwann einen bedeutenden Punkt markiert\u201d?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Fox Kids"
+                    "text": "Jack Sparrow"
                 },
                 {
-                    "text": "Nickelodeon"
+                    "text": "Frodo Beutlin"
                 },
                 {
                     "correct": true,
-                    "text": "Disney Channel"
+                    "text": "Indiana Jones"
                 },
                 {
-                    "text": "Cartoon Network"
+                    "text": "Kermit der Frosch"
                 }
             ]
         },
