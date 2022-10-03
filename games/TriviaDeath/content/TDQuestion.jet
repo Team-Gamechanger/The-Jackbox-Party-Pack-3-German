@@ -1996,24 +1996,24 @@
                 }
             ]
         },
-        {#
+        {
             "x": false,
             "id": 38842,
-            "text": "Wem hat Dick Cheney ins Gesicht geschossen?",
+            "text": "Welches Tier hat den stärksten Kiefer im Tierreich?",
             "pic": false,
             "choices": [
                 {
-                    "text": "einem 72 Jahre alten Doktor"
+                    "text": "ein Schwarzer Piranha"
                 },
                 {
-                    "text": "einem 75 Jahre alten General"
+                    "text": "eine Tüpfelhyäne"
                 },
                 {
                     "correct": true,
-                    "text": "einem 78 Jahre alten Anwalt"
+                    "text": "ein weißer Hai"
                 },
                 {
-                    "text": "einem 82 Jahre alten Buchhalter"
+                    "text": "ein Beutellöwe"
                 }
             ]
         },
@@ -9346,24 +9346,24 @@
                 }
             ]
         },
-        {# Lieder und Interpretin ersetzen?
+        {
             "x": false,
             "id": 37244,
-            "text": "In welchem der folgenden Taylor Swift Songs kommt das Wort \u201clove\u201d am häufigsten vor?",
+            "text": "In welchem der folgenden Mark Forster Songs kommt das Wort \u201cLiebe\u201d am häufigsten vor?",
             "pic": false,
             "choices": [
                 {
-                    "text": "\u201cMine\u201d"
+                    "text": "\u201cAu Revoir\u201d"
                 },
                 {
                     "correct": true,
-                    "text": "\u201cToday Was a Fairytale\u201d"
+                    "text": "\u201cEinmal\u201d"
                 },
                 {
-                    "text": "\u201cTeardrops on My Guitar\u201d"
+                    "text": "\u201cGenau wie du\u201d"
                 },
                 {
-                    "text": "\u201cOur Song\u201d"
+                    "text": "\u201cAlles wird gut\u201d"
                 }
             ]
         },
@@ -9535,24 +9535,24 @@
                 }
             ]
         },
-        {#ggf ersetzen, NICHT schwer zu entfernen
+        {
             "x": false,
             "id": 37234,
-            "text": "Welche dieser Körperflüssigkeiten benutzten die Doktoren im Mittelalter NICHT, um Krankheiten zu entdecken?",
+            "text": "Wenn es bei uns im Winter 12 Uhr mittags ist, wie spät ist es dann im kanadischen Neufundland?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Eiter"
+                    "text": "08:30"
                 },
                 {
-                    "text": "schwarze Galle"
+                    "text": "15:00"
                 },
                 {
-                    "text": "Schleim"
+                    "text": "03:30"
                 },
                 {
-                    "text": "Blut"
+                    "text": "21:00"
                 }
             ]
         },
@@ -11365,21 +11365,21 @@
         {
             "x": false,
             "id": 33954,
-            "text": "Welches Rennen gehört NICHT zur Triple Crown of Motorsport?",
+            "text": "\u201cKammanommakucken\u201d und \u201cAkte Wichs\u201d sind 2 Rubriken welcher ARD Sendung??",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Daytona 500"
+                    "text": "Sträter"
                 },
                 {
-                    "text": "Indianapolis 500"
+                    "text": "Chez Krömer"
                 },
                 {
-                    "text": "24 Hours of Le Mans"
+                    "text": "Nuhr im Ersten"
                 },
                 {
-                    "text": "Monaco Grand Prix"
+                    "text": "Olafs Klub"
                 }
             ]
         },
@@ -11407,49 +11407,49 @@
         {
             "x": false,
             "id": 33949,
-            "text": "Welches dieser Songs ist der längste?",
+            "text": "Womit kann ich die Qualität meiner Internetverbindung überprüfen?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Free Bird"
+                    "text": "Typosquatting"
                 },
                 {
-                    "text": "Light My Fire"
+                    "text": "LOD"
                 },
                 {
-                    "text": "Stairway to Heaven"
+                    "text": "POP 3"
                 },
                 {
                     "correct": true,
-                    "text": "In-A-Gadda-Da-Vida"
+                    "text": "Ping"
                 }
             ]
         },
         {
             "x": false,
             "id": 33912,
-            "text": "Was gehört NICHT zu den Zwiebeln?",
+            "text": "Welche dieser Pflanzen gehört zu den Zwiebeln?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Knoblauch"
+                    "text": "Meerrettich"
                 },
                 {
-                    "text": "Schnittlauch"
+                    "text": "Rosmarin"
                 },
                 {
                     "correct": true,
-                    "text": "Fenchel"
+                    "text": "Schnittlauch"
                 },
                 {
-                    "text": "Porree"
+                    "text": "Fenchel"
                 }
             ]
         },
         {
             "x": false,
             "id": 33909,
-            "text": "Welche Art von Obst ist in Ms. Pac-Man?",
+            "text": "Welches Obst gibt in Ms. Pac-Man die Meisten Punkte?",
             "pic": false,
             "choices": [
                 {
@@ -11470,7 +11470,7 @@
         {
             "x": false,
             "id": 33903,
-            "text": "Was ist im Golf ein Eagle?\u201d",
+            "text": "Was ist im Golf ein Eagle?",
             "pic": false,
             "choices": [
                 {
@@ -11491,21 +11491,21 @@
         {
             "x": false,
             "id": 33892,
-            "text": "Was ist auf einem Schiff der sogenannte \u201cHead\u201d?",
+            "text": "Was ist ein Kogel?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Toilette"
+                    "text": "eine Bergspitze"
                 },
                 {
-                    "text": "Schlafzimmer"
+                    "text": "ein Roggenbrot"
                 },
                 {
-                    "text": "Geheimzimmer"
+                    "text": "ein Männerhut"
                 },
                 {
-                    "text": "Küche"
+                    "text": "ein Eichhörnchenbau"
                 }
             ]
         },
