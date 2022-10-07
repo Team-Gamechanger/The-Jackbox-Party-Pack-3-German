@@ -11239,7 +11239,7 @@
         {
             "x": false,
             "id": 34116,
-            "text": "Wer gehörte zur ersten Jury von <i>The Voice of Germany<\/i> ?",
+            "text": "Wer gehörte zur ersten Jury von <i>The Voice of Germany<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -11365,7 +11365,7 @@
         {
             "x": false,
             "id": 33954,
-            "text": "\u201cKammanommakucken\u201d und \u201cAkte Wichs\u201d sind 2 Rubriken welcher ARD Sendung??",
+            "text": "\u201cKammanommakucken\u201d und \u201cAkte Wichs\u201d sind 2 Rubriken welcher ARD-Sendung??",
             "pic": false,
             "choices": [
                 {
@@ -11449,7 +11449,7 @@
         {
             "x": false,
             "id": 33909,
-            "text": "Welches Obst gibt in Ms. Pac-Man die Meisten Punkte?",
+            "text": "Welches Obst gibt in Ms. Pac-Man die meisten Punkte?",
             "pic": false,
             "choices": [
                 {
@@ -11523,7 +11523,7 @@
                 },
                 {
                     "correct": true,
-                    "text": "Hypertonie"
+                    "text": "Erhöhter Blutdruck"
                 },
                 {
                     "text": "Gicht"
@@ -11554,42 +11554,42 @@
         {
             "x": false,
             "id": 33874,
-            "text": "Wo findet man das historische Globe Theatre?",
+            "text": "Wie heißt der Nachbar von Peter Lustig?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Paris"
+                    "text": "Peter Unlustig"
                 },
                 {
-                    "text": "New York City"
+                    "text": "Fritz Fuchs"
                 },
                 {
-                    "text": "Dublin"
+                    "text": "Herr Andrack"
                 },
                 {
                     "correct": true,
-                    "text": "London"
+                    "text": "Herr Paschulke"
                 }
             ]
         },
         {
             "x": false,
             "id": 33870,
-            "text": "Welches englische Wort bezieht auf die Einwohner Moskaus?",
+            "text": "Wie viele Fußballfelder fasst Sylt ungefähr?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Moscowale"
+                    "text": "11700"
                 },
                 {
-                    "text": "Moscato"
+                    "text": "12800"
                 },
                 {
                     "correct": true,
-                    "text": "Muscovite"
+                    "text": "13900"
                 },
                 {
-                    "text": "Mustivite"
+                    "text": "14100"
                 }
             ]
         },
@@ -11617,21 +11617,21 @@
         {
             "x": false,
             "id": 33808,
-            "text": "Wie heißt Baby Spice mit richtigem Namen?",
+            "text": "Bis in welches Jahr spielt das längste Orgelstück der Welt in einer Kirche in Halberstadt?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Geri Halliwell"
+                    "text": "2357"
+                },
+                {
+                    "text": "2446"
+                },
+                {
+                    "text": "2501"
                 },
                 {
                     "correct": true,
-                    "text": "Emma Bunton"
-                },
-                {
-                    "text": "Victoria Beckham"
-                },
-                {
-                    "text": "Melanie Brown"
+                    "text": "2639"
                 }
             ]
         },
@@ -11691,7 +11691,7 @@
                     "text": "Die Straße von Gibraltar"
                 },
                 {
-                    "text": "Die Cook Straße"
+                    "text": "Die Cook-Straße"
                 },
                 {
                     "text": "Der englische Kanal"
@@ -11701,21 +11701,21 @@
         {
             "x": false,
             "id": 33756,
-            "text": "Die Mutter wessen NFL Quarterbacks tauchte in einer Reihe von Werbespots für Campbell\u2019s Chunky Suppe auf?",
+            "text": "Was für ein Pronomen ist \u201cunser\u201d?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Brett Favre"
-                },
-                {
                     "correct": true,
-                    "text": "Donovan McNabb"
+                    "text": "Possessivpronomen"
                 },
                 {
-                    "text": "Tom Brady"
+                    "text": "Personalpronomen"
                 },
                 {
-                    "text": "Michael Vick"
+                    "text": "Relativpronomen"
+                },
+                {
+                    "text": "Indefinitpronomen"
                 }
             ]
         },
@@ -11785,21 +11785,21 @@
         {
             "x": false,
             "id": 33728,
-            "text": "Wer ist KEINE von Hannah Horvaths drei Freundinnen in <i>Girls<\/i> ?",
+            "text": "Wie hoch muss der Fruchtgehalt bei Fruchtsäften mindestens sein?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Shoshanna"
+                    "text": "10%"
                 },
                 {
-                    "text": "Jessa"
+                    "text": "30%"
+                },
+                {
+                    "text": "52%"
                 },
                 {
                     "correct": true,
-                    "text": "Ariel"
-                },
-                {
-                    "text": "Marnie"
+                    "text": "100%"
                 }
             ]
         },
