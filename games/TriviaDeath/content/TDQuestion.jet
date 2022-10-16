@@ -11722,7 +11722,7 @@
         {
             "x": false,
             "id": 33744,
-            "text": "Was ist die Umlaufzeit vom Mars?",
+            "text": "Was ist die Umlaufzeit vom Mars ungefähr?",
             "pic": false,
             "choices": [
                 {
@@ -11764,21 +11764,21 @@
         {
             "x": false,
             "id": 33730,
-            "text": "Auf welchem Festival schockierte Bob Dylan die Welt, indem er zur E-Gitarre griff?",
+            "text": "Wenn der Held der Steine sich über das [i]LEGO[\/i]-Set 60262 aufregt, was kritisiert er dann?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Cornstock Folk Festival"
+                    "text": "Ein Krankenhaus"
                 },
                 {
-                    "text": "Blue Sky Folk Festival"
+                    "text": "Ein Raumfahrtzentrum"
                 },
                 {
                     "correct": true,
-                    "text": "Newport Folk Festival"
+                    "text": "Ein Passagierflugzeug"
                 },
                 {
-                    "text": "New England Folk Festival"
+                    "text": "Güterzug"
                 }
             ]
         },
