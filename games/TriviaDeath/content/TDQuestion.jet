@@ -5422,7 +5422,7 @@
         {
             "x": false,
             "id": 38181,
-            "text": "Wie viele Oliven brauche ich, wenn ich ein Liter Olivenöl haben will?",
+            "text": "Wie viele Oliven brauche ich, wenn ich einen Liter Olivenöl haben will?",
             "pic": false,
             "choices": [
                 {
@@ -9097,7 +9097,7 @@
         {
             "x": false,
             "id": 37271,
-            "text": "Was machen Transistoren eigentlich?",
+            "text": "Was machen Transistoren im Allgemeinen?",
             "pic": false,
             "choices": [
                 {
@@ -11764,7 +11764,7 @@
         {
             "x": false,
             "id": 33730,
-            "text": "Wenn der Held der Steine sich über das [i]LEGO[\/i]-Set 60262 aufregt, was kritisiert er dann?",
+            "text": "Wenn der Held der Steine sich über das <i>LEGO<\/i>-Set 60262 aufregt, was kritisiert er dann?",
             "pic": false,
             "choices": [
                 {
@@ -11806,28 +11806,28 @@
         {
             "x": false,
             "id": 33709,
-            "text": "BÃ¡nh mÃ¬ ist was für eine Art von vietnamesischer Küche?",
+            "text": "Wenn ich im Judo den braunen Gürtel hätte und mein Gegner den schwarzen, was wäre dann das Verhältnis zwischen uns?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Cookie"
+                    "text": "Ich bin besser"
                 },
                 {
-                    "text": "Nudelgericht"
+                    "text": "Wir sind gleich stark"
                 },
                 {
-                    "text": "Suppe"
+                    "text": "Mein Gegner ist besser"
                 },
                 {
                     "correct": true,
-                    "text": "Sandwich"
+                    "text": "Einen der Gürtel gibt es nicht"
                 }
             ]
         },
         {
             "x": false,
             "id": 33708,
-            "text": "Was bekommt man, wenn man eine Ahi Rolle in einem Sushi Restaurant bestellt?",
+            "text": "Was bekommt man, wenn man eine Ahi-Rolle in einem Sushi-Restaurant bestellt?",
             "pic": false,
             "choices": [
                 {
@@ -11869,21 +11869,21 @@
         {
             "x": false,
             "id": 33695,
-            "text": "Wo entstand Clydesdale?",
+            "text": "Was muss man einer Sauce Hollandaise hinzufügen, damit man sie als Sauce Romanoff bezeichnen kann?",
             "pic": false,
             "choices": [
                 {
-                    "text": "England"
+                    "text": "Tomatenmark"
                 },
                 {
-                    "text": "Frankreich"
+                    "text": "ungesüßte Sahne"
                 },
                 {
                     "correct": true,
-                    "text": "Schottland"
+                    "text": "Kaviar"
                 },
                 {
-                    "text": "Deutschland"
+                    "text": "Blutorangensaft"
                 }
             ]
         },
