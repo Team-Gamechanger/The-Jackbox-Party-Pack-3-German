@@ -3154,7 +3154,7 @@
         {
             "x": false,
             "id": 38440,
-            "text": "Wo im Harry Potter Universum findet man Zonkos Scherzartikelladen?",
+            "text": "Wo im Harry Potter-Universum findet man Zonkos Scherzartikelladen?",
             "pic": false,
             "choices": [
                 {
@@ -5569,7 +5569,7 @@
         {
             "x": false,
             "id": 40529,
-            "text": "Was war das Ergebnis des Tic-Tac-Toe Spiels im Bild?",
+            "text": "Was war das Ergebnis des Tic-Tac-Toe-Spiels im Bild?",
             "pic": true,
             "choices": [
                 {
@@ -8131,7 +8131,7 @@
         {
             "x": false,
             "id": 37464,
-            "text": "Das \u201cT-Bone Steak\u201d kommt von einem Muskel aus welchem Teil des Tieres?",
+            "text": "Das \u201cT-Bone-Steak\u201d kommt von einem Muskel aus welchem Teil des Tieres?",
             "pic": false,
             "choices": [
                 {
@@ -8257,7 +8257,7 @@
         {
             "x": false,
             "id": 37456,
-            "text": "Wie nennt man die Einheit, mit der man die Schärfe von Chili gemessen wird?",
+            "text": "Wie nennt man die Einheit, mit der die Schärfe von Chili gemessen wird?",
             "pic": false,
             "choices": [
                 {
@@ -9454,7 +9454,7 @@
         {
             "x": false,
             "id": 37238,
-            "text": "Welchen Buchstaben hat Vincent Wright in seiner 5.000 Wörter Novelle <i>Gadsby<\/i> nie benutzt?",
+            "text": "Welchen Buchstaben hat Vincent Wright in seiner 50.000 Wörter langen Novelle <i>Gadsby</i> nie benutzt?",
             "pic": false,
             "choices": [
                 {
@@ -10819,7 +10819,7 @@
         {
             "x": true,
             "id": 34338,
-            "text": "In welcher dieser Städte wir es abends zuerst dunkel?",
+            "text": "In welcher dieser Städte wird es abends zuerst dunkel?",
             "pic": false,
             "choices": [
                 {
@@ -10924,7 +10924,7 @@
         {
             "x": false,
             "id": 34285,
-            "text": "Welche Frucht ist Gemälde <i>Der Sohn des Mannes<\/i> zu sehen?",
+            "text": "Welche Frucht ist im Gemälde <i>Der Sohn des Mannes<\/i> zu sehen?",
             "pic": false,
             "choices": [
                 {
@@ -11134,7 +11134,7 @@
         {
             "x": false,
             "id": 34165,
-            "text": "Was hält die Oscar Statuette?",
+            "text": "Was hält die Oscar-Statuette?",
             "pic": false,
             "choices": [
                 {
@@ -11806,7 +11806,7 @@
         {
             "x": false,
             "id": 33709,
-            "text": "Wenn ich im Judo den braunen Gürtel hätte und mein Gegner den schwarzen, was wäre dann das Verhältnis zwischen uns?",
+            "text": "Wenn ich im Judo den braunen Schülergürtel hätte und mein Gegner den schwarzen, was wäre dann das Verhältnis zwischen uns?",
             "pic": false,
             "choices": [
                 {
