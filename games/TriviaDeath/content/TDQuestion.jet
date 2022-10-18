@@ -11764,21 +11764,21 @@
         {
             "x": false,
             "id": 33730,
-            "text": "Wenn der Held der Steine sich über das <i>LEGO<\/i>-Set 60262 aufregt, was kritisiert er dann?",
+            "text": "Welchen Vornamen teilen sich die Promis Reiners und Lindemann?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Ein Krankenhaus"
+                    "text": "Gunnar"
                 },
                 {
-                    "text": "Ein Raumfahrtzentrum"
+                    "text": "Alexander"
                 },
                 {
                     "correct": true,
-                    "text": "Ein Passagierflugzeug"
+                    "text": "Till"
                 },
                 {
-                    "text": "Ein Güterzug"
+                    "text": "Günther"
                 }
             ]
         },
