@@ -12380,7 +12380,7 @@
                 {
                     "correct": true,
                     "text": "Jett",
-                    "easy": false
+                    "easy": true
                 },
                 {
                     "correct": true,
@@ -12420,6 +12420,21 @@
                 {
                     "correct": true,
                     "text": "Fade",
+                    "easy": false
+                },
+                {
+                    "correct": true,
+                    "text": "Skye",
+                    "easy": false
+                },
+                {
+                    "correct": true,
+                    "text": "Harbor",
+                    "easy": false
+                },
+                {
+                    "correct": false,
+                    "text": "Split",
                     "easy": false
                 },
                 {
