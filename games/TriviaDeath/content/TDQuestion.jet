@@ -1012,7 +1012,7 @@
         {
             "x": false,
             "id": 39034,
-            "text": "Welcher Dichter hat gesagt \u201cDummheit, die man bei anderen sieht, wirkt meist erhebend aufs Gemüt.\u201d?",
+            "text": "Welcher Dichter sagte \u201cDummheit, die man bei anderen sieht, wirkt meist erhebend aufs Gemüt.\u201d?",
             "pic": false,
             "choices": [
                 {
@@ -1222,7 +1222,7 @@
         {
             "x": false,
             "id": 39000,
-            "text": "Was meint ein Furby, wenn es sagt \u201cWee-tah-kah-wee-loo\u201d?",
+            "text": "Was meint ein Furby, wenn es \u201cWee-tah-kah-wee-loo\u201d sagt?",
             "pic": false,
             "choices": [
                 {
@@ -1894,7 +1894,7 @@
         {
             "x": false,
             "id": 38863,
-            "text": "Wo findet man Hanover, die magische Region, die Brezeln herstellt?",
+            "text": "Wo findet man Hanover - die magische Region, die Brezeln herstellt?",
             "pic": false,
             "choices": [
                 {
