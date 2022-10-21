@@ -5527,7 +5527,7 @@
         {
             "x": false,
             "id": 40531,
-            "text": "Wie viele abgehackte Köpfe waren WIRKLICH auf dem Foto?",
+            "text": "Wie viele abgeschnittene Köpfe waren WIRKLICH auf dem Foto?",
             "pic": true,
             "choices": [
                 {
@@ -5590,7 +5590,7 @@
         {
             "x": false,
             "id": 40528,
-            "text": "Wie viele 2\u2019en sind aufgetaucht?",
+            "text": "Wie viele 2\u2019en waren im Bild?",
             "pic": true,
             "choices": [
                 {
