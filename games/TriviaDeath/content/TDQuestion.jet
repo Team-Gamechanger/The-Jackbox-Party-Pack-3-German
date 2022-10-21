@@ -256,7 +256,7 @@
         {
             "x": false,
             "id": 40974,
-            "text": "Wie heißt der Professor, der Spieler durch die Grundlagen von <i>Pokemon Go<\/i> führt?",
+            "text": "Wie heißt der Professor, der Spieler durch die Grundlagen von <i>Pokémon Go<\/i> führt?",
             "pic": false,
             "choices": [
                 {
@@ -529,7 +529,7 @@
         {
             "x": false,
             "id": 40961,
-            "text": "Wie heißt das begehrte Spielzeug im Arnold Schwarzenegger-Film <i>Versprochen ist versprochen<\/i>, nach dem viele Eltern vergeblich suchen?",
+            "text": "Wie heißt das begehrte Spielzeug im Arnold Schwarzenegger-Film <i>Versprochen ist versprochen<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -844,7 +844,7 @@
         {
             "x": false,
             "id": 39056,
-            "text": "Was setzte sich 2009 gegen <i>Das Hundehotel<\/i> als bester Film durch?",
+            "text": "Was setzte sich bei der Oscarverleihung 2010 gegen <i>Inglourious Basterds<\/i> als bester Film durch?",
             "pic": false,
             "choices": [
                 {
@@ -1299,7 +1299,7 @@
                     "text": "<i>Downtown Girl<\/i>"
                 },
                 {
-                    "text": "<i>Domin8ated<\/i>"
+                    "text": "<i>Domin8ed<\/i>"
                 }
             ]
         },
@@ -1915,7 +1915,7 @@
         {
             "x": false,
             "id": 38862,
-            "text": "Was ist in Microsoft Word der höchste Schriftgrad in der Liste?",
+            "text": "Was ist in Microsoft Word die höchste Schriftgröße in der Liste?",
             "pic": false,
             "choices": [
                 {
@@ -2104,21 +2104,21 @@
         {
             "x": false,
             "id": 38818,
-            "text": "Was ist R. Kellys Vorname?",
+            "text": "Wo wurde Heino geboren?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Rusty"
+                    "text": "Köln"
                 },
                 {
-                    "text": "Rick"
+                    "text": "Bonn"
                 },
                 {
                     "correct": true,
-                    "text": "Robert"
+                    "text": "Düsseldorf"
                 },
                 {
-                    "text": "Randy"
+                    "text": "Münster"
                 }
             ]
         },
@@ -2230,42 +2230,42 @@
         {
             "x": false,
             "id": 38805,
-            "text": "Wie viel ist 76 kg in Stones?",
+            "text": "Wie viele Zentimeter sind 50 Zoll?",
             "pic": false,
             "choices": [
                 {
-                    "text": "4"
+                    "text": "73"
                 },
                 {
-                    "text": "8"
+                    "text": "100"
                 },
                 {
                     "correct": true,
-                    "text": "12"
+                    "text": "127"
                 },
                 {
-                    "text": "16"
+                    "text": "154"
                 }
             ]
         },
         {
             "x": false,
             "id": 38749,
-            "text": "Wer wird mit dem Sprichwort \u201cDrei können ein Geheimnis nur für sich behalten, wenn zwei davon tot sind.\u201d in Verbindung gebracht?",
+            "text": "Wer sagte \u201cDie Würfel sind gefallen.\u201d?",
             "pic": false,
             "choices": [
-                {
-                    "text": "Mark Twain"
-                },
-                {
-                    "correct": true,
-                    "text": "Benjamin Franklin"
-                },
                 {
                     "text": "Albert Einstein"
                 },
                 {
-                    "text": "Gerhard Schröder"
+                    "correct": true,
+                    "text": "Gaius Iulius Caesar"
+                },
+                {
+                    "text": "Archimedes"
+                },
+                {
+                    "text": "Cleopatra"
                 }
             ]
         },
@@ -3259,7 +3259,7 @@
         {
             "x": false,
             "id": 38432,
-            "text": "Welchem Lebensmittelhersteller gehörte bis 1999 der Weight Watchers Konzern?",
+            "text": "Welchem Lebensmittelhersteller gehörte bis 1999 der Konzern <i>Weight Watchers<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -3322,7 +3322,7 @@
         {
             "x": false,
             "id": 38428,
-            "text": "Nach den Originalregeln von <i>UNO<\/i>, wie viele Punkte ist die \u201cAussetzen\u201d Karte wert?",
+            "text": "Nach den Originalregeln von <i>UNO<\/i>, wie viele Punkte ist die \u201cAussetzen\u201d-Karte wert?",
             "pic": false,
             "choices": [
                 {
@@ -14586,7 +14586,7 @@
                 },
                 {
                     "correct": true,
-                    "text": "<i>Pokemon<\/i>"
+                    "text": "<i>Pokémon<\/i>"
                 },
                 {
                     "text": "<i>Dragon Ball Z<\/i>"
