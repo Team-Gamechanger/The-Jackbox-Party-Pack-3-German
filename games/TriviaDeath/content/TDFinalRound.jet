@@ -4835,6 +4835,11 @@
                     "easy": false
                 },
                 {
+                    "correct": true,
+                    "text": "Kaya Yanar",
+                    "easy": false
+                },
+                {
                     "correct": false,
                     "text": "Luke Mockridge",
                     "easy": false
@@ -4847,11 +4852,6 @@
                 {
                     "correct": false,
                     "text": "Bülent Ceylan",
-                    "easy": false
-                },
-                {
-                    "correct": false,
-                    "text": "Kaya Yanar",
                     "easy": false
                 },
                 {
