@@ -2524,21 +2524,21 @@
         {
             "x": false,
             "id": 38711,
-            "text": "In welchem der Schlaflieder meiner Mutter kam NICHT eine Figur bei einem Autounfall ums Leben?",
+            "text": "Wie heißt der Stab bei <i>Mikado<\/i>, der die Meisten Punkte gibt?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Leader of the Pack"
+                    "text": "Kuli"
                 },
                 {
-                    "text": "Last Kiss"
+                    "text": "Bonze"
                 },
                 {
-                    "text": "Teen Angel"
+                    "text": "Samurai"
                 },
                 {
                     "correct": true,
-                    "text": "Mustang Sally"
+                    "text": "Mikado"
                 }
             ]
         },
@@ -2650,21 +2650,21 @@
         {
             "x": false,
             "id": 38642,
-            "text": "Ist Stanford\u2019s Maskottchen echt ein Baum?",
+            "text": "Welches Maskottchen hat Union Berlin?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Ja"
+                    "text": "Jünter das Fohlen"
                 },
                 {
-                    "text": "Ja, aber nur für Football"
+                    "text": "Hoffi der Elch"
                 },
                 {
-                    "text": "Nein, deren Maskottchen ist ein Kardinal"
+                    "text": "Hennes IX."
                 },
                 {
                     "correct": true,
-                    "text": "Nein, es ist das Maskottchen der Band"
+                    "text": "Ritter Keule"
                 }
             ]
         },
@@ -3301,12 +3301,12 @@
         {
             "x": false,
             "id": 38430,
-            "text": "Welcher Superheld schwört einen Eid, der mit \u201cAm hellsten Tag, in schwärzester Nacht entgeht nichts Böses meiner Wacht\u201d beginnt?",
+            "text": "Von welchem Superheld stammt das Zitat \u201cKein Geld der Welt vermag eine Sekunde Zeit zu kaufen.\u201d?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Green Lantern"
+                    "text": "Iron Man"
                 },
                 {
                     "text": "The Punisher"
@@ -3742,7 +3742,7 @@
         {
             "x": false,
             "id": 38325,
-            "text": "Welche Farbe hat die Schleife auf I-Aahs Schwanz?",
+            "text": "Welche Farbe hat die Schleife auf I-Aahs Schweif?",
             "pic": false,
             "choices": [
                 {
@@ -4204,21 +4204,21 @@
         {
             "x": false,
             "id": 38261,
-            "text": "Welchen der folgenden Finger braucht man in der Gebärdensprache NICHT, um \u201cIch liebe dich\u201d auszudrücken?",
+            "text": "Welche Finger braucht man, um in der Gebärdensprache \u201cIch liebe dich\u201d auszudrücken?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Daumen"
+                    "text": "Daumen, Zeigefinger, Ringfinger"
                 },
                 {
-                    "text": "Zeigefinger"
+                    "text": "Zeigefinger, Ringfinger, kleiner Finger"
                 },
                 {
                     "correct": true,
-                    "text": "Ringfinger"
+                    "text": "Daumen, Zeigefinger, kleiner Finger"
                 },
                 {
-                    "text": "kleiner Finger"
+                    "text": "Daumen, Ringfinger, Mittelfingen"
                 }
             ]
         },
@@ -4755,16 +4755,16 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "Handels und Reichtums"
+                    "text": "des Handels und Reichtums"
                 },
                 {
-                    "text": "Krieg und Feuer"
+                    "text": "des Krieges und Feuers"
                 },
                 {
-                    "text": "Schiffsfahrt"
+                    "text": "des Segelns und Angelns"
                 },
                 {
-                    "text": "Feste und Feiern"
+                    "text": "des Feierns und der Feste"
                 }
             ]
         },
