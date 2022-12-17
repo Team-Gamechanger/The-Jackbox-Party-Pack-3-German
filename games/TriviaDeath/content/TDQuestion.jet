@@ -11890,18 +11890,18 @@
         {
             "x": false,
             "id": 33694,
-            "text": "Was ist Gnocchi?",
+            "text": "Was sind Gnocchi?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Spanischer Reis"
+                    "text": "Spanische Oliven"
                 },
                 {
                     "correct": true,
-                    "text": "Italienische Knödel"
+                    "text": "Italienische Klöße"
                 },
                 {
-                    "text": "Französischer Fisch"
+                    "text": "Französische Meerestiere"
                 },
                 {
                     "text": "Türkische Nudeln"
@@ -11911,21 +11911,21 @@
         {
             "x": false,
             "id": 33693,
-            "text": "Yellow Tail Wein ist das Produkt welches Landes?",
+            "text": "Wofür steht die Schlange in der Traumdeutung?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Italien"
-                },
-                {
-                    "text": "Frankreich"
-                },
-                {
-                    "text": "Argentinien"
+                    "text": "Saarland"
                 },
                 {
                     "correct": true,
-                    "text": "Australien"
+                    "text": "Sexualleben"
+                },
+                {
+                    "text": "Streit"
+                },
+                {
+                    "text": "Sommer"
                 }
             ]
         },
@@ -11943,17 +11943,17 @@
                 },
                 {
                     "correct": true,
-                    "text": "Gurke"
+                    "text": "Gurken"
                 },
                 {
-                    "text": "Tomate"
+                    "text": "Tomaten"
                 }
             ]
         },
         {
             "x": false,
             "id": 33686,
-            "text": "Wann wurde der Bikini erfunden?",
+            "text": "Wann wurde der Bikini \u201cBikini\u201d genannt?",
             "pic": false,
             "choices": [
                 {
@@ -11974,7 +11974,7 @@
         {
             "x": false,
             "id": 33680,
-            "text": "Gregor Mendel ist bekannt für seine genetischen Experimente mit welcher Lebensform?",
+            "text": "Mit welcher Lebensform führte Gregor Mendel seine genetischen Experimente durch?",
             "pic": false,
             "choices": [
                 {
@@ -11995,28 +11995,28 @@
         {
             "x": false,
             "id": 33674,
-            "text": "Durch welches Land geht der Äquator nicht?",
+            "text": "Durch welches Land geht der Äquator?",
             "pic": false,
             "choices": [
                 {
-                    "correct": true,
                     "text": "Indien"
                 },
                 {
+                    "text": "Äquatorialguinea"
+                },
+                {
+                    "text": "Peru"
+                },
+                {
+                    "correct": true,
                     "text": "Indonesien"
-                },
-                {
-                    "text": "Kenia"
-                },
-                {
-                    "text": "Kolumbien"
                 }
             ]
         },
         {
             "x": false,
             "id": 33664,
-            "text": "Welche Einheit beschreibt die Leistung eines elektrischen Geräts?",
+            "text": "Welche Einheit wird für die Leistung eines elektrischen Geräts verwendet?",
             "pic": false,
             "choices": [
                 {
@@ -24238,21 +24238,21 @@
         {
             "x": false,
             "id": 31725,
-            "text": "Welches Spice Girl hat 1998 die Gruppe als erste verlassen?",
+            "text": "Wer rief auf der Pressekonferenz der Band Tic Tac Toe \u201cDu machst uns alles kaputt\u201d?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Ginger"
+                    "text": "Lee zu Ricky"
                 },
                 {
-                    "text": "Posh"
+                    "text": "Lee zu Jazzy"
                 },
                 {
-                    "text": "Baby"
+                    "text": "Ricky zu Jazzy"
                 },
                 {
-                    "text": "Scary"
+                    "text": "Ricky zu Lee"
                 }
             ]
         },
