@@ -12037,28 +12037,28 @@
         {
             "x": false,
             "id": 33652,
-            "text": "Welcher englische Fußballverein trägt den Spitznamen \u201cRed Devils?\u201d",
+            "text": "Wessen Biografie wurde von Markus Lanz geschrieben?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Manchester City"
-                },
-                {
-                    "text": "Tottenham Hotspur"
-                },
-                {
                     "correct": true,
-                    "text": "Manchester United"
+                    "text": "Horst Lichter"
                 },
                 {
-                    "text": "Liverpool"
+                    "text": "Eckart von Hirschhausen"
+                },
+                {
+                    "text": "Barbara Schöneberger"
+                },
+                {
+                    "text": "Guido Cantz"
                 }
             ]
         },
         {
             "x": false,
             "id": 33648,
-            "text": "Wie viele Flächen hat ein Dodecahedran?",
+            "text": "Wie viele Flächen hat ein Dodekaeder?",
             "pic": false,
             "choices": [
                 {
@@ -12100,42 +12100,42 @@
         {
             "x": false,
             "id": 33608,
-            "text": "Wo wird Stella Artois gebraut?",
+            "text": "Was bekommt man, wenn man bei der Küchenschlacht das Jahresfinale gewinnt?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Irland"
-                },
-                {
-                    "text": "Kanada"
+                    "text": "Plattenvertrag"
                 },
                 {
                     "correct": true,
-                    "text": "Belgien"
+                    "text": "25000 Euro Preisgeld"
                 },
                 {
-                    "text": "Frankreich"
+                    "text": "2-wöchige Reise nach Italien"
+                },
+                {
+                    "text": "Restaurantgutschein"
                 }
             ]
         },
         {
             "x": false,
             "id": 33607,
-            "text": "Wo wurde Dave Matthews geboren?",
+            "text": "Wo wurde Markus Lanz geboren?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Irland"
-                },
-                {
-                    "text": "Belgien"
-                },
-                {
                     "correct": true,
-                    "text": "Südafrika"
+                    "text": "Italien"
                 },
                 {
-                    "text": "Australien"
+                    "text": "Österreich"
+                },
+                {
+                    "text": "Schweiz"
+                },
+                {
+                    "text": "Deutschland"
                 }
             ]
         },
@@ -12168,16 +12168,16 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "768mph (1236 kmh)"
+                    "text": "1236 km/h"
                 },
                 {
-                    "text": "1.521mph (2448 kmh)"
+                    "text": "2448 km/h"
                 },
                 {
-                    "text": "2.901mph (4669 kmh)"
+                    "text": "4669 km/h"
                 },
                 {
-                    "text": "5.107 mph (8219 kmh)"
+                    "text": "8219 km/h"
                 }
             ]
         },
@@ -12189,16 +12189,16 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "Südasien"
+                    "text": "in Südasien"
                 },
                 {
-                    "text": "Nordafrika"
+                    "text": "in Nordafrika"
                 },
                 {
-                    "text": "Zentralamerika"
+                    "text": "in Zentralamerika"
                 },
                 {
-                    "text": "Osteuropa"
+                    "text": "in Osteuropa"
                 }
             ]
         },
@@ -12226,7 +12226,7 @@
         {
             "x": false,
             "id": 33515,
-            "text": "Wer errichtete Macchu Picchu?",
+            "text": "Welche Zivilisation errichtete Machu Picchu?",
             "pic": false,
             "choices": [
                 {
