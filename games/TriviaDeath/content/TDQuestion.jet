@@ -11918,14 +11918,14 @@
                     "text": "Saarland"
                 },
                 {
+                    "text": "Schwangerschaft"
+                },
+                {
                     "correct": true,
                     "text": "Sexualleben"
                 },
                 {
-                    "text": "Streit"
-                },
-                {
-                    "text": "Sommer"
+                    "text": "Steuern"
                 }
             ]
         },
@@ -12289,21 +12289,21 @@
         {
             "x": false,
             "id": 33410,
-            "text": "Aus welchem Land kommt die Band Phoenix?",
+            "text": "Was ist der Hauptbestandteil eines Pupses?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Südafrika"
+                    "text": "Kohlenstoff"
                 },
                 {
-                    "text": "England"
+                    "text": "Sauerstoff"
                 },
                 {
                     "correct": true,
-                    "text": "Frankreich"
+                    "text": "Stickstoff"
                 },
                 {
-                    "text": "Italien"
+                    "text": "Methan"
                 }
             ]
         },
