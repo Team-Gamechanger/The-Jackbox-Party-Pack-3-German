@@ -1,1 +1,1 @@
-{"fields":[{"t":"S","v":"Faces","n":"Type"},{"t":"S","v":"false","n":"Star"},{"t":"S","v":"false","n":"Adult"},{"t":"S","v":"true","n":"Hard"},{"t":"S","v":"Schau so, als hättest du gerade deinen neuen Zellenkamerad getroffen.","n":"TaskText"},{"t":"A","v":"542254_0","n":"Task"}]}
+{"fields":[{"t":"S","v":"Faces","n":"Type"},{"t":"S","v":"false","n":"Star"},{"t":"S","v":"false","n":"Adult"},{"t":"S","v":"true","n":"Hard"},{"t":"S","v":"Schau so, als hättest du gerade deinen neuen Zellenkamerad im Gefängnis getroffen.","n":"TaskText"},{"t":"A","v":"542254_0","n":"Task"}]}
