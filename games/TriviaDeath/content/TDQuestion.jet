@@ -6283,11 +6283,11 @@
         {
             "x": false,
             "id": 38069,
-            "text": "Welche Farbe ist NICHT im <i>eBay<\/i>-Logo?",
+            "text": "Welche Farbe hat das e im <i>eBay<\/i>-Logo?",
             "pic": false,
             "choices": [
                 {
-                    "text": "rot"
+                    "text": "gelb"
                 },
                 {
                     "text": "grün"
@@ -6297,7 +6297,7 @@
                 },
                 {
                     "correct": true,
-                    "text": "orange"
+                    "text": "rot"
                 }
             ]
         },
@@ -7963,28 +7963,28 @@
         {
             "x": false,
             "id": 37475,
-            "text": "Wer ist KEINER der Powerpuff Girls?",
+            "text": "Wie heißt der \u201cVater\u201d der <i>Powerpuff Girls<\/i>?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Bubbles"
+                    "text": "Tom Kane"
                 },
                 {
                     "correct": true,
-                    "text": "Blondie"
+                    "text": "Professor Utonium"
                 },
                 {
-                    "text": "Buttercup"
+                    "text": "Mojo Jojo"
                 },
                 {
-                    "text": "Blossom"
+                    "text": "Dr. Heinz Doofenshmirtz"
                 }
             ]
         },
         {
             "x": false,
             "id": 37474,
-            "text": "Welches der folgenden Prominenten hatte nie ein Glasauge?",
+            "text": "Welcher der folgenden Prominenten hatte nie ein Glasauge?",
             "pic": false,
             "choices": [
                 {
