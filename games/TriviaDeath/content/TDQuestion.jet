@@ -11869,21 +11869,21 @@
         {
             "x": false,
             "id": 33695,
-            "text": "Was muss man einer Sauce Hollandaise hinzufügen, damit man sie als Sauce Romanoff bezeichnen kann?",
+            "text": "Wie heißt der Westliche Flachlandgorilla mit wissenschaftlichem Namen?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Tomatenmark"
+                    "text": "Gorilla"
                 },
                 {
-                    "text": "ungesüßte Sahne"
+                    "text": "Gorilla gorilla"
                 },
                 {
                     "correct": true,
-                    "text": "Kaviar"
+                    "text": "Gorilla gorilla gorilla"
                 },
                 {
-                    "text": "Blutorangensaft"
+                    "text": "Gorilla gorilla gorilla gorilla"
                 }
             ]
         },
