@@ -9222,18 +9222,8 @@
                     "easy": false
                 },
                 {
-                    "correct": true,
-                    "text": "Harry Potter und die Heiligtümer des Todes: Teil 1",
-                    "easy": false
-                },
-                {
-                    "correct": true,
-                    "text": "Harry Potter und die Heiligtümer des Todes: Teil 2",
-                    "easy": false
-                },
-                {
                     "correct": false,
-                    "text": "Harry Potter und die Heiligtümer des Todes: Teil 3",
+                    "text": "Harry Potter und die Heiligtümer des Überlebens",
                     "easy": false
                 },
                 {
