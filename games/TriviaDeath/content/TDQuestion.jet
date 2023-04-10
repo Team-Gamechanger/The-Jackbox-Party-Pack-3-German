@@ -571,21 +571,21 @@
         {
             "x": false,
             "id": 39150,
-            "text": "Was bedeutet es, wenn unser Zimmerservice-Frühstück à la carte ist?",
+            "text": "Was ist laut Vice das nutzloseste Bundesland?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "einzeln bepreiste Artikel"
+                    "text": "Mecklenburg-Vorpommern"
                 },
                 {
-                    "text": "Festmenü zum Festpreis"
+                    "text": "Bremen"
                 },
                 {
-                    "text": "umsonst"
+                    "text": "Brandenburg"
                 },
                 {
-                    "text": "auf Rädern"
+                    "text": "Sachsen-Anhalt"
                 }
             ]
         },
