@@ -585,7 +585,7 @@
                     "text": "Brandenburg"
                 },
                 {
-                    "text": "Sachsen-Anhalt"
+                    "text": "Bayern"
                 }
             ]
         },
@@ -627,7 +627,7 @@
                     "text": "800 Kilo Pudding"
                 },
                 {
-                    "text": "ein erwachsenes Zebra"
+                    "text": "Ein erwachsenes Zebra"
                 }
             ]
         },
@@ -785,17 +785,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "grau"
+                    "text": "Grau"
                 },
                 {
-                    "text": "blau"
+                    "text": "Blau"
                 },
                 {
-                    "text": "grün"
+                    "text": "Grün"
                 },
                 {
                     "correct": true,
-                    "text": "braun"
+                    "text": "Braun"
                 }
             ]
         },
@@ -911,17 +911,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>der zweite<\/i>"
+                    "text": "Der zweite"
                 },
                 {
-                    "text": "<i>der vierte<\/i>"
+                    "text": "Der vierte"
                 },
                 {
-                    "text": "<i>der dritte<\/i>"
+                    "text": "Der dritte"
                 },
                 {
                     "correct": true,
-                    "text": "<i>der fünfte<\/i>"
+                    "text": "Der fünfte"
                 }
             ]
         },
@@ -1047,7 +1047,7 @@
                     "text": "Rosaline"
                 },
                 {
-                    "text": "wird nicht erwähnt"
+                    "text": "Wird nicht erwähnt"
                 }
             ]
         },
@@ -1209,7 +1209,7 @@
                 },
                 {
                     "correct": true,
-                    "text": "Nimm 2 Bonbons"
+                    "text": "Nimm 2-Bonbons"
                 },
                 {
                     "text": "Center Shock"
@@ -1940,17 +1940,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "irgendwie cool"
+                    "text": "Irgendwie cool"
                 },
                 {
-                    "text": "ziemlich cool"
+                    "text": "Ziemlich cool"
                 },
                 {
-                    "text": "wirklich cool"
+                    "text": "Wirklich cool"
                 },
                 {
                     "correct": true,
-                    "text": "die coolsten!"
+                    "text": "Die coolsten!"
                 }
             ]
         },
@@ -1983,16 +1983,16 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "silber"
+                    "text": "Silber"
                 },
                 {
-                    "text": "lila"
+                    "text": "Lila"
                 },
                 {
-                    "text": "gold"
+                    "text": "Gold"
                 },
                 {
-                    "text": "hellgrau"
+                    "text": "Hellgrau"
                 }
             ]
         },
@@ -2003,17 +2003,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "ein Schwarzer Piranha"
+                    "text": "Ein Schwarzer Piranha"
                 },
                 {
-                    "text": "eine Tüpfelhyäne"
+                    "text": "Eine Tüpfelhyäne"
                 },
                 {
                     "correct": true,
-                    "text": "ein weißer Hai"
+                    "text": "Ein weißer Hai"
                 },
                 {
-                    "text": "ein Beutellöwe"
+                    "text": "Ein Beutellöwe"
                 }
             ]
         },
@@ -2171,17 +2171,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "braun"
+                    "text": "Braun"
                 },
                 {
-                    "text": "blau"
+                    "text": "Blau"
                 },
                 {
                     "correct": true,
-                    "text": "grün"
+                    "text": "Grün"
                 },
                 {
-                    "text": "rot"
+                    "text": "Rot"
                 }
             ]
         },
@@ -2297,17 +2297,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "königsblau"
+                    "text": "Königsblau"
                 },
                 {
                     "correct": true,
-                    "text": "burgundrot"
+                    "text": "Burgundrot"
                 },
                 {
-                    "text": "erbsengrün"
+                    "text": "Erbsengrün"
                 },
                 {
-                    "text": "schwarz"
+                    "text": "Schwarz"
                 }
             ]
         },
@@ -2486,17 +2486,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "ein Seil"
+                    "text": "Ein Seil"
                 },
                 {
-                    "text": "eine Kerze"
+                    "text": "Ein Kerze"
                 },
                 {
-                    "text": "eine Schriftrolle"
+                    "text": "Ein Schriftrolle"
                 },
                 {
                     "correct": true,
-                    "text": "ein Winkelmaß"
+                    "text": "Ein Winkelmaß"
                 }
             ]
         },
@@ -2507,14 +2507,14 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "ein Geigerzähler"
+                    "text": "Ein Geigerzähler"
                 },
                 {
-                    "text": "ein Hammer"
+                    "text": "Ein Hammer"
                 },
                 {
                     "correct": true,
-                    "text": "eine Nadel"
+                    "text": "Eine Nadel"
                 },
                 {
                     "text": "Gift"
@@ -2634,16 +2634,16 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "kalt"
+                    "text": "Kalt"
                 },
                 {
-                    "text": "warm"
+                    "text": "Warm"
                 },
                 {
-                    "text": "heiß"
+                    "text": "Heiß"
                 },
                 {
-                    "text": "lauwarm"
+                    "text": "Lauwarm"
                 }
             ]
         },
@@ -2885,17 +2885,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "das letzte Werk eines Künstlers"
+                    "text": "Das letzte Werk eines Künstlers"
                 },
                 {
                     "correct": true,
-                    "text": "eine optische Täuschung"
+                    "text": "Eine optische Täuschung"
                 },
                 {
-                    "text": "ein Moment des Sieges"
+                    "text": "Ein Moment des Sieges"
                 },
                 {
-                    "text": "ein Selbstporträt"
+                    "text": "Ein Selbstporträt"
                 }
             ]
         },
@@ -2907,16 +2907,16 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "zweifelhaft"
+                    "text": "Zweifelhaft"
                 },
                 {
-                    "text": "anerkannt"
+                    "text": "Anerkannt"
                 },
                 {
-                    "text": "unkonventionell"
+                    "text": "Unkonventionell"
                 },
                 {
-                    "text": "lautmalerisch"
+                    "text": "Lautmalerisch"
                 }
             ]
         },
@@ -2991,16 +2991,16 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "am ersten Freitag im August"
+                    "text": "Am ersten Freitag im August"
                 },
                 {
-                    "text": "am zweiten Samstag im Oktober"
+                    "text": "Am zweiten Samstag im Oktober"
                 },
                 {
-                    "text": "am 17. April"
+                    "text": "Am 17. April"
                 },
                 {
-                    "text": "am dritten Dienstag im März"
+                    "text": "Am dritten Dienstag im März"
                 }
             ]
         },
@@ -3224,14 +3224,14 @@
                     "text": "Rauchmelder"
                 },
                 {
-                    "text": "ein Kilo Kaffee"
+                    "text": "Ein Kilo Kaffee"
                 },
                 {
-                    "text": "ein Kilo Dünger"
+                    "text": "Ein Kilo Dünger"
                 },
                 {
                     "correct": true,
-                    "text": "ein erwachsener Mensch"
+                    "text": "Ein erwachsener Mensch"
                 }
             ]
         },
@@ -3515,17 +3515,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "guter Freund"
+                    "text": "Guter Freund"
                 },
                 {
                     "correct": true,
-                    "text": "anderswo"
+                    "text": "Anderswo"
                 },
                 {
-                    "text": "wahre Geschichte"
+                    "text": "Wahre Geschichte"
                 },
                 {
-                    "text": "unschuldig"
+                    "text": "Unschuldig"
                 }
             ]
         },
@@ -3651,7 +3651,7 @@
                 },
                 {
                     "correct": true,
-                    "text": "fast alles - es ist vielseitig!"
+                    "text": "Fast alles - es ist vielseitig!"
                 }
             ]
         },
@@ -3662,17 +3662,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "quadratisch, dick"
+                    "text": "Quadratisch, dick"
                 },
                 {
                     "correct": true,
-                    "text": "rund, dünn"
+                    "text": "Rund, dünn"
                 },
                 {
-                    "text": "rechteckig, neutral"
+                    "text": "Rechteckig, neutral"
                 },
                 {
-                    "text": "rautenförmig, dick"
+                    "text": "Rautenförmig, dick"
                 }
             ]
         },
@@ -3746,17 +3746,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "blau"
+                    "text": "Blau"
                 },
                 {
-                    "text": "gelb"
+                    "text": "Gelb"
                 },
                 {
-                    "text": "lila"
+                    "text": "Lila"
                 },
                 {
                     "correct": true,
-                    "text": "pink"
+                    "text": "Pink"
                 }
             ]
         },
@@ -3851,17 +3851,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "einmal am Tag"
+                    "text": "Einmal am Tag"
                 },
                 {
                     "correct": true,
-                    "text": "einmal in der Woche"
+                    "text": "Einmal in der Woche"
                 },
                 {
-                    "text": "zweimal im Monat"
+                    "text": "Zweimal im Monat"
                 },
                 {
-                    "text": "einmal im Monat"
+                    "text": "Einmal im Monat"
                 }
             ]
         },
@@ -3918,13 +3918,13 @@
                 },
                 {
                     "correct": true,
-                    "text": "geräucherten Fisch"
+                    "text": "Geräucherten Fisch"
                 },
                 {
                     "text": "Würstchen"
                 },
                 {
-                    "text": "gebackene Bohnen"
+                    "text": "Gebackene Bohnen"
                 }
             ]
         },
@@ -4230,16 +4230,16 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "ein Big Mac"
+                    "text": "Ein Big Mac"
                 },
                 {
-                    "text": "ein Whopper"
+                    "text": "Ein Whopper"
                 },
                 {
-                    "text": "ein KFC Zinger Burger"
+                    "text": "Ein KFC Zinger Burger"
                 },
                 {
-                    "text": "ein Tuna Sub 15cm"
+                    "text": "Ein Tuna Sub 15cm"
                 }
             ]
         },
@@ -4440,16 +4440,16 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "in eine Pfeife blasen"
+                    "text": "In eine Pfeife blasen"
                 },
                 {
                     "text": "Handschellen hochhalten"
                 },
                 {
-                    "text": "einen Fahrschein schreiben"
+                    "text": "Einen Fahrschein schreiben"
                 },
                 {
-                    "text": "ein Gewehr zielen"
+                    "text": "Ein Gewehr zielen"
                 }
             ]
         },
@@ -4607,17 +4607,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "den Filmprojektor"
+                    "text": "Den Filmprojektor"
                 },
                 {
                     "correct": true,
-                    "text": "den Phonograph / Audiorekorder"
+                    "text": "Den Phonograph / Audiorekorder"
                 },
                 {
-                    "text": "die Glühbirne"
+                    "text": "Die Glühbirne"
                 },
                 {
-                    "text": "das Geistertelefon (um mit Geistern zu kommunizieren)"
+                    "text": "Das Geistertelefon (um mit Geistern zu kommunizieren)"
                 }
             ]
         },
@@ -4755,16 +4755,16 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "des Handels und Reichtums"
+                    "text": "Des Handels und Reichtums"
                 },
                 {
-                    "text": "des Krieges und Feuers"
+                    "text": "Des Krieges und Feuers"
                 },
                 {
-                    "text": "des Segelns und Angelns"
+                    "text": "Des Segelns und Angelns"
                 },
                 {
-                    "text": "des Feierns und der Feste"
+                    "text": "Des Feierns und der Feste"
                 }
             ]
         },
@@ -5363,17 +5363,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "als Bratöl"
+                    "text": "Als Bratöl"
                 },
                 {
                     "correct": true,
-                    "text": "als Mittel gegen Kopfschmerzen"
+                    "text": "Als Mittel gegen Kopfschmerzen"
                 },
                 {
-                    "text": "als Desinfektionsmittel"
+                    "text": "Als Desinfektionsmittel"
                 },
                 {
-                    "text": "als Morphium"
+                    "text": "Als Morphium"
                 }
             ]
         },
@@ -5426,17 +5426,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "mindestens einen 3 Kilo-Eimer"
+                    "text": "Mindestens einen 3 Kilo-Eimer"
                 },
                 {
-                    "text": "mindestens 2 Hände voll"
+                    "text": "Mindestens 2 Hände voll"
                 },
                 {
-                    "text": "mindestens eine 1,5 Liter-Flasche voll"
+                    "text": "Mindestens eine 1,5 Liter-Flasche voll"
                 },
                 {
                     "correct": true,
-                    "text": "mindestens 111 Stück"
+                    "text": "Mindestens 111 Stück"
                 }
             ]
         },
@@ -5489,14 +5489,14 @@
             "pic": true,
             "choices": [
                 {
-                    "text": "dorisch"
+                    "text": "Dorisch"
                 },
                 {
-                    "text": "ionisch"
+                    "text": "Ionisch"
                 },
                 {
                     "correct": true,
-                    "text": "korinthisch"
+                    "text": "Korinthisch"
                 },
                 {
                     "text": "Standard"
@@ -5531,17 +5531,17 @@
             "pic": true,
             "choices": [
                 {
-                    "text": "einer"
+                    "text": "Einer"
                 },
                 {
                     "correct": true,
-                    "text": "zwei"
+                    "text": "Zwei"
                 },
                 {
-                    "text": "drei"
+                    "text": "Drei"
                 },
                 {
-                    "text": "vier"
+                    "text": "Vier"
                 }
             ]
         },
@@ -5552,17 +5552,17 @@
             "pic": true,
             "choices": [
                 {
-                    "text": "schwarz"
+                    "text": "Schwarz"
                 },
                 {
                     "correct": true,
-                    "text": "weiß"
+                    "text": "Weiß"
                 },
                 {
-                    "text": "rot"
+                    "text": "Rot"
                 },
                 {
-                    "text": "grau/braun"
+                    "text": "Grau/braun"
                 }
             ]
         },
@@ -5583,7 +5583,7 @@
                     "text": "Gleichstand"
                 },
                 {
-                    "text": "es ist ein unvollständiges Spiel"
+                    "text": "Es ist ein unvollständiges Spiel"
                 }
             ]
         },
