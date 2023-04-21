@@ -2,7 +2,7 @@
 	"isBundle":"true",
 	"connectingDurationTrouble":"15000",
 	"supportsJoysticksHotplugging":"true",
-	"joinUrl":"jackbox.gg",
+	"joinUrl":"jackbox.de",
 	"gameName":"Quiplash2",
 	"flashKeyboard":"true",
 	"env":"pc",

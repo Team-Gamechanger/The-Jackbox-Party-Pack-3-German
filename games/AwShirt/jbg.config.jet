@@ -2,7 +2,7 @@
 	"isBundle":"true",
 	"connectingDurationTrouble":"15000",
 	"supportsJoysticksHotplugging":"true",
-	"joinUrl":"jackbox.gg",
+	"joinUrl":"jackbox.de",
 	"gameName":"AwShirt",
 	"flashKeyboard":"true",
 	"env":"pc",
