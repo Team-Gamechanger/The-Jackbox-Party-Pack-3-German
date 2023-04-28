@@ -6077,17 +6077,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "Rubble"
+                    "text": "Schiefer"
                 },
                 {
-                    "text": "Slate"
+                    "text": "Geröllgerät"
                 },
                 {
-                    "text": "Hardrock"
+                    "text": "Hartstein"
                 },
                 {
                     "correct": true,
-                    "text": "Slaghoople"
+                    "text": "Schotterhaufen"
                 }
             ]
         },
