@@ -690,7 +690,7 @@
                 },
                 {
                     "correct": true,
-                    "text": "Gus"
+                    "text": "Jürgen"
                 }
             ]
         },
@@ -4183,21 +4183,21 @@
         {
             "x": false,
             "id": 38262,
-            "text": "Was ist der Name des Films innerhalb des Films, der auf die Ereignisse der <i>Scream<\/i>-Filme basiert?",
+            "text": "Auf welchen Film basiert der erste Teil von <i>Scary Movie<\/i>?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Slash<\/i>"
+                    "text": "<i>Saw II<\/i>"
                 },
                 {
-                    "text": "<i>Slice<\/i>"
+                    "text": "<i>Halloween Ends<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Stab<\/i>"
+                    "text": "<i>Scream<\/i>"
                 },
                 {
-                    "text": "<i>Skewer<\/i>"
+                    "text": "<i>Nightmare<\/i>"
                 }
             ]
         },
@@ -5422,21 +5422,21 @@
         {
             "x": false,
             "id": 38181,
-            "text": "Wie viele Oliven brauche ich, wenn ich einen Liter Olivenöl haben will?",
+            "text": "Welche Farbe haben Oliven, wenn sie früh geerntet werden?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Mindestens einen 3 Kilo-Eimer"
+                    "text": "Rot"
                 },
                 {
-                    "text": "Mindestens 2 Hände voll"
+                    "text": "Gelb"
                 },
                 {
-                    "text": "Mindestens eine 1,5 Liter-Flasche voll"
+                    "text": "Schwarz"
                 },
                 {
                     "correct": true,
-                    "text": "Mindestens 111 Stück"
+                    "text": "Grün"
                 }
             ]
         },
@@ -7816,21 +7816,21 @@
         {
             "x": false,
             "id": 37486,
-            "text": "Wie heißt das fliegende Pferd von Regina Regenbogen?",
+            "text": "Wie heißt die Krabbe aus <i>Arielle, die Meerjungfrau?<\/i>",
             "pic": false,
             "choices": [
                 {
-                    "text": "Sunsprite"
+                    "text": "Fabius"
                 },
                 {
-                    "text": "Wingflite"
+                    "text": "Lumière"
                 },
                 {
                     "correct": true,
-                    "text": "Starlite"
+                    "text": "Sebastian"
                 },
                 {
-                    "text": "Litebrite"
+                    "text": "Eugen"
                 }
             ]
         },
@@ -8257,7 +8257,7 @@
         {
             "x": false,
             "id": 37456,
-            "text": "Wie nennt man die Einheit, mit der die Schärfe von Chili gemessen wird?",
+            "text": "Wie nennt man die Einheit, mit der die Schärfe von Lebensmitteln gemessen wird?",
             "pic": false,
             "choices": [
                 {
@@ -12373,42 +12373,42 @@
         {
             "x": false,
             "id": 33401,
-            "text": "Welches Land ist NICHT in der Transpazifischen Partnerschaft?",
+            "text": "Welches Land ist nochmal direkt über Litauen?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Japan"
+                    "text": "Belarus"
                 },
                 {
                     "correct": true,
-                    "text": "Nordkorea"
+                    "text": "Lettland"
                 },
                 {
-                    "text": "Singapur"
+                    "text": "Finnland"
                 },
                 {
-                    "text": "Vietnam"
+                    "text": "Estland"
                 }
             ]
         },
         {
             "x": false,
             "id": 33399,
-            "text": "Welches Spiel ist das \u201cklassische indische Spiel\u201d?",
+            "text": "Welche dieser Maßeinheiten gehört zum metrischen System?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Kniffel"
+                    "text": "Kette"
                 },
                 {
-                    "text": "Sorry!"
+                    "text": "Unze"
                 },
                 {
                     "correct": true,
-                    "text": "Parcheesi"
+                    "text": "Angstrom"
                 },
                 {
-                    "text": "Trouble"
+                    "text": "Zoll"
                 }
             ]
         },
@@ -12436,21 +12436,21 @@
         {
             "x": false,
             "id": 33396,
-            "text": "Wie hieß Colonel Sanders mit Vornamen?",
+            "text": "Welches dieser englischen Verben ist unregelmäßig?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Harland"
+                    "text": "fall"
                 },
                 {
-                    "text": "Chester"
+                    "text": "clean"
                 },
                 {
-                    "text": "Douglas"
+                    "text": "love"
                 },
                 {
-                    "text": "Garret"
+                    "text": "help"
                 }
             ]
         },
@@ -12478,105 +12478,105 @@
         {
             "x": false,
             "id": 33394,
-            "text": "Wer richtete Johanna von Orleans hin?",
+            "text": "Welche Farben hat die Flagge von Estland?",
             "pic": false,
             "choices": [
                 {
-                    "text": "die Italianiener"
+                    "text": "Rot, weiß und blau"
                 },
                 {
-                    "text": "die Spanier"
+                    "text": "Kirschrot und weiß"
                 },
                 {
-                    "text": "die Russen"
+                    "text": "Grün, gelb und rot"
                 },
                 {
                     "correct": true,
-                    "text": "die Engländer"
+                    "text": "Schwarz, weiß und blau"
                 }
             ]
         },
         {
             "x": false,
             "id": 33392,
-            "text": "Oranien ist der Name des Königshauses welches Landes?",
+            "text": "Welche Firma stellt die originalen schweizer Taschenmesser her?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Kanada"
+                    "text": "ABB"
                 },
                 {
-                    "text": "Südkorea"
+                    "text": "Die schweizer Volksschmiede"
                 },
                 {
-                    "text": "Schweden"
+                    "text": "Swiss Life"
                 },
                 {
                     "correct": true,
-                    "text": "Niederlande"
+                    "text": "Victorinox"
                 }
             ]
         },
         {
             "x": false,
             "id": 33391,
-            "text": "An welchem Datum sind die Iden des März?",
+            "text": "Welche dieser Spiele-Engines gibt es wirklich?",
             "pic": false,
             "choices": [
                 {
-                    "text": "1. März"
+                    "text": "Wall Engine"
                 },
                 {
                     "correct": true,
-                    "text": "15. März"
+                    "text": "Cry Engine"
                 },
                 {
-                    "text": "22. März"
+                    "text": "Unreaty Engine"
                 },
                 {
-                    "text": "30. März"
+                    "text": "LuminaTech Engine"
                 }
             ]
         },
         {
             "x": false,
             "id": 33389,
-            "text": "Welche dieser Städte liegt in Katalonien?",
+            "text": "Ich möchte nach \u201cNorden\u201d, wohin muss ich?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Rio de Janeiro"
+                    "text": "nach Sachsen-Anhalt"
                 },
                 {
-                    "text": "Madrid"
+                    "text": "nach Schleswig-Holstein"
                 },
                 {
-                    "text": "Mexiko-Stadt"
+                    "text": "nach Bayern"
                 },
                 {
                     "correct": true,
-                    "text": "Barcelona"
+                    "text": "nach Niedersachsen"
                 }
             ]
         },
         {
             "x": false,
             "id": 33382,
-            "text": "Der 2. Weltkrieg begann mit dem Angriff auf welches Land?",
+            "text": "Was bedeutet \u201cpragmatisch\u201d?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Deutschland"
+                    "text": "weit hergeholt"
                 },
                 {
                     "correct": true,
-                    "text": "Polen"
+                    "text": "sachbezogen"
                 },
                 {
-                    "text": "England"
+                    "text": "weniger wichtig"
                 },
                 {
-                    "text": "Russland"
+                    "text": "spekulativ"
                 }
             ]
         },
@@ -12590,7 +12590,7 @@
                     "text": "Kaspisches Meer"
                 },
                 {
-                    "text": "Totes Meer"
+                    "text": "Mittelmeer"
                 },
                 {
                     "text": "Rotes Meer"
@@ -12625,21 +12625,21 @@
         {
             "x": false,
             "id": 33296,
-            "text": "Was ist der letzte Chris Farley zugerechnete Film?",
+            "text": "Was ist der neuste Film von Otto Waalkes? (Stand 2022)",
             "pic": false,
             "choices": [
                 {
                     "text": "<i>Black Sheep<\/i>"
                 },
                 {
-                    "text": "<i>Tommy Boy<\/i>"
+                    "text": "<i>Der 7bte Zwerg<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Fast Helden<\/i>"
+                    "text": "<i>Catweazle<\/i>"
                 },
                 {
-                    "text": "<i>Beverly Hills Ninja<\/i>"
+                    "text": "<i>Kartoffelsalat<\/i>"
                 }
             ]
         },
@@ -21214,21 +21214,21 @@
         {
             "x": false,
             "id": 32044,
-            "text": "Victorinox ist der exklusive Hersteller welches Artikels?",
+            "text": "Wie viele Sterne hatte die Europaflagge noch gleich?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Taser"
+                    "text": "18"
                 },
                 {
-                    "text": "Klarsichtfolie"
+                    "text": "28"
                 },
                 {
-                    "text": "Nachtsichtgerät"
+                    "text": "22"
                 },
                 {
                     "correct": true,
-                    "text": "schweizer Armee Taschenmesser"
+                    "text": "12"
                 }
             ]
         },
