@@ -4183,7 +4183,7 @@
         {
             "x": false,
             "id": 38262,
-            "text": "Auf welchen Film basiert der erste Teil von <i>Scary Movie<\/i>?",
+            "text": "Auf welchem Film basiert der erste Teil von <i>Scary Movie<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -7816,7 +7816,7 @@
         {
             "x": false,
             "id": 37486,
-            "text": "Wie heißt die Krabbe aus <i>Arielle, die Meerjungfrau?<\/i>",
+            "text": "Wie heißt die Krabbe aus <i>Arielle, die Meerjungfrau<\/i>?",
             "pic": false,
             "choices": [
                 {
@@ -12499,14 +12499,14 @@
         {
             "x": false,
             "id": 33392,
-            "text": "Welche Firma stellt die originalen schweizer Taschenmesser her?",
+            "text": "Welche Firma stellt die originalen Schweizer Taschenmesser her?",
             "pic": false,
             "choices": [
                 {
                     "text": "ABB"
                 },
                 {
-                    "text": "Die schweizer Volksschmiede"
+                    "text": "Die Schweizer Volksschmiede"
                 },
                 {
                     "text": "Swiss Life"
@@ -12625,7 +12625,7 @@
         {
             "x": false,
             "id": 33296,
-            "text": "Was ist der neuste Film von Otto Waalkes? (Stand 2022)",
+            "text": "Was ist der neueste Film von Otto Waalkes? (Stand 2022)",
             "pic": false,
             "choices": [
                 {
