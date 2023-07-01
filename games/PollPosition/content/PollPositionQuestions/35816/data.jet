@@ -32,12 +32,12 @@
     },
     {
       "t": "S",
-      "v": "Wenn es möglich wäre zu einem beliebigen Zeitpunkt zu reisen, wie viel Prozent der Leute würden einen Zeitpunkt aus der Vergangenheit nehmen?",
+      "v": "Wenn es möglich wäre, zu einem beliebigen Zeitpunkt zu reisen, wie viel Prozent der Leute würden einen Zeitpunkt aus der Vergangenheit nehmen?",
       "n": "QText"
     },
     {
       "t": "S",
-      "v": "Die Vergangenheit früher in meinem Leben",
+      "v": "Die Vergangenheit",
       "n": "Choice1"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Die Zukunft später in meinem Leben",
+      "v": "Die Zukunft",
       "n": "Choice2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "Die Vergangenheit vor meiner Geburt",
+      "v": "Keinen. Jetzt ist gerade schön.",
       "n": "Choice0"
     },
     {
