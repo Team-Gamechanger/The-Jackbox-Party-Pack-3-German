@@ -683,14 +683,14 @@
                     "text": "Brötchen"
                 },
                 {
-                    "text": "Pfefferminz"
+                    "text": "Schnuffel",
+                    "correct": true
                 },
                 {
-                    "text": "JoJo"
+                    "text": "Regenschirm"
                 },
                 {
-                    "correct": true,
-                    "text": "Jürgen"
+                    "text": "Klaus-Dieter"
                 }
             ]
         },
