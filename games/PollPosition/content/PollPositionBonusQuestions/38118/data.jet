@@ -17,27 +17,27 @@
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "22",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "13",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "11",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "15",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "11",
       "n": "Val4"
     },
     {
@@ -47,17 +47,17 @@
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "10",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "9",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "1",
+      "v": "7",
       "n": "Val8"
     },
     {
@@ -77,12 +77,12 @@
     },
     {
       "t": "S",
-      "v": "<i>Wo die wilden Kerle wohnen</i>",
+      "v": "<i>Emil und die Detektive</i>",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "<i>Der Fänger im Roggen</i>",
+      "v": "<i>Alice im Wunderland</i>",
       "n": "Choice8"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "<i>Charlie und die Schokoladenfabrik</i>",
+      "v": "<i>Das doppelte Lottchen</i>",
       "n": "Choice5"
     },
     {
@@ -102,22 +102,22 @@
     },
     {
       "t": "S",
-      "v": "<i>Per Anhalter durch die Galaxis</i>",
+      "v": "<i>Die kleine Hexe</i>",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "<i>The Phantom Tollbooth</i>",
+      "v": "<i>Jim Knopf</i>",
       "n": "Choice3"
     },
     {
       "t": "S",
-      "v": "<i>Alice im Wunderland</i>",
+      "v": "<i>Der Räuber Hotzenplotz</i>",
       "n": "Choice4"
     },
     {
       "t": "S",
-      "v": "<i>Wer die Nachtigall stört</i>",
+      "v": "<i>Pippi Langstrumpf</i>",
       "n": "Choice1"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "t": "S",
-      "v": "<i>Der Hobbit</i>",
+      "v": "<i>Die unendliche Geschichte</i>",
       "n": "Choice2"
     },
     {

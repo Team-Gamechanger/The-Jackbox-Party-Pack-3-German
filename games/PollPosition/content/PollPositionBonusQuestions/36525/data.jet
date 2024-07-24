@@ -17,47 +17,47 @@
     },
     {
       "t": "N",
-      "v": "26",
+      "v": "20",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "24",
+      "v": "18",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "7",
+      "v": "3",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "6",
+      "v": "10",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "6",
+      "v": "4",
       "n": "Val4"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "5",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "4",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "6",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "30",
       "n": "Val8"
     },
     {
@@ -77,12 +77,12 @@
     },
     {
       "t": "S",
-      "v": "Fernbedienung fürs Auto",
+      "v": "Karabinerhaken",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "nichts",
+      "v": "Nichts",
       "n": "Choice8"
     },
     {
@@ -102,12 +102,12 @@
     },
     {
       "t": "S",
-      "v": "Mitgliedskarte des Fitnessstudios",
+      "v": "Glücksbringer",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "Rabattkarte",
+      "v": "Schlüsselband",
       "n": "Choice3"
     },
     {

@@ -17,47 +17,47 @@
     },
     {
       "t": "N",
-      "v": "30",
+      "v": "10",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "10",
+      "v": "7",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "6",
+      "v": "17",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "5",
+      "v": "23",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "9",
       "n": "Val4"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "12",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "9",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "8",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "5",
       "n": "Val8"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "t": "S",
-      "v": "Welche Band verbindest du am ehesten mit den ’90ern?",
+      "v": "Welche Band verbindest du am ehesten mit den 90ern?",
       "n": "PollQ"
     },
     {
@@ -77,12 +77,12 @@
     },
     {
       "t": "S",
-      "v": "Blink-182",
+      "v": "Scooter",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "Ace of Base",
+      "v": "Fettes Brot",
       "n": "Choice8"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "t": "S",
-      "v": "Smash Mouth",
+      "v": "Modern Talking",
       "n": "Choice6"
     },
     {
@@ -117,7 +117,7 @@
     },
     {
       "t": "S",
-      "v": "NSYNC",
+      "v": "Die Fantastischen Vier",
       "n": "Choice1"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "t": "S",
-      "v": "Pearl Jam",
+      "v": "Die Ärzte",
       "n": "Choice2"
     },
     {

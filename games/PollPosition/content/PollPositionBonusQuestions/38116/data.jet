@@ -17,27 +17,27 @@
     },
     {
       "t": "N",
-      "v": "36",
+      "v": "26",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "10",
+      "v": "16",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "9",
+      "v": "15",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "8",
+      "v": "10",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "2",
       "n": "Val4"
     },
     {
@@ -47,17 +47,17 @@
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "16",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "3",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "10",
       "n": "Val8"
     },
     {
@@ -67,22 +67,22 @@
     },
     {
       "t": "S",
-      "v": "Wo sollten wir das Steuergeld am besten ausgeben?",
+      "v": "Wo sollten wir Steuergelder am besten ausgeben?",
       "n": "PollQ"
     },
     {
       "t": "S",
-      "v": "Bildung / Schulen",
+      "v": "Bildung",
       "n": "Choice0"
     },
     {
       "t": "S",
-      "v": "Nationale, keine internationale Hilfe",
+      "v": "Entwicklungshilfe",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "Wirtschaft / Jobs",
+      "v": "Wohnungsbau",
       "n": "Choice8"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "t": "S",
-      "v": "College Unterricht",
+      "v": "Umwelt",
       "n": "Choice6"
     },
     {

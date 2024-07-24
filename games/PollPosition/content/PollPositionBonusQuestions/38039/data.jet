@@ -17,57 +17,57 @@
     },
     {
       "t": "N",
-      "v": "71",
+      "v": "55",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "16",
+      "v": "17",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "6",
+      "v": "7",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "0",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "1",
+      "v": "15",
       "n": "Val4"
     },
     {
       "t": "N",
-      "v": "1",
+      "v": "6",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "1",
+      "v": "0",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "1",
+      "v": "0",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "1",
+      "v": "0",
       "n": "Val8"
     },
     {
       "t": "S",
-      "v": "Welchen Internet Browser benutzen die Leute am häufigsten?",
+      "v": "Welchen Internet-Browser benutzen die Leute am häufigsten?",
       "n": "QText"
     },
     {
       "t": "S",
-      "v": "Welchen Internet Browser benutzt du am häufigsten?",
+      "v": "Welchen Internet-Browser benutzt du am häufigsten?",
       "n": "PollQ"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "t": "S",
-      "v": "Maxthon",
+      "v": "Torch",
       "n": "Choice8"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "t": "S",
-      "v": "Pale Moon",
+      "v": "Brave",
       "n": "Choice6"
     },
     {

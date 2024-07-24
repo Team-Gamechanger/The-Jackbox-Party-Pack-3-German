@@ -17,47 +17,47 @@
     },
     {
       "t": "N",
-      "v": "27",
+      "v": "23",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "24",
+      "v": "12",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "7",
+      "v": "9",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "5",
+      "v": "14",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "22",
       "n": "Val4"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "14",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "2",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "1",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "1",
+      "v": "3",
       "n": "Val8"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "t": "S",
-      "v": "Was fällt dir zuerst du Angela Merkel ein?",
+      "v": "Was fällt dir zuerst zu Angela Merkel ein?",
       "n": "PollQ"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "Danke Merkel Meme",
+      "v": "“Danke Merkel”-Meme",
       "n": "Choice5"
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "t": "S",
-      "v": "Das Internet ist Neuland",
+      "v": "“Das Internet ist Neuland”",
       "n": "Choice4"
     },
     {

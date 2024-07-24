@@ -17,22 +17,22 @@
     },
     {
       "t": "N",
-      "v": "14",
+      "v": "27",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "12",
+      "v": "9",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "7",
+      "v": "10",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "6",
+      "v": "12",
       "n": "Val3"
     },
     {
@@ -47,17 +47,17 @@
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "5",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "14",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "15",
       "n": "Val8"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "Unterwasser Memory",
+      "v": "Unterwasser-Memory",
       "n": "Choice5"
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "t": "S",
-      "v": "Schunuller blind erkennen",
+      "v": "Schnuller blind erkennen",
       "n": "Choice4"
     },
     {

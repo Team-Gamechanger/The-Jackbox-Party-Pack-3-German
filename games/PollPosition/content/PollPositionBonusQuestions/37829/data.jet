@@ -17,47 +17,47 @@
     },
     {
       "t": "N",
-      "v": "18",
+      "v": "14",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "16",
+      "v": "12",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "9",
+      "v": "16",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "8",
+      "v": "7",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "9",
       "n": "Val4"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "6",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "14",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "15",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "6",
       "n": "Val8"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "t": "S",
-      "v": "Welchen Cartoon Hund möchtest du als Haustier haben?",
+      "v": "Welchen Cartoon-Hund hättest du gerne als Haustier?",
       "n": "PollQ"
     },
     {
@@ -77,12 +77,12 @@
     },
     {
       "t": "S",
-      "v": "Dug (<i>Up</i>)",
+      "v": "Dug (<i>Oben</i>)",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "Krypto, der Superhund",
+      "v": "Knecht Ruprecht (<i>Die Simpsons</i>)",
       "n": "Choice8"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "Courage der feige Hund",
+      "v": "Struppi",
       "n": "Choice5"
     },
     {
@@ -102,12 +102,12 @@
     },
     {
       "t": "S",
-      "v": "Pluto (<i>Mickey Mouse</i>)",
+      "v": "Pluto (<i>Micky Maus</i>)",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "Clifford, der große rote Hund",
+      "v": "Strolch",
       "n": "Choice3"
     },
     {
@@ -117,7 +117,7 @@
     },
     {
       "t": "S",
-      "v": "Snoopy (<i>Peanuts</i>)",
+      "v": "Snoopy (<i>Die Peanuts</i>)",
       "n": "Choice1"
     },
     {

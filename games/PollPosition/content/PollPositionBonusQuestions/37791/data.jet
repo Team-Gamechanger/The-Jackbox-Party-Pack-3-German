@@ -17,17 +17,17 @@
     },
     {
       "t": "N",
-      "v": "8",
+      "v": "15",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "5",
+      "v": "10",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "11",
       "n": "Val2"
     },
     {
@@ -42,22 +42,22 @@
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "20",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "9",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "22",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "5",
       "n": "Val8"
     },
     {
@@ -77,12 +77,12 @@
     },
     {
       "t": "S",
-      "v": "<i>The Voice</i>",
+      "v": "<i>The Voice of Germany</i>",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "<i>Hell’s Kitchen</i>",
+      "v": "<i>Bauer sucht Frau</i>",
       "n": "Choice8"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "t": "S",
-      "v": "<i>MasterChef</i>",
+      "v": "<i>Love Island</i>",
       "n": "Choice6"
     },
     {
@@ -112,12 +112,12 @@
     },
     {
       "t": "S",
-      "v": "<i>The Biggest Looser</i>",
+      "v": "<i>Das Sommerhaus der Stars</i>",
       "n": "Choice4"
     },
     {
       "t": "S",
-      "v": "<i>Survivor</i>",
+      "v": "<i>Germany's Next Topmodel</i>",
       "n": "Choice1"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "t": "S",
-      "v": "Keine",
+      "v": "<i>Let's Dance</i>",
       "n": "Choice2"
     },
     {

@@ -17,47 +17,47 @@
     },
     {
       "t": "N",
-      "v": "26",
+      "v": "5",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "21",
+      "v": "25",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "8",
+      "v": "2",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "6",
+      "v": "1",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "6",
+      "v": "49",
       "n": "Val4"
     },
     {
       "t": "N",
-      "v": "6",
+      "v": "11",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "5",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "0",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "1",
       "n": "Val8"
     },
     {
@@ -77,12 +77,12 @@
     },
     {
       "t": "S",
-      "v": "ignorieren",
+      "v": "Videoanruf",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "Instant message",
+      "v": "Eltern angerufen",
       "n": "Choice8"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "t": "S",
-      "v": "Third party",
+      "v": "Über eine dritte Person",
       "n": "Choice6"
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "t": "S",
-      "v": "keinen",
+      "v": "Noch nicht",
       "n": "Choice4"
     },
     {

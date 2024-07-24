@@ -17,72 +17,72 @@
     },
     {
       "t": "N",
-      "v": "13",
+      "v": "14",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "6",
+      "v": "10",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "5",
+      "v": "12",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "12",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "7",
       "n": "Val4"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "7",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "24",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "7",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "6",
       "n": "Val8"
     },
     {
       "t": "S",
-      "v": "Mit welchem “Fandom” identifizieren sich die meisten Leute?",
+      "v": "Mit welchem Fandom identifizieren sich die meisten Leute?",
       "n": "QText"
     },
     {
       "t": "S",
-      "v": "Mit welchem “Fandom” identifizierst du dich am meisten?",
+      "v": "Mit welchem Fandom identifizierst du dich am meisten?",
       "n": "PollQ"
     },
     {
       "t": "S",
-      "v": "Dr. Who Fans",
+      "v": "<i>Harry Potter</i>",
       "n": "Choice0"
     },
     {
       "t": "S",
-      "v": "Deadheads",
+      "v": "<i>Game of Thrones</i>",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "<i>Game of Thrones</i> Fans",
+      "v": "<i>Doctor Who</i>",
       "n": "Choice8"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "keinem",
+      "v": "<i>Der Herr der Ringe</i>",
       "n": "Choice5"
     },
     {
@@ -102,22 +102,22 @@
     },
     {
       "t": "S",
-      "v": "Bronies",
+      "v": "<i>Pokémon</i>",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "Brown Coats",
+      "v": "<i>Disney</i>",
       "n": "Choice3"
     },
     {
       "t": "S",
-      "v": "<i>Star Wars</i> Fans",
+      "v": "<i>Star Trek</i>",
       "n": "Choice4"
     },
     {
       "t": "S",
-      "v": "Potterheads",
+      "v": "<i>Star Wars</i>",
       "n": "Choice1"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "t": "S",
-      "v": "Trekkies",
+      "v": "<i>Marvel</i>",
       "n": "Choice2"
     },
     {

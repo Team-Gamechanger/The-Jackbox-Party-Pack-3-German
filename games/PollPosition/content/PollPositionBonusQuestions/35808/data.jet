@@ -22,42 +22,42 @@
     },
     {
       "t": "N",
-      "v": "10",
+      "v": "18",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "8",
+      "v": "24",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "8",
+      "v": "9",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "7",
+      "v": "9",
       "n": "Val4"
     },
     {
       "t": "N",
-      "v": "5",
+      "v": "1",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "9",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "5",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "13",
       "n": "Val8"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "t": "S",
-      "v": "lebendig begraben werden",
+      "v": "LKebendig begraben werden",
       "n": "Choice8"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "t": "S",
-      "v": "ertrinken",
+      "v": "Ertrinken",
       "n": "Choice6"
     },
     {
@@ -122,7 +122,7 @@
     },
     {
       "t": "S",
-      "v": "Social Media Datenanalyse",
+      "v": "Social-Media-Datenanalyse",
       "n": "DataMode"
     },
     {

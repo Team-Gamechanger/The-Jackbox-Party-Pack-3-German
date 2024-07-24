@@ -17,47 +17,47 @@
     },
     {
       "t": "N",
-      "v": "46",
+      "v": "14",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "13",
+      "v": "6",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "6",
+      "v": "12",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "6",
+      "v": "29",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "14",
       "n": "Val4"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "6",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "1",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "2",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "17",
       "n": "Val8"
     },
     {
@@ -77,12 +77,12 @@
     },
     {
       "t": "S",
-      "v": "Basketball",
+      "v": "Tennis",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "Tennis",
+      "v": "Dressurreiten",
       "n": "Choice8"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "Kricket",
+      "v": "Curling",
       "n": "Choice5"
     },
     {
@@ -102,22 +102,22 @@
     },
     {
       "t": "S",
-      "v": "Curling",
+      "v": "Basketball",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "American football",
+      "v": "Angeln",
       "n": "Choice3"
     },
     {
       "t": "S",
-      "v": "Alles",
+      "v": "Schach",
       "n": "Choice4"
     },
     {
       "t": "S",
-      "v": "Baseball",
+      "v": "Darts",
       "n": "Choice1"
     },
     {

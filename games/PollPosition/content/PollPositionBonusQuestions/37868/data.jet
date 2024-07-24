@@ -17,47 +17,47 @@
     },
     {
       "t": "N",
-      "v": "23",
+      "v": "27",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "17",
+      "v": "10",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "6",
+      "v": "10",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "5",
+      "v": "23",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "5",
+      "v": "11",
       "n": "Val4"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "5",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "2",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "9",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "4",
       "n": "Val8"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "t": "S",
-      "v": "Welche mythische Kreatur gefällt dir am besten?",
+      "v": "Welche mythische Kreatur gefällt dir am meisten?",
       "n": "PollQ"
     },
     {

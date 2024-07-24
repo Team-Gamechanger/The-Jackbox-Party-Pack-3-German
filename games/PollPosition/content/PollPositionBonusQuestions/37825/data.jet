@@ -62,12 +62,12 @@
     },
     {
       "t": "S",
-      "v": "Welcher <i>Star Wars</i> Charakter ist der härteste?",
+      "v": "Welcher <i>Star Wars</i>-Charakter ist der härteste?",
       "n": "QText"
     },
     {
       "t": "S",
-      "v": "Welcher <i>Star Wars</i> Charakter ist der härteste?",
+      "v": "Welcher <i>Star Wars</i>-Charakter ist der härteste?",
       "n": "PollQ"
     },
     {

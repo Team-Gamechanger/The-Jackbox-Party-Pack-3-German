@@ -17,47 +17,47 @@
     },
     {
       "t": "N",
-      "v": "29",
+      "v": "10",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "13",
+      "v": "12",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "11",
+      "v": "6",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "10",
+      "v": "17",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "6",
+      "v": "14",
       "n": "Val4"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "12",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "11",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "7",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "11",
       "n": "Val8"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "t": "S",
-      "v": "Was war auf der weiterführenden Schule dein unbeliebtestes Fach?",
+      "v": "Was war auf der weiterführenden Schule dein Hassfach?",
       "n": "PollQ"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "t": "S",
-      "v": "Infinitesimalrechnung",
+      "v": "Politik",
       "n": "Choice8"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "t": "S",
-      "v": "Algebra",
+      "v": "Physik",
       "n": "Choice6"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "t": "S",
-      "v": "Englisch",
+      "v": "Deutsch",
       "n": "Choice2"
     },
     {

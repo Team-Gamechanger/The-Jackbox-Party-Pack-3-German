@@ -17,47 +17,47 @@
     },
     {
       "t": "N",
-      "v": "13",
+      "v": "3",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "10",
+      "v": "17",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "9",
+      "v": "21",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "6",
+      "v": "9",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "6",
+      "v": "13",
       "n": "Val4"
     },
     {
       "t": "N",
-      "v": "5",
+      "v": "11",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "5",
+      "v": "9",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "10",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "7",
       "n": "Val8"
     },
     {
@@ -77,12 +77,12 @@
     },
     {
       "t": "S",
-      "v": "Videospiele",
+      "v": "Unentschlossenheit",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "Pornografie",
+      "v": "Mangelnde Selbstbeherrschung",
       "n": "Choice8"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "Limonade",
+      "v": "Perfektionismus",
       "n": "Choice5"
     },
     {
@@ -102,22 +102,22 @@
     },
     {
       "t": "S",
-      "v": "Fast Food",
+      "v": "Schlechte Kommunikation",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "Faulheit",
+      "v": "Ungeduld",
       "n": "Choice3"
     },
     {
       "t": "S",
-      "v": "Süßigkeiten",
+      "v": "Angst vor Veränderung",
       "n": "Choice4"
     },
     {
       "t": "S",
-      "v": "überfressen",
+      "v": "Vergesslichkeit",
       "n": "Choice1"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "t": "S",
-      "v": "Zigaretten",
+      "v": "Faulheit",
       "n": "Choice2"
     },
     {

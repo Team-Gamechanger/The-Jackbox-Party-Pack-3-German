@@ -17,12 +17,12 @@
     },
     {
       "t": "N",
-      "v": "22",
+      "v": "5",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "17",
+      "v": "5",
       "n": "Val1"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "t": "N",
-      "v": "9",
+      "v": "21",
       "n": "Val3"
     },
     {
@@ -42,22 +42,22 @@
     },
     {
       "t": "N",
-      "v": "6",
+      "v": "9",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "15",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "21",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "9",
       "n": "Val8"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "“Das Geht Ab”",
+      "v": "“Das geht ab (Wir feiern die ganze Nacht)”",
       "n": "Choice5"
     },
     {
@@ -107,17 +107,17 @@
     },
     {
       "t": "S",
-      "v": "“Sonnentanz”",
+      "v": "“Junge”",
       "n": "Choice3"
     },
     {
       "t": "S",
-      "v": "“Schöne Maid",
+      "v": "“Cello”",
       "n": "Choice4"
     },
     {
       "t": "S",
-      "v": "“Ein Stern”",
+      "v": "“Ein Stern (... der deinen Namen trägt)”",
       "n": "Choice1"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "t": "S",
-      "v": "“Geboren Um Zu Leben”",
+      "v": "“Geboren um zu leben”",
       "n": "Choice2"
     },
     {

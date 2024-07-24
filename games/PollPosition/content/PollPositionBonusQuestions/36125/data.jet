@@ -17,17 +17,17 @@
     },
     {
       "t": "N",
-      "v": "38",
+      "v": "19",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "11",
+      "v": "12",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "5",
+      "v": "20",
       "n": "Val2"
     },
     {
@@ -37,27 +37,27 @@
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "7",
       "n": "Val4"
     },
     {
       "t": "N",
-      "v": "1",
+      "v": "7",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "1",
+      "v": "13",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "1",
+      "v": "9",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "1",
+      "v": "8",
       "n": "Val8"
     },
     {
@@ -67,22 +67,22 @@
     },
     {
       "t": "S",
-      "v": "Was ist dein Lieblingsgeschmack von Chips?",
+      "v": "Was ist deine Lieblings-Chipssorte?",
       "n": "PollQ"
     },
     {
       "t": "S",
-      "v": "Cool Ranch",
+      "v": "Paprika",
       "n": "Choice0"
     },
     {
       "t": "S",
-      "v": "Buffalo Ranch",
+      "v": "Nacho Cheese",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "Tangy Cheese",
+      "v": "Barbecue",
       "n": "Choice8"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "keins",
+      "v": "Salt & Vinegar",
       "n": "Choice5"
     },
     {
@@ -102,22 +102,22 @@
     },
     {
       "t": "S",
-      "v": "Salsa Verde",
+      "v": "Ungarisch",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "Spicy Nacho",
+      "v": "Currywurst",
       "n": "Choice3"
     },
     {
       "t": "S",
-      "v": "Taco",
+      "v": "Peperoni",
       "n": "Choice4"
     },
     {
       "t": "S",
-      "v": "Original Flavor",
+      "v": "Gesalzen",
       "n": "Choice1"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "t": "S",
-      "v": "Spicy Sweet Chili",
+      "v": "Sour Cream & Onion",
       "n": "Choice2"
     },
     {

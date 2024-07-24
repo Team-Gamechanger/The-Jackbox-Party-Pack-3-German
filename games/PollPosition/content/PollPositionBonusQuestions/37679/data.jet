@@ -17,47 +17,47 @@
     },
     {
       "t": "N",
-      "v": "30",
+      "v": "14",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "16",
+      "v": "10",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "6",
+      "v": "14",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "5",
+      "v": "6",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "5",
+      "v": "7",
       "n": "Val4"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "3",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "21",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "18",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "7",
       "n": "Val8"
     },
     {
@@ -72,17 +72,17 @@
     },
     {
       "t": "S",
-      "v": "Trapez",
+      "v": "Trapez-Akrobatik",
       "n": "Choice0"
     },
     {
       "t": "S",
-      "v": "Tiere",
+      "v": "Feuerschlucker",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "Zaubertricks",
+      "v": "Balanceakte",
       "n": "Choice8"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "Keiner",
+      "v": "Hula-Hoop-Akrobatik",
       "n": "Choice5"
     },
     {
@@ -102,22 +102,22 @@
     },
     {
       "t": "S",
-      "v": "Löwen zähmen",
+      "v": "Luftakrobatik",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "Clowns",
+      "v": "Jonglage",
       "n": "Choice3"
     },
     {
       "t": "S",
-      "v": "Elefanten",
+      "v": "Tierdressur",
       "n": "Choice4"
     },
     {
       "t": "S",
-      "v": "Akrobatik",
+      "v": "Seiltanz",
       "n": "Choice1"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "t": "S",
-      "v": "Seiltanz",
+      "v": "Clowns",
       "n": "Choice2"
     },
     {

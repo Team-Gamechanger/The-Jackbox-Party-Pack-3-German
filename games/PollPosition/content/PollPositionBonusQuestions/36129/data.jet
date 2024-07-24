@@ -17,17 +17,17 @@
     },
     {
       "t": "N",
-      "v": "7",
+      "v": "5",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "6",
+      "v": "7",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "6",
+      "v": "14",
       "n": "Val2"
     },
     {
@@ -37,52 +37,52 @@
     },
     {
       "t": "N",
-      "v": "5",
+      "v": "15",
       "n": "Val4"
     },
     {
       "t": "N",
-      "v": "5",
+      "v": "16",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "14",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "6",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "17",
       "n": "Val8"
     },
     {
       "t": "S",
-      "v": "Welche TV Show ist die lustigste?",
+      "v": "Welche TV-Show ist die lustigste?",
       "n": "QText"
     },
     {
       "t": "S",
-      "v": "Was war die lustigste TV Show aller Zeiten?",
+      "v": "Was war die lustigste TV-Show aller Zeiten?",
       "n": "PollQ"
     },
     {
       "t": "S",
-      "v": "<i>Arrested Development</i>",
+      "v": "<i>Stromberg</i>",
       "n": "Choice0"
     },
     {
       "t": "S",
-      "v": "<i>Community</i>",
+      "v": "<i>Neo Magazin Royale</i>",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "<i>I Love Lucy</i>",
+      "v": "<i>KiKA-Nachtschleife</i>",
       "n": "Choice8"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "<i>Seinfeld</i>",
+      "v": "<i>South Park</i>",
       "n": "Choice5"
     },
     {
@@ -102,22 +102,22 @@
     },
     {
       "t": "S",
-      "v": "<i>South Park</i>",
+      "v": "<i>Family Guy</i>",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "<i>Whose Line Is It Anyway?</i>",
+      "v": "<i>Ladykracher</i>",
       "n": "Choice3"
     },
     {
       "t": "S",
-      "v": "<i>Friends</i>",
+      "v": "<i>Die Simpsons</i>",
       "n": "Choice4"
     },
     {
       "t": "S",
-      "v": "<i>The Office</i>",
+      "v": "<i>Pastewka</i>",
       "n": "Choice1"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "t": "S",
-      "v": "<i>The Simpsons</i>",
+      "v": "<i>Genial Daneben</i>",
       "n": "Choice2"
     },
     {

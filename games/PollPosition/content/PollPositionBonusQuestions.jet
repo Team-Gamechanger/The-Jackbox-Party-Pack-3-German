@@ -87,12 +87,6 @@
     },
     {
       "x": false,
-      "id": 36026,
-      "category": "Brunnen",
-      "type": "open"
-    },
-    {
-      "x": false,
       "id": 36028,
       "category": "Der Beste",
       "type": "open"
@@ -153,12 +147,6 @@
     },
     {
       "x": false,
-      "id": 36162,
-      "category": "Elyas M’Barek",
-      "type": "open"
-    },
-    {
-      "x": false,
       "id": 36167,
       "category": "Fernweh",
       "type": "open"
@@ -167,24 +155,6 @@
       "x": false,
       "id": 36190,
       "category": "Sprachen",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 36193,
-      "category": "Euorpa",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 36210,
-      "category": "Jahrhunderte",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 36221,
-      "category": "Sie sind Batman",
       "type": "open"
     },
     {
@@ -219,20 +189,8 @@
     },
     {
       "x": false,
-      "id": 36637,
-      "category": "Schweighöfer",
-      "type": "open"
-    },
-    {
-      "x": false,
       "id": 36692,
       "category": "Kölner Image",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 36696,
-      "category": "Ferien",
       "type": "open"
     },
     {
@@ -251,12 +209,6 @@
       "x": true,
       "id": 36913,
       "category": "Selbstdarstellung",
-      "type": "open"
-    },
-    {
-      "x": true,
-      "id": 37017,
-      "category": "Zuckerersatz",
       "type": "open"
     },
     {
@@ -303,32 +255,8 @@
     },
     {
       "x": false,
-      "id": 37148,
-      "category": "Gruselige Hunde",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 37153,
-      "category": "Lincoln",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 37159,
-      "category": "Trends",
-      "type": "open"
-    },
-    {
-      "x": false,
       "id": 37164,
-      "category": "Amateur Sport",
-      "type": "open"
-    },
-    {
-      "x": true,
-      "id": 37183,
-      "category": "Legalisieren!",
+      "category": "Amateursport",
       "type": "open"
     },
     {
@@ -341,12 +269,6 @@
       "x": false,
       "id": 37311,
       "category": "Pommes",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 37367,
-      "category": "Käse",
       "type": "open"
     },
     {
@@ -375,26 +297,8 @@
     },
     {
       "x": false,
-      "id": 37592,
-      "category": "Apfelsorten",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 37612,
-      "category": "Bonds",
-      "type": "open"
-    },
-    {
-      "x": false,
       "id": 37635,
       "category": "TV Total",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 37642,
-      "category": "Disney World",
       "type": "open"
     },
     {
@@ -405,32 +309,14 @@
     },
     {
       "x": false,
-      "id": 37655,
-      "category": "Jelly Beans",
-      "type": "open"
-    },
-    {
-      "x": false,
       "id": 37679,
       "category": "Der Zirkus",
       "type": "open"
     },
     {
-      "x": false,
-      "id": 37716,
-      "category": "Dein Gesicht",
-      "type": "open"
-    },
-    {
       "x": true,
       "id": 37719,
-      "category": "Musik zum abhängen",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 37720,
-      "category": "Beatles Songs",
+      "category": "Musik zum Abhängen",
       "type": "open"
     },
     {
@@ -459,32 +345,14 @@
     },
     {
       "x": false,
-      "id": 37733,
-      "category": "Verbrecher",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 37777,
-      "category": "Die Tropen",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 37788,
-      "category": "X-Men",
-      "type": "open"
-    },
-    {
-      "x": false,
       "id": 37791,
-      "category": "Reality Shows",
+      "category": "Reality-Shows",
       "type": "open"
     },
     {
       "x": false,
       "id": 37792,
-      "category": "Talkshow Moderatoren",
+      "category": "Talkshow-Moderatoren",
       "type": "open"
     },
     {
@@ -495,44 +363,14 @@
     },
     {
       "x": false,
-      "id": 37796,
-      "category": "Nationalspezialitäten",
-      "type": "open"
-    },
-    {
-      "x": false,
       "id": 37810,
       "category": "Sängerinnen",
       "type": "open"
     },
     {
       "x": false,
-      "id": 37812,
-      "category": "Langlebig",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 37820,
-      "category": "Romantikkomödien",
-      "type": "open"
-    },
-    {
-      "x": false,
       "id": 37822,
       "category": "Essen für Reiche",
-      "type": "open"
-    },
-    {
-      "x": true,
-      "id": 37825,
-      "category": "Krasse Leute",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 37828,
-      "category": "Hochzeiten",
       "type": "open"
     },
     {
@@ -549,20 +387,8 @@
     },
     {
       "x": false,
-      "id": 37860,
-      "category": "Boy Bands",
-      "type": "open"
-    },
-    {
-      "x": false,
       "id": 37862,
       "category": "Soundtracks",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 37864,
-      "category": "College",
       "type": "open"
     },
     {
@@ -584,12 +410,6 @@
       "type": "open"
     },
     {
-      "x": false,
-      "id": 37923,
-      "category": "Sport+Essen",
-      "type": "open"
-    },
-    {
       "x": true,
       "id": 37932,
       "category": "Schimpfwörter",
@@ -599,18 +419,6 @@
       "x": false,
       "id": 37934,
       "category": "Schulfächer",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 37936,
-      "category": "Sportveranstaltungen",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 38031,
-      "category": "Schlechte Namen",
       "type": "open"
     },
     {
@@ -641,12 +449,6 @@
       "x": false,
       "id": 38049,
       "category": "Fantasiewelten",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 38052,
-      "category": "Britische Comedians",
       "type": "open"
     },
     {
@@ -686,12 +488,6 @@
       "type": "open"
     },
     {
-      "x": true,
-      "id": 38124,
-      "category": "Sprachen",
-      "type": "open"
-    },
-    {
       "x": false,
       "id": 38126,
       "category": "Berlin",
@@ -705,38 +501,14 @@
     },
     {
       "x": false,
-      "id": 38130,
-      "category": "Flughafen",
-      "type": "open"
-    },
-    {
-      "x": false,
       "id": 38187,
       "category": "Kuchengeschmack",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 38188,
-      "category": "Eis am Stiel",
       "type": "open"
     },
     {
       "x": true,
       "id": 38617,
       "category": "Sünder",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 38879,
-      "category": "Geld",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 38887,
-      "category": "Gespielter Doktor",
       "type": "open"
     },
     {
@@ -753,32 +525,8 @@
     },
     {
       "x": false,
-      "id": 39137,
-      "category": "Game of Thrones",
-      "type": "open"
-    },
-    {
-      "x": true,
-      "id": 39138,
-      "category": "One Night Stand",
-      "type": "open"
-    },
-    {
-      "x": false,
       "id": 39139,
       "category": "Fans",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 39140,
-      "category": "Python (Monty)",
-      "type": "open"
-    },
-    {
-      "x": true,
-      "id": 39141,
-      "category": "Träume",
       "type": "open"
     },
     {
@@ -789,26 +537,8 @@
     },
     {
       "x": false,
-      "id": 39144,
-      "category": "Civil War",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 39148,
-      "category": "Verlorene Liebe",
-      "type": "open"
-    },
-    {
-      "x": false,
       "id": 39149,
       "category": "Exotische Tiere",
-      "type": "open"
-    },
-    {
-      "x": false,
-      "id": 39151,
-      "category": "Anke",
       "type": "open"
     },
     {
@@ -817,11 +547,5 @@
       "category": "Begräbnis",
       "type": "open"
     },
-    {
-      "x": false,
-      "id": 39154,
-      "category": "Letzte Mahlzeit",
-      "type": "open"
-    }
   ]
 }

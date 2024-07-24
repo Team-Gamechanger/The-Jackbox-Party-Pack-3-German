@@ -17,47 +17,47 @@
     },
     {
       "t": "N",
-      "v": "10",
+      "v": "15",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "6",
+      "v": "8",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "6",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "8",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "19",
       "n": "Val4"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "5",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "1",
+      "v": "25",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "1",
+      "v": "8",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "1",
+      "v": "5",
       "n": "Val8"
     },
     {
@@ -72,17 +72,17 @@
     },
     {
       "t": "S",
-      "v": "Barry White",
+      "v": "Die Fantastischen Vier",
       "n": "Choice0"
     },
     {
       "t": "S",
-      "v": "Beethoven",
+      "v": "Tim Benzko",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "Meat Loaf",
+      "v": "Helene Fischer",
       "n": "Choice8"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "R&B",
+      "v": "Tokio Hotel",
       "n": "Choice5"
     },
     {
@@ -102,22 +102,22 @@
     },
     {
       "t": "S",
-      "v": "Al Green",
+      "v": "Die Ärzte",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "Justin Timberlake",
+      "v": "Silbermond",
       "n": "Choice3"
     },
     {
       "t": "S",
-      "v": "Prince",
+      "v": "Peter Fox",
       "n": "Choice4"
     },
     {
       "t": "S",
-      "v": "Marvin Gaye",
+      "v": "Herbert Grönemeyer",
       "n": "Choice1"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "t": "S",
-      "v": "The Weeknd",
+      "v": "Peter Maffay",
       "n": "Choice2"
     },
     {

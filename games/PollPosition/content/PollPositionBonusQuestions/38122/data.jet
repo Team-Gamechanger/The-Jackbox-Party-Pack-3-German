@@ -17,47 +17,47 @@
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "40",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "7",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "23",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "2",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "6",
       "n": "Val4"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "7",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "4",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "7",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "5",
       "n": "Val8"
     },
     {
@@ -67,22 +67,22 @@
     },
     {
       "t": "S",
-      "v": "Welchen weiblichen Namen würdest du am meisten mit einer verbinden, die unfreundlich zum Kellner ist?",
+      "v": "Welchen weiblichen Namen würdest du am ehesten mit einer Person verbinden, die unfreundlich zum Kellner ist?",
       "n": "PollQ"
     },
     {
       "t": "S",
-      "v": "Brittany",
+      "v": "Karen",
       "n": "Choice0"
     },
     {
       "t": "S",
-      "v": "Nancy",
+      "v": "Tanja",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "Brenda",
+      "v": "Janine",
       "n": "Choice8"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "Jennifer",
+      "v": "Nicole",
       "n": "Choice5"
     },
     {
@@ -102,22 +102,22 @@
     },
     {
       "t": "S",
-      "v": "Karen",
+      "v": "Sandra",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "Becky",
+      "v": "Vanessa",
       "n": "Choice3"
     },
     {
       "t": "S",
-      "v": "Ashley",
+      "v": "Nadine",
       "n": "Choice4"
     },
     {
       "t": "S",
-      "v": "Jessica",
+      "v": "Svenja",
       "n": "Choice1"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "t": "S",
-      "v": "Tiffany",
+      "v": "Chantal",
       "n": "Choice2"
     },
     {

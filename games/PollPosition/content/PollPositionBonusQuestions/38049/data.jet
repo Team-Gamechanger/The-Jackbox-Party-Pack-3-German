@@ -17,47 +17,47 @@
     },
     {
       "t": "N",
-      "v": "24",
+      "v": "21",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "16",
+      "v": "7",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "10",
+      "v": "3",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "5",
+      "v": "3",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "10",
       "n": "Val4"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "16",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "4",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "30",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "6",
       "n": "Val8"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "t": "S",
-      "v": "In welcher wohlbekannten Fantasiewelt (z.B. Narnia) wÃ¼rdest du gerne leben?",
+      "v": "In welcher Fantasiewelt würdest du gerne leben?",
       "n": "PollQ"
     },
     {
@@ -77,7 +77,7 @@
     },
     {
       "t": "S",
-      "v": "Pokémon Universum",
+      "v": "Pokémon-Universum",
       "n": "Choice7"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "Hyrule (<i>Legend of Zelda</i>)",
+      "v": "Hyrule (<i>The Legend of Zelda</i>)",
       "n": "Choice5"
     },
     {
@@ -112,12 +112,12 @@
     },
     {
       "t": "S",
-      "v": "<i>Star Wars</i> Universum",
+      "v": "<i>Star-Wars</i>-Universum",
       "n": "Choice4"
     },
     {
       "t": "S",
-      "v": "Mittelerde (<i>Herr der Ringe</i>)",
+      "v": "Mittelerde (<i>Der Herr der Ringe</i>)",
       "n": "Choice1"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "t": "S",
-      "v": "Narnia (<i>Chroniken von Narnia</i>)",
+      "v": "Narnia (<i>Die Chroniken von Narnia</i>)",
       "n": "Choice2"
     },
     {

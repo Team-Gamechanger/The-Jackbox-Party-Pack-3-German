@@ -17,22 +17,22 @@
     },
     {
       "t": "N",
-      "v": "13",
+      "v": "4",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "9",
+      "v": "7",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "24",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "2",
       "n": "Val3"
     },
     {
@@ -42,22 +42,22 @@
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "4",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "11",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "22",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "23",
       "n": "Val8"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "t": "S",
-      "v": "Wenn du ein exotisches Tier zu Hause halten könntest, was wäre das?",
+      "v": "Wenn du ein exotisches Tier zu Hause halten könntest, welches wäre das?",
       "n": "PollQ"
     },
     {

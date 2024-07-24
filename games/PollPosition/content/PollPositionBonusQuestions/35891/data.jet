@@ -17,47 +17,47 @@
     },
     {
       "t": "N",
-      "v": "6",
+      "v": "15",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "17",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "18",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "14",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "3",
       "n": "Val4"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "8",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "4",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "8",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "12",
       "n": "Val8"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "t": "S",
-      "v": "Welcher Ausdruck wird übertrieben oft benutzt?",
+      "v": "Welcher Ausdruck wird am Arbeitsplatz, deiner Meinung nach, zu oft benutzt?",
       "n": "PollQ"
     },
     {

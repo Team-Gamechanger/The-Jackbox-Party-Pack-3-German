@@ -17,37 +17,37 @@
     },
     {
       "t": "N",
-      "v": "24",
+      "v": "15",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "8",
+      "v": "9",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "8",
+      "v": "10",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "5",
+      "v": "26",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "5",
+      "v": "1",
       "n": "Val4"
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "25",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "9",
       "n": "Val6"
     },
     {
@@ -67,22 +67,22 @@
     },
     {
       "t": "S",
-      "v": "Welche Vorspeise bestellst du im restaurant am häufigsten?",
+      "v": "Welche Vorspeise bestellst du im Restaurant am häufigsten?",
       "n": "PollQ"
     },
     {
       "t": "S",
-      "v": "Mozarella Sticks",
+      "v": "Mozzarella-Sticks",
       "n": "Choice0"
     },
     {
       "t": "S",
-      "v": "Cheese Fries",
+      "v": "Carpaccio",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "Chips & Salsa",
+      "v": "Caprese",
       "n": "Choice8"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "Kartoffelschalen",
+      "v": "Salat",
       "n": "Choice5"
     },
     {
@@ -102,12 +102,12 @@
     },
     {
       "t": "S",
-      "v": "Zwiebelringe",
+      "v": "Onion Rings",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "Spinat & Artischoken Dip",
+      "v": "Bruschetta",
       "n": "Choice3"
     },
     {
@@ -117,7 +117,7 @@
     },
     {
       "t": "S",
-      "v": "Hühnerflügel",
+      "v": "Chicken Wings",
       "n": "Choice1"
     },
     {

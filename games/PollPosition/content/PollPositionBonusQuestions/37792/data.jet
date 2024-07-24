@@ -17,72 +17,72 @@
     },
     {
       "t": "N",
-      "v": "15",
+      "v": "33",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "9",
+      "v": "15",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "7",
+      "v": "10",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "6",
+      "v": "8",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "5",
+      "v": "1",
       "n": "Val4"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "5",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "11",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "8",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "8",
       "n": "Val8"
     },
     {
       "t": "S",
-      "v": "Welcher Talkshow Moderator, aktuell oder ehemalig, nervt die Leute am meisten?",
+      "v": "Welcher Talkshow-Moderator, aktuell oder ehemalig, nervt die Leute am meisten?",
       "n": "QText"
     },
     {
       "t": "S",
-      "v": "Welchen Talkshow Moderator, aktuell oder ehemalig, findest du am nervigsten?",
+      "v": "Welchen Talkshow-Moderator findest du am nervigsten?",
       "n": "PollQ"
     },
     {
       "t": "S",
-      "v": "Jay Leno",
+      "v": "Markus Lanz",
       "n": "Choice0"
     },
     {
       "t": "S",
-      "v": "Wendy Williams",
+      "v": "Johannes B. Kerner",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "Geraldo Rivera",
+      "v": "Anne Will",
       "n": "Choice8"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "Conan O’Brien",
+      "v": "Maybrit Illner",
       "n": "Choice5"
     },
     {
@@ -102,22 +102,22 @@
     },
     {
       "t": "S",
-      "v": "Maury Povich",
+      "v": "Giovanni di Lorenzo",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "Jimmy Fallon",
+      "v": "Günther Jauch",
       "n": "Choice3"
     },
     {
       "t": "S",
-      "v": "Rosie O’Donnell",
+      "v": "Louis Klamroth",
       "n": "Choice4"
     },
     {
       "t": "S",
-      "v": "Jerry Springer",
+      "v": "Stefan Raab",
       "n": "Choice1"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "t": "S",
-      "v": "Oprah Winfrey",
+      "v": "Sandra Maischberger",
       "n": "Choice2"
     },
     {

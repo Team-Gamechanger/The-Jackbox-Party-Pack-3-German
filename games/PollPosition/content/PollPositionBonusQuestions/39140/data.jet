@@ -67,7 +67,7 @@
     },
     {
       "t": "S",
-      "v": "Was ist der lustigste Sketch oder Filmszene von Monty Python?",
+      "v": "Was ist der lustigste Sketch oder die lustigste Filmszene von Monty Python?",
       "n": "PollQ"
     },
     {
@@ -102,17 +102,17 @@
     },
     {
       "t": "S",
-      "v": "“Ritter vom ‘Ni!’”",
+      "v": "“Die Ritter vom Ni”",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "“Höhle von Caerbarnog”",
+      "v": "“Das Holzfäller-Lied”",
       "n": "Choice3"
     },
     {
       "t": "S",
-      "v": "“French Taunts”",
+      "v": "“Das Fußballspiel der Philosophen”",
       "n": "Choice4"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "t": "S",
-      "v": "“Argument Clinic”",
+      "v": "“Der tödlichste Witz der Welt”",
       "n": "Choice2"
     },
     {

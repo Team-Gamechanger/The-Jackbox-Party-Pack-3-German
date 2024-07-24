@@ -17,57 +17,57 @@
     },
     {
       "t": "N",
-      "v": "23",
+      "v": "9",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "10",
+      "v": "16",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "8",
+      "v": "3",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "8",
+      "v": "11",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "7",
+      "v": "11",
       "n": "Val4"
     },
     {
       "t": "N",
-      "v": "5",
+      "v": "18",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "5",
+      "v": "4",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "5",
+      "v": "21",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "3",
+      "v": "7",
       "n": "Val8"
     },
     {
       "t": "S",
-      "v": "Was war der beste Gast, der je bei TV Total war?",
+      "v": "Wer war der beste Gast, der je bei TV Total war?",
       "n": "QText"
     },
     {
       "t": "S",
-      "v": "Was war der beste Gast, der je bei TV Total war?",
+      "v": "Wer war der beste Gast, der je bei TV Total war?",
       "n": "PollQ"
     },
     {
@@ -102,12 +102,12 @@
     },
     {
       "t": "S",
-      "v": "Santiago Ziesmer",
+      "v": "Lena Meyer-Landrut",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "Maxi Gstettenbauer",
+      "v": "Elton",
       "n": "Choice3"
     },
     {

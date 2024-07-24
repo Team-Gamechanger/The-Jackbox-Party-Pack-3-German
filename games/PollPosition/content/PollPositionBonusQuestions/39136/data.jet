@@ -17,37 +17,37 @@
     },
     {
       "t": "N",
-      "v": "28",
+      "v": "17",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "25",
+      "v": "15",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "15",
+      "v": "7",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "8",
+      "v": "19",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "7",
+      "v": "6",
       "n": "Val4"
     },
     {
       "t": "N",
-      "v": "7",
+      "v": "13",
       "n": "Val5"
     },
     {
       "t": "N",
-      "v": "5",
+      "v": "8",
       "n": "Val6"
     },
     {
@@ -57,17 +57,17 @@
     },
     {
       "t": "N",
-      "v": "1",
+      "v": "15",
       "n": "Val8"
     },
     {
       "t": "S",
-      "v": "Welchen anderen Planeten in unserem Sonnensystem favorisieren die Erdlinge?",
+      "v": "Welchen anderen Planeten (oder Himmelskörper) in unserem Sonnensystem favorisieren die Erdlinge?",
       "n": "QText"
     },
     {
       "t": "S",
-      "v": "Was ist neben der Erde dein Lieblingsplanet in unserem Sonnensystem?",
+      "v": "Was ist neben der Erde dein Lieblingshimmelskörper im Sonnensystem?",
       "n": "PollQ"
     },
     {

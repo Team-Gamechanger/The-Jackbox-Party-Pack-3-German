@@ -17,27 +17,27 @@
     },
     {
       "t": "N",
-      "v": "18",
+      "v": "10",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "15",
+      "v": "16",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "12",
+      "v": "22",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "12",
+      "v": "13",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "6",
+      "v": "16",
       "n": "Val4"
     },
     {
@@ -47,17 +47,17 @@
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "12",
       "n": "Val6"
     },
     {
       "t": "N",
-      "v": "1",
+      "v": "2",
       "n": "Val7"
     },
     {
       "t": "N",
-      "v": "1",
+      "v": "7",
       "n": "Val8"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "t": "S",
-      "v": "Hella von Sinnen",
+      "v": "Helene Fischer",
       "n": "Choice8"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "Die Geissens",
+      "v": "Markus Lanz",
       "n": "Choice5"
     },
     {
@@ -107,12 +107,12 @@
     },
     {
       "t": "S",
-      "v": "Justin Bieber",
+      "v": "Dieter Bohlen",
       "n": "Choice3"
     },
     {
       "t": "S",
-      "v": "Kim Kardashian",
+      "v": "Oliver Pocher",
       "n": "Choice4"
     },
     {

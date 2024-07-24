@@ -17,27 +17,27 @@
     },
     {
       "t": "N",
-      "v": "24",
+      "v": "15",
       "n": "Val0"
     },
     {
       "t": "N",
-      "v": "12",
+      "v": "24",
       "n": "Val1"
     },
     {
       "t": "N",
-      "v": "9",
+      "v": "12",
       "n": "Val2"
     },
     {
       "t": "N",
-      "v": "7",
+      "v": "11",
       "n": "Val3"
     },
     {
       "t": "N",
-      "v": "7",
+      "v": "9",
       "n": "Val4"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "N",
-      "v": "4",
+      "v": "7",
       "n": "Val6"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "N",
-      "v": "2",
+      "v": "14",
       "n": "Val8"
     },
     {
@@ -72,17 +72,17 @@
     },
     {
       "t": "S",
-      "v": "Apfel",
+      "v": "Käse",
       "n": "Choice0"
     },
     {
       "t": "S",
-      "v": "Zitrone Meringue",
+      "v": "Karotte",
       "n": "Choice7"
     },
     {
       "t": "S",
-      "v": "Erdbeer-Rhabarber",
+      "v": "Kürbis",
       "n": "Choice8"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "Pekannuss",
+      "v": "Nuss",
       "n": "Choice5"
     },
     {
@@ -102,22 +102,22 @@
     },
     {
       "t": "S",
-      "v": "Blaubeere",
+      "v": "Vanille",
       "n": "Choice6"
     },
     {
       "t": "S",
-      "v": "French Silk",
+      "v": "Zitrone",
       "n": "Choice3"
     },
     {
       "t": "S",
-      "v": "Limette",
+      "v": "Kirsche",
       "n": "Choice4"
     },
     {
       "t": "S",
-      "v": "Kürbis",
+      "v": "Schokolade",
       "n": "Choice1"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "t": "S",
-      "v": "Kirsche",
+      "v": "Apfel",
       "n": "Choice2"
     },
     {
