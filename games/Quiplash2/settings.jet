@@ -1,0 +1,90 @@
+{
+    "rows": 7,
+    "cols": 1,
+    "cellWidth": 682,
+    "cellHeight": 57,
+    "clip": "Quiplash2SettingsWidget",
+    "items": [
+        {
+            "title": "Lautstärke",
+            "type": "Range",
+            "clip": "Quiplash2SliderWidget",
+            "width": 1,
+            "source": "Volume",
+            "step": 0.1,
+            "description": "Passe die Lautstärke an."
+        },
+        {
+            "title": "Vollbild",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "width": 1,
+            "source": "FullScreen",
+            "description": "Zeige das Spiel im Vollbildmodus an."
+        },
+        {
+            "title": "Publikum",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "width": 1,
+            "source": "Quiplash2AudienceOn",
+            "description": "Aktivieren, damit Zuschauer, die nicht mitspielen, das Spiel beeinflussen können."
+        },
+        {
+            "title": "Publikum-Mitspielfunktion",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "width": 1,
+            "source": "Quiplash2AudiencePlayAlong",
+            "description": "Erlaubt dem Publikum, ihre eigenen Quips anzeigen zu lassen, während die Spieler schreiben."
+        },
+        {
+            "title": "Erweitertes Zeitlimit",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "width": 1,
+            "source": "Quiplash2ExtendedTimers",
+            "description": "Damit habt ihr mehr Zeit für eure Antworten."
+        },
+        {
+            "title": "Familientauglich",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "width": 1,
+            "source": "Quiplash2FamilyFriendly",
+            "description": "Aktivieren, um die provokantesten Inhalte auszublenden. Zumindest vom Spiel. Was die Spieler eingeben, können wir nicht kontrollieren."
+        },
+        {
+            "title": "Twitch erforderlich",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "width": 1,
+            "source": "Quiplash2RequireTwitch",
+            "description": "Verlange von Spielern, dass sie bei Twitch angemeldet sind."
+        },
+        {
+            "title": "Manuelle Zensur",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "width": 1,
+            "source": "Quiplash2Censorable",
+            "description": "Ermöglicht dem VIP (dem ersten Spieler), die Antworten der Spieler zu zensieren."
+        },
+        {
+            "title": "Spiel nur über Controller starten",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "width": 1,
+            "source": "Quiplash2GamepadStart",
+            "description": "Ein neues Spiel kann nur über einen Controller gestartet werden, nicht über die Geräte der Mitspieler."
+        },
+        {
+            "title": "Raumcode verstecken erlauben",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "width": 1,
+            "source": "Quiplash2HideRoomCode",
+            "description": "Der Raumcode kann im Spiel ausgeblendet werden."
+        }
+    ]
+}

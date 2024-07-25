@@ -1,0 +1,32 @@
+[
+    {
+        "title":"SPIELEN",
+        "action":"doPlayGame",
+        "description":"Erstelle einen Raum & spiele",
+        "value":0
+    },
+    {
+        "title":"SELBST ERSTELLEN",
+        "action":"doUGC",
+        "description":"Erstelle deine eigenen Prompts",
+        "value":1
+    },
+    {
+        "title":"RANGLISTE",
+        "action":"doLeaderboards",
+        "description":"Verfolge Statistiken deiner letzten Spiele",
+        "value":2
+    },
+    {
+        "title":"EINSTELLUNGEN",
+        "action":"doSettings",
+        "description":"Familienmodus, Publikumsoptionen und mehr",
+        "value":3
+    },
+    {
+        "title":"ZURÜCK ZUM PACK",
+        "action":"doBackToPack",
+        "description":"Kehre zurück zum Party Pack",
+        "value":4
+    }
+]

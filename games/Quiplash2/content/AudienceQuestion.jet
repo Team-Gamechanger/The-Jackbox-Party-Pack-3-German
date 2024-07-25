@@ -1,0 +1,510 @@
+{
+    "content": [
+        {
+            "x": false,
+            "id": 67742,
+            "prompt": "Hier möchte man lieber keine SMS kriegen"
+        },
+        {
+            "x": false,
+            "id": 67743,
+            "prompt": "Der unromantischste Ort für einen Heiratsantrag"
+        },
+        {
+            "x": false,
+            "id": 67744,
+            "prompt": "Supermans besondere Superkraft, von der er niemandem erzählt"
+        },
+        {
+            "x": false,
+            "id": 67745,
+            "prompt": "Die schlechteste Ausrede, warum man zu spät zur Arbeit kommt"
+        },
+        {
+            "x": false,
+            "id": 67746,
+            "prompt": "Das Schlimmste, was einem zwischen den Zähnen hängen kann"
+        },
+        {
+            "x": false,
+            "id": 67747,
+            "prompt": "Warum Hot Dogs so gut schmecken"
+        },
+        {
+            "x": false,
+            "id": 67748,
+            "prompt": "Eine umweltfreundlichere Alternative zu Toilettenpapier"
+        },
+        {
+            "x": false,
+            "id": 67749,
+            "prompt": "Der schlechteste Name für ein Rennpferd"
+        },
+        {
+            "x": false,
+            "id": 67750,
+            "prompt": "Diese drei Worte wollen Fluggäste von ihrem Piloten niemals hören"
+        },
+        {
+            "x": false,
+            "id": 67751,
+            "prompt": "Du würdest niemals in eine Achterbahn namens <BLANK> steigen"
+        },
+        {
+            "x": false,
+            "id": 67752,
+            "prompt": "Das Geheimnis eines glücklichen Lebens"
+        },
+        {
+            "x": false,
+            "id": 67753,
+            "prompt": "Man sollte <BLANK> niemals Alkohol geben"
+        },
+        {
+            "x": false,
+            "id": 67754,
+            "prompt": "Der größte Nachteil daran, in der Hölle zu leben"
+        },
+        {
+            "x": false,
+            "id": 67755,
+            "prompt": "Das Schlimmste, was du in deiner Hochzeitsnacht herausfinden kannst, ist, dass dein Ehepartner <BLANK> ist"
+        },
+        {
+            "x": false,
+            "id": 67756,
+            "prompt": "Der Name eines wirklich schlechten Musicals"
+        },
+        {
+            "x": false,
+            "id": 67757,
+            "prompt": "Das Erste, was du tust, nachdem du im Lotto gewonnen hast"
+        },
+        {
+            "x": false,
+            "id": 67758,
+            "prompt": "Der wahre Grund für die Erderwärmung"
+        },
+        {
+            "x": false,
+            "id": 67759,
+            "prompt": "Der Markenname von Designer-Windeln"
+        },
+        {
+            "x": false,
+            "id": 67760,
+            "prompt": "Der Titel einer Fernsehserie über einen Vampirdoktor"
+        },
+        {
+            "x": false,
+            "id": 67761,
+            "prompt": "Was Eichhörnchen bestimmt machen, wenn keiner hinschaut"
+        },
+        {
+            "x": false,
+            "id": 67762,
+            "prompt": "Weshalb die Mona Lisa so lächelt"
+        },
+        {
+            "x": false,
+            "id": 67763,
+            "prompt": "Womit man eine offene Wunde niemals behandeln sollte"
+        },
+        {
+            "x": false,
+            "id": 67764,
+            "prompt": "Der wahre Gund, warum die Dinosaurier ausgestorben sind"
+        },
+        {
+            "x": false,
+            "id": 67765,
+            "prompt": "Eine wenig bekannte Wahrheit über die Schweiz"
+        },
+        {
+            "x": false,
+            "id": 67766,
+            "prompt": "Ein Studienfach, das man an den wenigsten Universitäten findet"
+        },
+        {
+            "x": false,
+            "id": 67767,
+            "prompt": "Was würdest du tun, wenn du für eine Stunde allein im Bundestag wärst?"
+        },
+        {
+            "x": false,
+            "id": 67768,
+            "prompt": "So heißt das Rentier, das der Weihnachtsmann nicht ausgewählt hat, um seinen Schlitten zu ziehen"
+        },
+        {
+            "x": false,
+            "id": 67769,
+            "prompt": "Ein nicht sehr furchteinflößender Name für einen Piraten"
+        },
+        {
+            "x": false,
+            "id": 67770,
+            "prompt": "Es ist ganz schön gefährlich, beim Autofahren <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 67771,
+            "prompt": "Das Schwierigste daran, Batman zu sein"
+        },
+        {
+            "x": false,
+            "id": 67772,
+            "prompt": "Eine tolle neue Erfindung, die mit \u201eautomatisch\u201c anfängt"
+        },
+        {
+            "x": true,
+            "id": 67773,
+            "prompt": "Eine tolle Sache, an die man bei mittelmäßigem Sex denken kann"
+        },
+        {
+            "x": false,
+            "id": 67774,
+            "prompt": "Das fürchterliche Schicksal, das den Schneemann Olaf im Director\u2019s Cut von <i>Frozen<\/i> ereilt"
+        },
+        {
+            "x": false,
+            "id": 67775,
+            "prompt": "Der beste Aufreißspruch fürs Rentner-Speed-Dating"
+        },
+        {
+            "x": true,
+            "id": 67776,
+            "prompt": "Ein guter Künstlername für eine Stripperin, die ein Fisch ist"
+        },
+        {
+            "x": false,
+            "id": 67777,
+            "prompt": "Wie heißt die schwierigste Yoga-Pose, die jemals erfunden wurde?"
+        },
+        {
+            "x": false,
+            "id": 67778,
+            "prompt": "Was nachts unter deinem Bett lauert"
+        },
+        {
+            "x": false,
+            "id": 67779,
+            "prompt": "Ein guter falscher Name, wenn man ins Hotel eincheckt"
+        },
+        {
+            "x": false,
+            "id": 67780,
+            "prompt": "Etwas Überraschendes, wenn ein Esel es machen würde"
+        },
+        {
+            "x": false,
+            "id": 67781,
+            "prompt": "So heißt das Titellied, das du für die olympischen Spiele schreiben würdest"
+        },
+        {
+            "x": false,
+            "id": 67782,
+            "prompt": "Was du niemals zu deiner Mutter sagen solltest"
+        },
+        {
+            "x": false,
+            "id": 67783,
+            "prompt": "So wird man ganz einfach gefeuert"
+        },
+        {
+            "x": false,
+            "id": 67784,
+            "prompt": "Die Vornamen deiner beiden Nippel"
+        },
+        {
+            "x": false,
+            "id": 67785,
+            "prompt": "Eine neue Eissorte, die niemand bestellen würde"
+        },
+        {
+            "x": false,
+            "id": 67786,
+            "prompt": "Ein neuer Film über ein Tier, das zum Bundeskanzler wird"
+        },
+        {
+            "x": false,
+            "id": 67787,
+            "prompt": "Ein schrechliches Thema für den Abschlussball"
+        },
+        {
+            "x": true,
+            "id": 67788,
+            "prompt": "Was du deiner Oma nicht zuflüstern solltest"
+        },
+        {
+            "x": false,
+            "id": 67789,
+            "prompt": "Ein grauenhafter Name für einen Old-School-Mafioso"
+        },
+        {
+            "x": false,
+            "id": 67790,
+            "prompt": "So heißt die Toilettenpapiermarke, die exklusiv für die Königin von England produziert wird"
+        },
+        {
+            "x": true,
+            "id": 67791,
+            "prompt": "Ein guter Name für eine erotische Bäckerei"
+        },
+        {
+            "x": false,
+            "id": 67792,
+            "prompt": "Ein viel zu wenig bekanntes Hilfsmittel, um Kaugummi aus den Haaren zu bekommen"
+        },
+        {
+            "x": false,
+            "id": 67793,
+            "prompt": "Ein Job, den ein Roboter überhaupt nicht gut machen würde"
+        },
+        {
+            "x": true,
+            "id": 67794,
+            "prompt": "Der unsexieste Gedanke, den man haben kann"
+        },
+        {
+            "x": false,
+            "id": 67795,
+            "prompt": "Ein Wort, das man niemals nach Fleisch sagen sollte"
+        },
+        {
+            "x": false,
+            "id": 67796,
+            "prompt": "Ein lustiger Streich, den man dem Papst spielen könnte"
+        },
+        {
+            "x": true,
+            "id": 67797,
+            "prompt": "Zwei historische Personen, die unbedingt Sex haben müssten"
+        },
+        {
+            "x": false,
+            "id": 67798,
+            "prompt": "Wirf die Flinte nicht ins Korn, sondern <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 67799,
+            "prompt": "Wie nennt man ein beleidigtes Pferd?"
+        },
+        {
+            "x": false,
+            "id": 67800,
+            "prompt": "Dieses Geschenk will niemand: Eine Mitgliedschaft im <BLANK>-des-Monats-Club"
+        },
+        {
+            "x": false,
+            "id": 67801,
+            "prompt": "Eine großartige Sache, die man rufen kann, bevor man aus einem Flugzeug springt"
+        },
+        {
+            "x": false,
+            "id": 67802,
+            "prompt": "Ein Glückskeksspruch, der leider abgelehnt wurde"
+        },
+        {
+            "x": false,
+            "id": 67803,
+            "prompt": "Ein Graffiti, das man in einem Kindergarten finden kann"
+        },
+        {
+            "x": false,
+            "id": 67804,
+            "prompt": "Eine abgelehnte Farbe für Wachsmalstifte"
+        },
+        {
+            "x": false,
+            "id": 67805,
+            "prompt": "Die Schlagzeile von morgen: \u201eWissenschaftler sind schockiert, dass <BLANK>\u201d"
+        },
+        {
+            "x": true,
+            "id": 67806,
+            "prompt": "Das schlimmste Lied, um dabei für seinen Partner zu strippen"
+        },
+        {
+            "x": false,
+            "id": 67807,
+            "prompt": "Man vergisst niemals seinen ersten <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 67808,
+            "prompt": "Bald im Kino: Benedict Cumberbatch als <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 67809,
+            "prompt": "Eine viel zu wenig bekannte Tatsache: Der menschliche Körper besteht zu 80% aus <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 67810,
+            "prompt": "Was ein Steinzeitmensch tweeten würde"
+        },
+        {
+            "x": false,
+            "id": 67811,
+            "prompt": "Was Chewbacca die ganze Zeit wirklich gerufen hat"
+        },
+        {
+            "x": false,
+            "id": 67812,
+            "prompt": "Wofür man Marshmallows noch benutzen kann"
+        },
+        {
+            "x": false,
+            "id": 67813,
+            "prompt": "Eine wütende Internetbewertung für eine Tierhandlung"
+        },
+        {
+            "x": false,
+            "id": 67814,
+            "prompt": "Der schlimmste Name für einen Rapper"
+        },
+        {
+            "x": false,
+            "id": 67815,
+            "prompt": "Ein weiterer Nutzen für Senf"
+        },
+        {
+            "x": false,
+            "id": 67816,
+            "prompt": "So wird man Schluckauf wirklich los"
+        },
+        {
+            "x": false,
+            "id": 67817,
+            "prompt": "Eine Aussage, die man von einem Ouijabrett wirklich nicht erwartet"
+        },
+        {
+            "x": false,
+            "id": 67818,
+            "prompt": "Das größte Geheimnis der Regierung"
+        },
+        {
+            "x": false,
+            "id": 67819,
+            "prompt": "Das elfte Gebot: Du sollst nicht <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 67820,
+            "prompt": "Wie Hänsel und Gretel den Weg nach Hause wiedergefunden hätten"
+        },
+        {
+            "x": false,
+            "id": 67821,
+            "prompt": "Der Name einer Sitcom über eine Gruppe exzentrischer Nonnen"
+        },
+        {
+            "x": false,
+            "id": 67822,
+            "prompt": "Was Justin Bieber nach seiner Musikkarriere machen könnte"
+        },
+        {
+            "x": false,
+            "id": 67823,
+            "prompt": "Das Beste daran, wirklich dumm zu sein"
+        },
+        {
+            "x": false,
+            "id": 67824,
+            "prompt": "Dieser Gedanke hält den Weihnachtsmann nachts wach"
+        },
+        {
+            "x": false,
+            "id": 67825,
+            "prompt": "Die zweiten Worte, die auf dem Mond gesprochen wurden"
+        },
+        {
+            "x": false,
+            "id": 67826,
+            "prompt": "Ein schlechter Ersatz für eine Zahnbürste"
+        },
+        {
+            "x": false,
+            "id": 67827,
+            "prompt": "Eine lustige Sache, die man mit Pudding machen kann"
+        },
+        {
+            "x": false,
+            "id": 67828,
+            "prompt": "Was sie tatsächlich im Grab von König Tut gefunden haben"
+        },
+        {
+            "x": false,
+            "id": 67829,
+            "prompt": "Ein ungewöhnliches Thema für ein Kinderzimmer"
+        },
+        {
+            "x": false,
+            "id": 67830,
+            "prompt": "Vier von fünf Zahnärzten raten, Sie sollten niemals <BLANK>"
+        },
+        {
+            "x": true,
+            "id": 67831,
+            "prompt": "Ein Name für eine neue Sorte Cornflakes, die nur für Erwachsene ist"
+        },
+        {
+            "x": false,
+            "id": 67832,
+            "prompt": "Das Schlimmste, was man bei seiner OP hören könnte"
+        },
+        {
+            "x": false,
+            "id": 67833,
+            "prompt": "Ein schlechter Name für ein Bestattungsinstitut"
+        },
+        {
+            "x": false,
+            "id": 67834,
+            "prompt": "Ein guter Grund, um sich mit einem Koala zu prügeln"
+        },
+        {
+            "x": false,
+            "id": 67835,
+            "prompt": "Schlafwandeln ist ja schon ein Problem, aber noch schlimmer ist Schlaf-<BLANK>"
+        },
+        {
+            "x": true,
+            "id": 67836,
+            "prompt": "Das Schlimmste, was man beim Bettgeflüster sagen könnte"
+        },
+        {
+            "x": false,
+            "id": 67837,
+            "prompt": "Sicherheitshinweis: Warte nach dem Essen eine halbe Stunde, bevor du <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 67838,
+            "prompt": "Irgendwann werden Wissenschaftler herausfinden, dass das Geheimnis der ewigen Jugend <BLANK> ist"
+        },
+        {
+            "x": false,
+            "id": 67839,
+            "prompt": "Der ideale freie Tag besteht aus zwölf Stunden am Stück <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 67840,
+            "prompt": "Eine wirklich bizarre Diät, die zum Glück niemand lang probiert hat"
+        },
+        {
+            "x": false,
+            "id": 67841,
+            "prompt": "Wovor das Monster in deinem Schrank Angst hat"
+        },
+        {
+            "x": false,
+            "id": 67842,
+            "prompt": "Was man nicht zu dem Polizisten sagen sollte, der einem gerade einen Strafzettel schreibt"
+        }
+    ],
+    "episodeid": 1424
+}
