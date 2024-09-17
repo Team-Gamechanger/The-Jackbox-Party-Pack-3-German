@@ -2,27 +2,27 @@
     "views": [
         {
             "id": "session",
-            "name": "Session-Statistiken",
-            "description": "Statistiken der aktuellen Spielsitzung (Diese Statistiken werden zurückgesetzt, wenn du das Spiel beendest)."
+            "name": "Spiel-Statistiken",
+            "description": "Statistiken der aktuellen Spielsession. (Werden zurückgesetzt, wenn das Spiel verlassen wird)."
         },
         {
             "id": "twitch",
             "name": "Twitch-Statistiken",
-            "description": "Statistiken von Twitch-gesperrten Spielen (Diese Statistiken werden auch nach Beenden des Spiels gespeichert)."
+            "description": "Statistiken für Spiele mit Twitch. (Bleiben gespeichert, wenn das Spiel verlassen wird)."
         }
     ],
     "columns": [{
         "id": "playerName",
-        "name": "Spieler Name"
+        "name": "Spielername"
     }, {
         "id": "topScore",
-        "name": "High Score"
+        "name": "Highscore"
     }, {
         "id": "averageScore",
-        "name": "Durchschn. Score"
+        "name": "Durchschn. Punkte"
     }, {
         "id": "gamesPlayed",
-        "name": "Gespielte Spiele"
+        "name": " Anzahl Spiele"
     }, {
         "id": "quiplashes",
         "name": "Quiplashes"
