@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Wie viel Prozent der Leute haben mehr als 10$ für einen Lottoschein ausgegeben?",
+      "v": "Wie viel Prozent der Leute haben mehr als 10€ für einen Lottoschein ausgegeben?",
       "n": "QText"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Hast du einmal mehr als 10$ für einen Lottoschein ausgegeben?",
+      "v": "Hast du einmal mehr als 10€ für einen Lottoschein ausgegeben?",
       "n": "PollQ"
     },
     {
