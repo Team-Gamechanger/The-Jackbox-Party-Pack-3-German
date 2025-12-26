@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Wie viel Prozent der Leute haben ein Guinnes Buch der Rekorde zuhause?",
+      "v": "Wie viel Prozent der Leute haben ein Guinness-Buch der Rekorde zuhause?",
       "n": "QText"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Hast du ein Guinnes Buch der Rekorde zuhause?",
+      "v": "Hast du ein Guinness-Buch der Rekorde zuhause?",
       "n": "PollQ"
     },
     {
